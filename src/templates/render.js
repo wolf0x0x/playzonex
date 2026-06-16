@@ -1,4 +1,5 @@
 const site = require("../data/site");
+const locales = require("../data/locales");
 
 const LANGUAGES = ["en", "es", "pt", "fr", "de", "ja", "zh"];
 const GA_ID = process.env.PLAYZONEX_GA_ID || "";
@@ -116,6 +117,7 @@ const i18n = {
     steam: { title: "Steam Picks", desc: "Steam free games, deal tracking and new releases." },
     blooket: { title: "Blooket Tips", desc: "Classroom modes, coin efficiency and event strategies." },
     wordle: { title: "Wordle Daily Answer & Tips", desc: "Hints, step-by-step reveals and starter word suggestions." },
+    edu: { title: "Edu Games Hub", desc: "Blooket, Wordle, Kahoot and Gimkit guides for classroom play and daily brain training." },
     gearPage: { title: "Gaming Gear Recommendations", desc: "Affordable gear for online games, Roblox, Minecraft and Steam players.", cta: "View Recommendations" },
     about: { title: "About PlayZoneX", desc: "Content principles, data sources and collaboration information." },
     guide: { eyebrow: "Guide", articleTitle: "Core Content", quickStart: "Quick Start", updateTitle: "Update Strategy", faqTitle: "FAQ", faqUpdate: "How often is this updated?", faqUpdateAnswer: "Core data updates daily or every 4 hours; guides are maintained as events and versions change.", faqDownload: "Do you provide direct game downloads?", faqDownloadAnswer: "No. We only provide navigation, guides and recommendations; game links point to official platforms.", relatedTitle: "Related" },
@@ -149,6 +151,7 @@ const i18n = {
     steam: { title: "Recomendaciones Steam", desc: "Juegos gratis Steam, seguimiento de ofertas y novedades." },
     blooket: { title: "Consejos Blooket", desc: "Modos de clase, eficiencia de monedas y estrategias de eventos." },
     wordle: { title: "Respuesta Diaria Wordle y Consejos", desc: "Pistas, revelación paso a paso y palabras iniciales recomendadas." },
+    edu: { title: "Centro de Juegos Educativos", desc: "Guías de Blooket, Wordle, Kahoot y Gimkit para el aula y entrenamiento cerebral diario." },
     gearPage: { title: "Recomendaciones de Equipos de Juego", desc: "Equipos asequibles para juegos online, Roblox, Minecraft y Steam.", cta: "Ver Recomendaciones" },
     about: { title: "Sobre PlayZoneX", desc: "Principios de contenido, fuentes de datos e información de colaboración." },
     guide: { eyebrow: "Guía", articleTitle: "Contenido Principal", quickStart: "Inicio Rápido", updateTitle: "Estrategia de Actualización", faqTitle: "Preguntas Frecuentes", faqUpdate: "¿Con qué frecuencia se actualiza?", faqUpdateAnswer: "Los datos principales se actualizan diariamente o cada 4 horas; las guías se mantienen según eventos y versiones.", faqDownload: "¿Proporcionáis descargas directas?", faqDownloadAnswer: "No. Solo ofrecemos navegación, guías y recomendaciones; los enlaces apuntan a plataformas oficiales.", relatedTitle: "Relacionado" },
@@ -182,6 +185,7 @@ const i18n = {
     steam: { title: "Recomendações Steam", desc: "Jogos grátis Steam, acompanhamento de ofertas e lançamentos." },
     blooket: { title: "Dicas Blooket", desc: "Modos de sala de aula, eficiência de moedas e estratégias de eventos." },
     wordle: { title: "Resposta Diária Wordle e Dicas", desc: "Dicas, revelação passo a passo e palavras iniciais recomendadas." },
+    edu: { title: "Centro de Jogos Educacionais", desc: "Guias de Blooket, Wordle, Kahoot e Gimkit para sala de aula e treino cerebral diário." },
     gearPage: { title: "Recomendações de Equipamentos de Jogo", desc: "Equipamentos acessíveis para jogos online, Roblox, Minecraft e Steam.", cta: "Ver Recomendações" },
     about: { title: "Sobre PlayZoneX", desc: "Princípios de conteúdo, fontes de dados e informações de colaboração." },
     guide: { eyebrow: "Guia", articleTitle: "Conteúdo Principal", quickStart: "Início Rápido", updateTitle: "Estratégia de Atualização", faqTitle: "Perguntas Frequentes", faqUpdate: "Com que frequência isso é atualizado?", faqUpdateAnswer: "Os dados principais são atualizados diariamente ou a cada 4 horas; os guias são mantidos conforme eventos e versões mudam.", faqDownload: "Vocês fornecem downloads diretos de jogos?", faqDownloadAnswer: "Não. Oferecemos apenas navegação, guias e recomendações; os links dos jogos apontam para plataformas oficiais.", relatedTitle: "Relacionado" },
@@ -215,6 +219,7 @@ const i18n = {
     steam: { title: "Recommandations Steam", desc: "Jeux gratuits Steam, suivi des offres et nouveautés." },
     blooket: { title: "Astuces Blooket", desc: "Modes classe, efficacité des pièces et stratégies d'événements." },
     wordle: { title: "Réponse Quotidienne Wordle et Astuces", desc: "Indices, révélation progressive et suggestions de mots de départ." },
+    edu: { title: "Centre de Jeux Éducatifs", desc: "Astuces Blooket, Wordle, Kahoot et Gimkit pour la classe et l'entraînement cérébral quotidien." },
     gearPage: { title: "Recommandations de Matériel de Jeu", desc: "Matériel abordable pour les joueurs en ligne, Roblox, Minecraft et Steam.", cta: "Voir les Recommandations" },
     about: { title: "À Propos de PlayZoneX", desc: "Principes de contenu, sources de données et informations de collaboration." },
     guide: { eyebrow: "Guide", articleTitle: "Contenu Principal", quickStart: "Démarrage Rapide", updateTitle: "Stratégie de Mise à Jour", faqTitle: "FAQ", faqUpdate: "À quelle fréquence cela est-il mis à jour ?", faqUpdateAnswer: "Les données principales sont mises à jour quotidiennement ou toutes les 4 heures ; les guides sont maintenus selon les événements et versions.", faqDownload: "Proposez-vous des téléchargements directs de jeux ?", faqDownloadAnswer: "Non. Nous fournissons uniquement navigation, guides et recommandations ; les liens vers les jeux pointent vers les plateformes officielles.", relatedTitle: "Liens Connexes" },
@@ -248,6 +253,7 @@ const i18n = {
     steam: { title: "Steam-Empfehlungen", desc: "Kostenlose Steam-Spiele, Deal-Tracking und Neuerscheinungen." },
     blooket: { title: "Blooket-Tipps", desc: "Klassenmodi, Münz-Effizienz und Event-Strategien." },
     wordle: { title: "Wordle Tägliche Antwort & Tipps", desc: "Hinweise, schrittweise Auflösung und empfohlene Startwörter." },
+    edu: { title: "Lernspiele-Zentrum", desc: "Blooket-, Wordle-, Kahoot- und Gimkit-Guides für den Unterricht und tägliches Gehirntraining." },
     gearPage: { title: "Gaming-Equipment-Empfehlungen", desc: " erschwingliches Equipment für Online-Spiele, Roblox, Minecraft und Steam-Spieler.", cta: "Empfehlungen Ansehen" },
     about: { title: "Über PlayZoneX", desc: "Inhaltsgrundsätze, Datenquellen und Kooperationsinformationen." },
     guide: { eyebrow: "Guide", articleTitle: "Kerninhalte", quickStart: "Schnellstart", updateTitle: "Update-Strategie", faqTitle: "FAQ", faqUpdate: "Wie oft wird dies aktualisiert?", faqUpdateAnswer: "Kern Daten werden täglich oder alle 4 Stunden aktualisiert; Guides werden je nach Events und Versionen gepflegt.", faqDownload: "Bietet ihr direkte Spiel-Downloads an?", faqDownloadAnswer: "Nein. Wir bieten nur Navigation, Guides und Empfehlungen; Spiel-Links führen zu offiziellen Plattformen.", relatedTitle: "Verwandte Links" },
@@ -281,6 +287,7 @@ const i18n = {
     steam: { title: "Steam おすすめ", desc: "Steam無料ゲーム、割引追跡、新作情報。" },
     blooket: { title: "Blooket コツ", desc: "クラスモード、コイン効率、イベント戦略。" },
     wordle: { title: "Wordle 今日の答えとコツ", desc: "ヒント、段階的な答え、おすすめの始めの言葉。" },
+    edu: { title: "教育ゲームハブ", desc: "教室向けBlooket、Wordle、Kahoot、Gimkitガイドと毎日の脳トレ。" },
     gearPage: { title: "ゲーミンググッズおすすめ", desc: "オンラインゲーム、Roblox、Minecraft、Steamプレイヤー向けのコスパグッズ。", cta: "おすすめを見る" },
     about: { title: "PlayZoneX について", desc: "コンテンツ方針、データソース、コラボレーション情報。" },
     guide: { eyebrow: "攻略", articleTitle: "核心コンテンツ", quickStart: "クイックスタート", updateTitle: "更新方針", faqTitle: "よくある質問", faqUpdate: "どのくらいの頻度で更新されますか？", faqUpdateAnswer: "核心データは毎日または4時間ごとに更新。攻略はイベントやバージョン変化に応じてメンテナンスされます。", faqDownload: "ゲームの直接ダウンロードは提供していますか？", faqDownloadAnswer: "いいえ。当サイトはナビゲーション、攻略、おすすめのみを提供し、ゲームリンクは公式プラットフォームへ飛びます。", relatedTitle: "関連リンク" },
@@ -314,6 +321,7 @@ const i18n = {
     steam: { title: "Steam 推荐", desc: "免费游戏、折扣追踪、新品评测和适合休闲玩家的低门槛选择。" },
     blooket: { title: "Blooket 玩法与技巧", desc: "课堂模式、金币效率、活动玩法。" },
     wordle: { title: "Wordle 每日答案 + 攻略", desc: "保留提示、分步揭晓、开局词建议。" },
+    edu: { title: "教育游戏专区", desc: "Blooket、Wordle、Kahoot、Gimkit 课堂与每日脑力训练指南。" },
     gearPage: { title: "游戏设备推荐", desc: "针对在线小游戏、Roblox、Minecraft 与 Steam 休闲玩家的高性价比设备清单。", cta: "查看推荐" },
     about: { title: "关于 PlayZoneX", desc: "PlayZoneX 是一个静态优先的游戏导航与攻略站，专注合规外链、清晰分类和可持续更新。" },
     guide: { eyebrow: "攻略", articleTitle: "核心内容", quickStart: "快速上手", updateTitle: "更新策略", faqTitle: "常见问题", faqUpdate: "多久更新？", faqUpdateAnswer: "核心数据按每日或每 4 小时更新，攻略内容按活动和版本变化维护。", faqDownload: "是否直接提供游戏下载？", faqDownloadAnswer: "不提供。本站只做导航、攻略与推荐，游戏入口跳转官方平台。", relatedTitle: "相关入口" },
@@ -328,6 +336,37 @@ const i18n = {
 function t(lang, key) {
   const dict = i18n[lang] || i18n.en;
   return key.split(".").reduce((o, k) => (o && o[k] != null ? o[k] : ""), dict) || "";
+}
+
+/**
+ * 翻译过滤器函数：在 render 期扫描硬编码中/英文文本并替换为目标语区文本。
+ * @param {string} text 需要被翻译的基准文本
+ * @param {string} lang 当前渲染的目标语言
+ */
+function __(text, lang = "en") {
+  if (locales[lang] && locales[lang][text]) {
+    return locales[lang][text];
+  }
+  return text;
+}
+
+/**
+ * 针对数组型数据（如分类、攻略卡片）进行深度本地化拷贝，避免污染原始数据。
+ * @param {Array|Object} data 原始数据
+ * @param {string} lang 目标语言
+ */
+function translateDataForLang(data, lang) {
+  if (!data) return data;
+  const localizedData = JSON.parse(JSON.stringify(data));
+  if (Array.isArray(localizedData)) {
+    return localizedData.map((item) => {
+      if (item.title) item.title = __(item.title, lang);
+      if (item.desc) item.desc = __(item.desc, lang);
+      if (item.kicker) item.kicker = __(item.kicker, lang);
+      return item;
+    });
+  }
+  return localizedData;
 }
 
 function esc(text = "") {
@@ -428,12 +467,19 @@ function pageMeta(page, lang) {
   if (page.type === "steam") return { title: `${map.steam.title} - PlayZoneX`, desc: map.steam.desc };
   if (page.type === "blooket") return { title: `${map.blooket.title} - PlayZoneX`, desc: map.blooket.desc };
   if (page.type === "wordle") return { title: `${map.wordle.title} - PlayZoneX`, desc: map.wordle.desc };
+  if (page.type === "edu") return { title: `${map.edu.title} - PlayZoneX`, desc: map.edu.desc };
   if (page.type === "gear") return { title: `${map.gearPage.title} - PlayZoneX`, desc: map.gearPage.desc };
   if (page.type === "about") return { title: `${map.about.title} - PlayZoneX`, desc: map.about.desc };
-  if (page.type === "guide" && page.guide) return { title: `${page.guide.title} - PlayZoneX`, desc: page.guide.kicker };
+  if (page.guide && !["blooket", "wordle", "steam-list"].includes(page.type)) {
+    const g = translateDataForLang([page.guide], lang)[0];
+    return { title: `${g.title} - PlayZoneX`, desc: g.kicker };
+  }
   if (page.type === "codes") return { title: `${map.codes.eyebrow} - PlayZoneX`, desc: page.desc };
   if (page.type === "servers") return { title: `${map.servers.title} - PlayZoneX`, desc: map.servers.desc };
-  if (page.type === "steam-list" && page.guide) return { title: `${page.guide.title} - PlayZoneX`, desc: page.guide.kicker };
+  if (page.type === "steam-list" && page.guide) {
+    const g = translateDataForLang([page.guide], lang)[0];
+    return { title: `${g.title} - PlayZoneX`, desc: g.kicker };
+  }
   if (page.type === "detail" && page.game) return { title: `${page.game.title} - ${t(lang, "detail.official")} - PlayZoneX`, desc: `${page.game.title} game details, official play link and similar recommendations.` };
   return { title: page.title, desc: page.desc };
 }
@@ -444,10 +490,13 @@ const layout = (page, body, lang = "en") => {
   const searchIndex = [
     ...site.games.map((g) => ({ title: g.title, tags: g.category, url: `/game/${g.slug}/` })),
     ...site.codes.map((c) => ({ title: `${c.game} ${c.code}`, tags: "roblox code", url: "/roblox/codes/" })),
-    ...site.minecraftMods.map((m) => ({ title: m.name, tags: `minecraft mod ${m.focus}`, url: "/minecraft/mods/" })),
+    ...site.minecraftMods.map((m) => ({ title: m.name, tags: `minecraft mod ${__(m.focus, lang)}`, url: "/minecraft/mods/" })),
     ...site.servers.map((s) => ({ title: s.name, tags: "minecraft server", url: "/minecraft/servers/" })),
     ...site.steamDeals.map((s) => ({ title: s.title, tags: `steam ${s.list}`, url: `/steam/${s.list === "deals" ? "deals" : s.list === "new" ? "new-releases" : s.list === "top" ? "top-rated" : "free-games"}/` })),
-    ...site.pages.filter((p) => p.path !== "/").map((p) => ({ title: p.title.replace(" - PlayZoneX", ""), tags: p.nav, url: p.path }))
+    ...site.pages.filter((p) => p.path !== "/").map((p) => {
+      const meta = pageMeta(p, lang);
+      return { title: meta.title.replace(" - PlayZoneX", ""), tags: p.nav, url: p.path };
+    })
   ];
   const navLinks = nav.map(([key, href, labelKey]) => {
     const active = page.nav === key ? "active" : "";
@@ -543,7 +592,7 @@ const gameCard = (game, lang = "en") => `<article class="card" data-game-card da
   </a>
 </article>`;
 
-const categoryName = (slug, lang = "en") => categoryI18n[slug]?.[lang] || site.categories.find((c) => c.slug === slug)?.title || slug;
+const categoryName = (slug, lang = "en") => categoryI18n[slug]?.[lang] || __(site.categories.find((c) => c.slug === slug)?.title, lang) || slug;
 
 const heroSearch = (lang = "en") => `<div class="search-wrap">
   <input class="search-input" data-search placeholder="${esc(t(lang, "searchPlaceholder"))}" autocomplete="off">
@@ -564,7 +613,7 @@ const home = (lang = "en") => `<main>
   </section>
   <section class="section container">
     <div class="section-head"><div><div class="eyebrow">${esc(t(lang, "categories.eyebrow"))}</div><h2>${esc(t(lang, "categories.title"))}</h2></div><p>${esc(t(lang, "categories.subtitle"))}</p></div>
-    <div class="grid cols-4">${site.categories.slice(0, 8).map((c) => `<a class="card" href="/online-games/${c.slug}/"><div class="card-body"><div class="meta">${icon(c.icon)}<span>${c.count}+ games</span></div><h3>${esc(categoryName(c.slug, lang))}</h3><p>${esc(categoryDescI18n[c.slug]?.[lang] || c.desc)}</p></div></a>`).join("")}</div>
+    <div class="grid cols-4">${site.categories.slice(0, 8).map((c) => `<a class="card" href="/online-games/${c.slug}/"><div class="card-body"><div class="meta">${icon(c.icon)}<span>${c.count}+ ${__("games", lang)}</span></div><h3>${esc(categoryName(c.slug, lang))}</h3><p>${esc(categoryDescI18n[c.slug]?.[lang] || c.desc)}</p></div></a>`).join("")}</div>
   </section>
   <section class="section container">
     <div class="section-head"><div><div class="eyebrow">${esc(t(lang, "picks.eyebrow"))}</div><h2>${esc(t(lang, "picks.title"))}</h2></div><a class="btn secondary" href="/online-games/">${esc(t(lang, "picks.viewAll"))}</a></div>
@@ -573,7 +622,7 @@ const home = (lang = "en") => `<main>
   <section class="section container">${getAdHtml("inline", lang)}</section>
   <section class="section container">
     <div class="section-head"><div><div class="eyebrow">${esc(t(lang, "guides.eyebrow"))}</div><h2>${esc(t(lang, "guides.title"))}</h2></div><p>${esc(t(lang, "guides.subtitle"))}</p></div>
-    <div class="grid cols-3">${site.robloxGuides.slice(0, 3).map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}${site.minecraftPages.slice(0, 3).map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}${site.steamPages.slice(0, 3).map((g) => guideCard(g, `/steam/${g.slug}/`, lang)).join("")}</div>
+    <div class="grid cols-3">${translateDataForLang(site.robloxGuides, lang).slice(0, 3).map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}${translateDataForLang(site.minecraftPages, lang).slice(0, 3).map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}${translateDataForLang(site.steamPages, lang).slice(0, 3).map((g) => guideCard(g, `/steam/${g.slug}/`, lang)).join("")}</div>
   </section>
   <section class="section container"><div class="panel"><div class="section-head"><div><div class="eyebrow">${esc(t(lang, "gear.eyebrow"))}</div><h2>${esc(t(lang, "gear.title"))}</h2></div><a class="btn orange" href="/gear/">${esc(t(lang, "gearPage.cta"))}</a></div></div></section>
 </main>`;
@@ -612,27 +661,30 @@ const roblox = (lang = "en") => `<main>
     <div class="stats"><div class="stat"><strong>${site.robloxTrending.length}</strong>Tracked Experiences</div><div class="stat"><strong>${site.codes.length}</strong>Code Records</div><div class="stat"><strong>${site.robloxGuides.length}</strong>Guides</div><div class="stat"><strong>Daily</strong>Manual Watch</div></div>
   </section>
   <section class="section container"><div class="section-head"><div><div class="eyebrow">Trend Watch</div><h2>Roblox Trending Games</h2></div><a class="btn" href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div><div class="compact-list">${site.robloxTrending.map((g) => `<div class="compact-row"><strong>${esc(g.name)}</strong><span>${esc(g.players)}</span><span class="badge">${esc(g.trend)}</span></div>`).join("")}</div></section>
-  <section class="section container"><div class="section-head"><div><div class="eyebrow">${esc(t(lang, "guides.eyebrow"))}</div><h2>${esc(t(lang, "guides.title"))}</h2></div><a class="btn" href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div><div class="grid cols-3">${site.robloxGuides.map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}</div></section>
+  <section class="section container"><div class="section-head"><div><div class="eyebrow">${esc(t(lang, "guides.eyebrow"))}</div><h2>${esc(t(lang, "guides.title"))}</h2></div><a class="btn" href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div><div class="grid cols-3">${translateDataForLang(site.robloxGuides, lang).map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}</div></section>
 </main>`;
 
 const minecraft = (lang = "en") => `<main>
   ${pageHero(t(lang, "minecraft.title"), t(lang, "minecraft.desc"), site.images.minecraft, "Minecraft Station", lang)}
-  <section class="section container"><div class="split"><div class="grid cols-2">${site.minecraftPages.map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}</div><aside class="panel"><h3>${esc(t(lang, "servers.title"))}</h3>${serverTable(lang)}<a class="btn secondary" href="/minecraft/servers/">${esc(t(lang, "servers.title"))}</a></aside></div></section>
-  <section class="section container"><div class="section-head"><div><div class="eyebrow">Mods</div><h2>Popular Minecraft Mods</h2></div><a class="btn secondary" href="/minecraft/mods/">View Mods</a></div><div class="compact-list">${site.minecraftMods.slice(0, 12).map((m) => `<div class="compact-row"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(m.focus)}</span></div>`).join("")}</div></section>
+  <section class="section container"><div class="split"><div class="grid cols-2">${translateDataForLang(site.minecraftPages, lang).map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}</div><aside class="panel"><h3>${esc(t(lang, "servers.title"))}</h3>${serverTable(lang)}<a class="btn secondary" href="/minecraft/servers/">${esc(t(lang, "servers.title"))}</a></aside></div></section>
+  <section class="section container"><div class="section-head"><div><div class="eyebrow">Mods</div><h2>Popular Minecraft Mods</h2></div><a class="btn secondary" href="/minecraft/mods/">View Mods</a></div><div class="compact-list">${site.minecraftMods.slice(0, 12).map((m) => `<div class="compact-row"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(__(m.focus, lang))}</span></div>`).join("")}</div></section>
 </main>`;
 
 const steam = (lang = "en") => `<main>
   ${pageHero(t(lang, "steam.title"), t(lang, "steam.desc"), site.images.steam, "Steam Deals", lang)}
-  <section class="section container"><div class="grid cols-2">${site.steamPages.map((s) => guideCard(s, `/steam/${s.slug}/`, lang)).join("")}</div></section>
+  <section class="section container"><div class="grid cols-2">${translateDataForLang(site.steamPages, lang).map((s) => guideCard(s, `/steam/${s.slug}/`, lang)).join("")}</div></section>
 </main>`;
 
-const guide = (page, lang = "en") => `<main>
-  ${pageHero(page.guide.title, page.guide.kicker, page.guide.image, t(lang, "guide.eyebrow"), lang)}
-  <section class="section container"><div class="split"><article class="panel"><h2>${esc(t(lang, "guide.articleTitle"))}</h2>${articleBlocks(page.guide.title, lang)}${guideData(page)}${faq(page.guide.title, lang)}</article><aside class="panel">${getAdHtml("inline", lang)}<h3>${esc(t(lang, "guide.relatedTitle"))}</h3>${relatedLinks(page.nav, lang)}</aside></div></section>
+const guide = (page, lang = "en") => {
+  const g = translateDataForLang([page.guide], lang)[0];
+  return `<main>
+  ${pageHero(g.title, g.kicker, g.image, t(lang, "guide.eyebrow"), lang)}
+  <section class="section container"><div class="split"><article class="panel"><h2>${esc(t(lang, "guide.articleTitle"))}</h2>${articleBlocks(g.title, lang)}${guideData(page, lang)}${faq(g.title, lang)}</article><aside class="panel">${getAdHtml("inline", lang)}<h3>${esc(t(lang, "guide.relatedTitle"))}</h3>${relatedLinks(page.nav, lang)}</aside></div></section>
 </main>`;
+};
 
-const guideData = (page) => {
-  if (page.path === "/minecraft/mods/") return `<h3>Recommended Mods</h3><div class="compact-list">${site.minecraftMods.map((m) => `<a class="compact-row" rel="nofollow noopener" href="${m.url}"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(m.focus)}</span></a>`).join("")}</div>`;
+const guideData = (page, lang = "en") => {
+  if (page.path === "/minecraft/mods/") return `<h3>Recommended Mods</h3><div class="compact-list">${site.minecraftMods.map((m) => `<a class="compact-row" rel="nofollow noopener" href="${m.url}"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(__(m.focus, lang))}</span></a>`).join("")}</div>`;
   if (page.path === "/minecraft/builds/") return `<h3>Build Tutorials</h3><div class="compact-list">${site.minecraftBuilds.map((b) => `<div class="compact-row"><strong>${esc(b.title)}</strong><span>${esc(b.difficulty)}</span><span>${esc(b.materials)}</span></div>`).join("")}</div>`;
   if (page.path === "/minecraft/seeds/") return `<h3>Seed List</h3><div class="compact-list">${site.minecraftSeeds.map((s) => `<div class="compact-row"><strong>${esc(s.seed)}</strong><span>${esc(s.highlight)}</span></div>`).join("")}</div>`;
   if (page.path === "/minecraft/commands/") return `<h3>Command Cheatsheet</h3><div class="command-grid">${site.minecraftCommands.map((cmd) => `<code>${esc(cmd)}</code>`).join("")}</div>`;
@@ -653,7 +705,7 @@ const relatedLinks = (navKey, lang = "en") => {
 };
 
 const codes = (page, lang = "en") => `<main>
-  ${pageHero(t(lang, "codes.eyebrow"), page.desc, site.images.cyber, t(lang, "codes.eyebrow"), lang)}
+  ${pageHero(t(lang, "codes.eyebrow"), __(page.desc, lang), site.images.cyber, t(lang, "codes.eyebrow"), lang)}
   <section class="section container"><div class="split"><div class="panel"><h2>${esc(t(lang, "codes.eyebrow"))}</h2>${site.codes.map((c) => `<div class="code-row"><div><strong>${esc(c.code)}</strong><div class="meta">${esc(c.game)} · ${esc(c.reward)} · ${esc(c.lastChecked)} · <span class="status ${c.status}">${esc(t(lang, `status.${c.status}`))}</span></div></div><button class="copy-code" data-copy="${esc(c.code)}">${esc(t(lang, "codes.copy"))}</button></div>`).join("")}</div><aside class="panel">${getAdHtml("inline", lang)}<p>${esc(t(lang, "codes.note"))}</p><p>Data source: manual redemption watch and official/community announcement checks. Always verify in-game before trading.</p></aside></div></section>
 </main>`;
 
@@ -664,19 +716,22 @@ const servers = (page, lang = "en") => `<main>
   <section class="section container"><div class="toolbar"><div class="meta">${esc(t(lang, "servers.source"))}: Minecraft Server Status API | Updated: <span data-server-updated>${new Date().toISOString().slice(0, 10)}</span></div><button class="btn" data-refresh-servers>${esc(t(lang, "servers.refresh"))}</button></div><div class="panel">${serverTable(lang)}</div></section>
 </main>`;
 
-const steamList = (page, lang = "en") => `<main>
-  ${pageHero(cleanTitle(page.title), page.desc, page.guide.image, "Steam", lang)}
+const steamList = (page, lang = "en") => {
+  const g = translateDataForLang([page.guide], lang)[0];
+  return `<main>
+  ${pageHero(g.title, g.kicker, g.image, "Steam", lang)}
   <section class="section container"><div class="grid cols-3">${site.steamDeals.filter((g) => g.list === page.guide.list).map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge green">${esc(g.price)}</span><h3>${esc(g.title)}</h3><p>${esc(g.rating)} · ${esc(t(lang, "steam.desc"))}</p><div class="spark">${g.history.map((v) => `<i style="height:${v}%"></i>`).join("")}</div><a class="btn secondary" rel="nofollow noopener" href="${g.url}">Steam</a></div></article>`).join("")}</div></section>
 </main>`;
+};
 
 const edu = (lang = "en") => `<main>
-  ${pageHero("Edu Games Hub", "Blooket, Wordle, Kahoot and Gimkit guides for classroom play and daily brain training.", site.images.blooket, t(lang, "nav.edu"), lang)}
-  <section class="section container"><div class="grid cols-2">${site.eduPages.map((e) => guideCard(e, `/edu-games/${e.slug}/`, lang)).join("")}</div></section>
+  ${pageHero(t(lang, "edu.title"), t(lang, "edu.desc"), site.images.blooket, t(lang, "nav.edu"), lang)}
+  <section class="section container"><div class="grid cols-2">${translateDataForLang(site.eduPages, lang).map((e) => guideCard(e, `/edu-games/${e.slug}/`, lang)).join("")}</div></section>
 </main>`;
 
 const blooket = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "blooket.title"), t(lang, "blooket.desc"), page.guide.image, "Edu Games", lang)}
-  <section class="section container"><div class="grid cols-3">${site.blooketModes.map((m, i) => `<article class="card"><div class="card-body"><span class="badge">${esc(m.mode)}</span><h3>${esc(m.goal)}</h3><p>${esc(m.tip)}</p><progress value="${70 + i * 4}" max="100" style="width:100%"></progress></div></article>`).join("")}</div></section>
+  <section class="section container"><div class="grid cols-3">${site.blooketModes.map((m, i) => `<article class="card"><div class="card-body"><span class="badge">${esc(m.mode)}</span><h3>${esc(__(m.goal, lang))}</h3><p>${esc(__(m.tip, lang))}</p><progress value="${70 + i * 4}" max="100" style="width:100%"></progress></div></article>`).join("")}</div></section>
 </main>`;
 
 const wordle = (page, lang = "en") => `<main>
@@ -686,7 +741,7 @@ const wordle = (page, lang = "en") => `<main>
 
 const gear = (lang = "en") => `<main>
   ${pageHero(t(lang, "gearPage.title"), t(lang, "gearPage.desc"), site.images.gear, "Affiliate Gear", lang)}
-  <section class="section container"><div class="grid cols-3">${site.gear.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge orange">${g.price}</span><h3>${esc(g.title)}</h3><p>${esc(g.spec)}</p><p class="meta">${esc(g.disclosure)}</p><a class="btn secondary" rel="sponsored nofollow noopener" href="${g.url}">${esc(t(lang, "gearPage.cta"))}</a></div></article>`).join("")}</div></section>
+  <section class="section container"><div class="grid cols-3">${site.gear.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge orange">${g.price}</span><h3>${esc(g.title)}</h3><p>${esc(__(g.spec, lang))}</p><p class="meta">${esc(g.disclosure)}</p><a class="btn secondary" rel="sponsored nofollow noopener" href="${g.url}">${esc(t(lang, "gearPage.cta"))}</a></div></article>`).join("")}</div></section>
 </main>`;
 
 const legal = (page, lang = "en") => `<main>
@@ -732,4 +787,4 @@ const renderBody = (page, lang = "en") => {
 
 const renderPage = (page, lang = "en") => layout(page, renderBody(page, lang), lang);
 
-module.exports = { renderPage, LANGUAGES, pageUrl };
+module.exports = { renderPage, LANGUAGES, pageUrl, __, translateDataForLang };
