@@ -15,6 +15,8 @@ const slugify = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace
 const localCover = (slug) => `/assets/game-covers/${slug}.svg`;
 const localGear = (slug) => `/assets/gear/${slug}.svg`;
 const localGuide = (slug) => `/assets/guide-covers/${slug}.svg`;
+const localDownload = (kind, file) => `/assets/downloads/${kind}/${file}`;
+const MAX_IMAGE_BYTES = 6 * 1024 * 1024;
 
 async function fetchText(url, options = {}) {
   const controller = new AbortController();
@@ -37,6 +39,31 @@ async function fetchText(url, options = {}) {
   }
 }
 
+async function fetchBinary(url, options = {}) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), options.timeout || 12000);
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      redirect: "follow",
+      headers: {
+        "user-agent": "PlayZoneXBot/1.0 (+https://playzonex.xyz/)",
+        "accept": "image/avif,image/webp,image/png,image/jpeg,image/svg+xml;q=0.8,*/*;q=0.5"
+      }
+    });
+    if (!res.ok) return null;
+    const contentType = (res.headers.get("content-type") || "").split(";")[0].trim().toLowerCase();
+    if (!contentType.startsWith("image/")) return null;
+    const bytes = Buffer.from(await res.arrayBuffer());
+    if (!bytes.length || bytes.length > MAX_IMAGE_BYTES) return null;
+    return { url: res.url || url, bytes, contentType };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function extractOgImage(html) {
   if (!html) return "";
   const patterns = [
@@ -49,6 +76,41 @@ function extractOgImage(html) {
     if (match?.[1]) return match[1].replace(/&amp;/g, "&");
   }
   return "";
+}
+
+function resolveUrl(value, baseUrl) {
+  if (!value) return "";
+  try {
+    return new URL(value, baseUrl).toString();
+  } catch {
+    return "";
+  }
+}
+
+function imageExt(contentType, url = "") {
+  const byType = {
+    "image/jpeg": "jpg",
+    "image/jpg": "jpg",
+    "image/png": "png",
+    "image/webp": "webp",
+    "image/avif": "avif",
+    "image/svg+xml": "svg"
+  };
+  if (byType[contentType]) return byType[contentType];
+  const match = url.toLowerCase().match(/\.([a-z0-9]{3,4})(?:[?#]|$)/);
+  return match ? match[1].replace("jpeg", "jpg") : "jpg";
+}
+
+async function downloadImage(url, kind, slug) {
+  if (!url) return "";
+  const result = await fetchBinary(url);
+  if (!result) return "";
+  const ext = imageExt(result.contentType, result.url);
+  const fileName = `${slug}.${ext}`;
+  const file = path.join(root, "src/assets/downloads", kind, fileName);
+  mkdir(path.dirname(file));
+  fs.writeFileSync(file, result.bytes);
+  return localDownload(kind, fileName);
 }
 
 function svgCover(game) {
@@ -149,7 +211,7 @@ async function syncGame(game) {
     const page = await fetchText(candidate);
     if (!page) continue;
     verifiedUrl = page.url || candidate;
-    ogImage = extractOgImage(page.body);
+    ogImage = resolveUrl(extractOgImage(page.body), verifiedUrl);
     break;
   }
   const coverFile = path.join(root, "src/assets/game-covers", `${slug}.svg`);
@@ -157,11 +219,13 @@ async function syncGame(game) {
     mkdir(path.dirname(coverFile));
     fs.writeFileSync(coverFile, svgCover(game));
   }
+  const downloadedImage = await downloadImage(ogImage, "game-covers", slug);
   return {
     officialUrl: verifiedUrl || game.officialUrl,
     linkStatus: verifiedUrl ? "verified" : "candidate",
-    image: localCover(slug),
+    image: downloadedImage || localCover(slug),
     remoteImage: ogImage || null,
+    imageSource: downloadedImage ? "downloaded-og-image" : "generated-svg-fallback",
     rating: null,
     plays: "Not tracked",
     checkedAt: today
@@ -203,17 +267,25 @@ async function syncSteam() {
       ["deals", data.specials?.items || []],
       ["new", data.new_releases?.items || []]
     ];
-    return groups.flatMap(([list, items]) => items.slice(0, 8).map((item) => ({
-      title: item.name,
-      price: item.final_price === 0 ? "Free" : item.discount_percent ? `-${item.discount_percent}%` : `$${(item.final_price / 100).toFixed(2)}`,
-      rating: item.review_summary || "Steam listing",
-      url: `https://store.steampowered.com/app/${item.id}/`,
-      list,
-      image: item.header_image,
-      history: [],
-      source: "Steam Store featuredcategories",
-      checkedAt: today
-    })));
+    const entries = [];
+    for (const [list, items] of groups) {
+      for (const item of items.slice(0, 8)) {
+        const image = await downloadImage(item.header_image, "steam", String(item.id));
+        entries.push({
+          title: item.name,
+          price: item.final_price === 0 ? "Free" : item.discount_percent ? `-${item.discount_percent}%` : `$${(item.final_price / 100).toFixed(2)}`,
+          rating: item.review_summary || "Steam listing",
+          url: `https://store.steampowered.com/app/${item.id}/`,
+          list,
+          image: image || item.header_image,
+          remoteImage: item.header_image || null,
+          history: [],
+          source: "Steam Store featuredcategories",
+          checkedAt: today
+        });
+      }
+    }
+    return entries;
   } catch {
     return [];
   }
@@ -244,6 +316,8 @@ function syncGuideAssets() {
   mkdir(path.join(root, "src/assets/game-covers"));
   mkdir(path.join(root, "src/assets/gear"));
   mkdir(path.join(root, "src/assets/guide-covers"));
+  mkdir(path.join(root, "src/assets/downloads/game-covers"));
+  mkdir(path.join(root, "src/assets/downloads/steam"));
   const gameEntries = {};
   for (const game of site.games) {
     gameEntries[game.slug] = await syncGame(game);

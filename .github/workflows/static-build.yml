@@ -5,11 +5,11 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"
-    - cron: "0 */4 * * *"
+    # 01:00 Asia/Shanghai every day.
+    - cron: "0 17 * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -32,10 +32,26 @@ jobs:
         with:
           node-version: 24
       - uses: actions/configure-pages@v5
-      - run: npm run sync:data
+      - name: Sync data and local assets
+        run: npm run sync:data
+        env:
+          PLAYZONEX_AMAZON_TAG: ${{ secrets.PLAYZONEX_AMAZON_TAG }}
+      - name: Commit scheduled data updates
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/generated.json src/data/sync-state.json src/assets/game-covers src/assets/gear src/assets/guide-covers src/assets/downloads
+          if git diff --cached --quiet; then
+            echo "No data or asset changes to commit."
+          else
+            git commit -m "Sync PlayZoneX data [skip ci]"
+            git push
+          fi
       - name: Build static pages
         run: npm run build
         env:
+          PLAYZONEX_AMAZON_TAG: ${{ secrets.PLAYZONEX_AMAZON_TAG }}
           PLAYZONEX_GA_ID: ${{ secrets.PLAYZONEX_GA_ID }}
           PLAYZONEX_AD_CLIENT: ${{ secrets.PLAYZONEX_AD_CLIENT }}
           PLAYZONEX_AD_SLOT_TOP: ${{ secrets.PLAYZONEX_AD_SLOT_TOP }}
