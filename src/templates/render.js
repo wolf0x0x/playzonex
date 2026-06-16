@@ -2,7 +2,7 @@ const site = require("../data/site");
 const locales = require("../data/locales");
 
 const LANGUAGES = ["en", "es", "pt", "fr", "de", "ja", "zh"];
-const GA_ID = process.env.PLAYZONEX_GA_ID || "";
+const GA_ID = process.env.PLAYZONEX_GA_ID || "G-BMP3Y085QW";
 const AD_CLIENT = process.env.PLAYZONEX_AD_CLIENT || "";
 const DOMAIN = "https://playzonex.xyz";
 
@@ -514,9 +514,19 @@ const layout = (page, body, lang = "en") => {
     schema.aggregateRating = { "@type": "AggregateRating", ratingValue: page.game.rating, bestRating: "5" };
     schema.url = page.game.officialUrl;
   }
+  const googleTag = GA_ID ? `  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '${GA_ID}');
+  </script>
+` : "";
   return `<!doctype html>
 <html lang="${lang}${lang === "zh" ? "-CN" : ""}">
 <head>
+${googleTag}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>${esc(meta.title)}</title>
@@ -537,8 +547,6 @@ const layout = (page, body, lang = "en") => {
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="stylesheet" href="/assets/styles.css">
   ${AD_CLIENT ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${AD_CLIENT}" crossorigin="anonymous"></script>` : ""}
-  ${GA_ID ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');</script>` : ""}
   <script type="application/ld+json">${JSON.stringify(schema)}</script>
 </head>
 <body>
