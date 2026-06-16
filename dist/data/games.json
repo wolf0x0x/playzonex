@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "cyber-rage-phantom",
+    "title": "赛博之怒：幻影任务",
+    "category": "action",
+    "rating": 4.9,
+    "plays": "2.4M",
+    "tags": [
+      "Hot",
+      "New"
+    ],
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://poki.com/"
+  },
+  {
+    "slug": "neon-drift",
+    "title": "Neon Drift Racer",
+    "category": "racing",
+    "rating": 4.8,
+    "plays": "1.8M",
+    "tags": [
+      "Racing"
+    ],
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://www.crazygames.com/"
+  },
+  {
+    "slug": "logic-grid",
+    "title": "Logic Grid Quest",
+    "category": "puzzle",
+    "rating": 4.7,
+    "plays": "920K",
+    "tags": [
+      "Puzzle"
+    ],
+    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://poki.com/"
+  },
+  {
+    "slug": "arena-shot",
+    "title": "Arena Shot Alpha",
+    "category": "shooting",
+    "rating": 4.6,
+    "plays": "1.1M",
+    "tags": [
+      "Skill"
+    ],
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://www.crazygames.com/"
+  },
+  {
+    "slug": "street-kick",
+    "title": "Street Kick League",
+    "category": "sports",
+    "rating": 4.5,
+    "plays": "780K",
+    "tags": [
+      "Sports"
+    ],
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://poki.com/"
+  },
+  {
+    "slug": "tiny-kingdom",
+    "title": "Tiny Kingdom Tactics",
+    "category": "strategy",
+    "rating": 4.7,
+    "plays": "640K",
+    "tags": [
+      "Strategy"
+    ],
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://www.crazygames.com/"
+  },
+  {
+    "slug": "party-stack",
+    "title": "Party Stack Online",
+    "category": "multiplayer",
+    "rating": 4.8,
+    "plays": "1.6M",
+    "tags": [
+      "Co-op"
+    ],
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://poki.com/"
+  },
+  {
+    "slug": "orbit-io",
+    "title": "Orbit.io Clash",
+    "category": "io-games",
+    "rating": 4.4,
+    "plays": "540K",
+    "tags": [
+      ".io"
+    ],
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=80",
+    "officialUrl": "https://www.crazygames.com/"
+  }
+]

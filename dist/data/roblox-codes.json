@@ -1,0 +1,22 @@
+[
+  {
+    "code": "PLAYZONEX2026",
+    "reward": "Starter boost",
+    "status": "active"
+  },
+  {
+    "code": "FRUITQUEST",
+    "reward": "XP x2 for 20 min",
+    "status": "active"
+  },
+  {
+    "code": "PIXELSKIN",
+    "reward": "Avatar item",
+    "status": "checking"
+  },
+  {
+    "code": "SUMMERDROP",
+    "reward": "Event coins",
+    "status": "expired"
+  }
+]

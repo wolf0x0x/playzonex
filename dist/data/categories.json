@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "action",
+    "title": "动作游戏",
+    "icon": "zap",
+    "color": "blue",
+    "desc": "高节奏闯关、格斗、跑酷与反应挑战。",
+    "count": 1240
+  },
+  {
+    "slug": "puzzle",
+    "title": "益智游戏",
+    "icon": "puzzle",
+    "color": "violet",
+    "desc": "脑洞谜题、物理关卡、数字与逻辑训练。",
+    "count": 980
+  },
+  {
+    "slug": "racing",
+    "title": "竞速游戏",
+    "icon": "gauge",
+    "color": "orange",
+    "desc": "漂移、越野、城市赛道与极速挑战。",
+    "count": 730
+  },
+  {
+    "slug": "shooting",
+    "title": "射击游戏",
+    "icon": "crosshair",
+    "color": "pink",
+    "desc": "轻量射击、瞄准训练与团队竞技推荐。",
+    "count": 860
+  },
+  {
+    "slug": "sports",
+    "title": "体育游戏",
+    "icon": "trophy",
+    "color": "green",
+    "desc": "足球、篮球、滑板、台球和街机运动。",
+    "count": 650
+  },
+  {
+    "slug": "strategy",
+    "title": "策略游戏",
+    "icon": "route",
+    "color": "amber",
+    "desc": "塔防、经营、战术棋盘与资源管理。",
+    "count": 540
+  },
+  {
+    "slug": "multiplayer",
+    "title": "多人游戏",
+    "icon": "users",
+    "color": "cyan",
+    "desc": "和朋友一起玩的派对、合作与竞技游戏。",
+    "count": 1120
+  },
+  {
+    "slug": "io-games",
+    "title": ".io 游戏",
+    "icon": "orbit",
+    "color": "lime",
+    "desc": "即开即玩的多人竞技和轻量生存玩法。",
+    "count": 430
+  }
+]

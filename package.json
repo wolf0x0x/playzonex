@@ -1,0 +1,21 @@
+{
+  "name": "playzonex",
+  "version": "1.0.0",
+  "description": "PlayZoneX.xyz static gaming discovery site",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "sync:data": "node scripts/sync-data.js",
+    "serve": "python3 -m http.server 4173"
+  },
+  "keywords": [
+    "games",
+    "roblox",
+    "minecraft",
+    "steam",
+    "wordle",
+    "blooket"
+  ],
+  "author": "PlayZoneX",
+  "license": "MIT"
+}

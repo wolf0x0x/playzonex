@@ -1,0 +1,9 @@
+{
+  "name": "PlayZoneX",
+  "short_name": "PlayZoneX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#13121b",
+  "theme_color": "#4f46e5",
+  "icons": []
+}

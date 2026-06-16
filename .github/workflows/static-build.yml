@@ -1,0 +1,28 @@
+name: Static build
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 22 * * *"
+    - cron: "0 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run sync:data
+      - run: npm run build
+      - name: Commit generated static pages
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[auto] static content sync"
+          file_pattern: "index.html online-games roblox minecraft steam blooket wordle gear about game assets data sitemap.xml robots.txt manifest.webmanifest src/data/sync-state.json"
