@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-06-16T08:42:38.815Z",
-  "steam": "unavailable",
-  "minecraft": "unavailable",
+  "checkedAt": "2026-06-16T08:56:28.632Z",
+  "steam": "synced-steam-featuredcategories",
+  "minecraft": "synced-mcsrvstat",
   "roblox": "watchlist-no-public-api",
   "wordle": "no-answer-republication",
-  "games": "local-covers-generated",
+  "games": "verified-links-and-local-covers",
   "note": "Generated data avoids formula-made metrics and unverifiable active claims. Missing live providers are surfaced as unavailable or watchlist status."
 }
