@@ -1,19 +1,29 @@
-const asset = (id, w = 1200, h = 760) =>
-  `https://images.unsplash.com/${id}?auto=format&fit=crop&w=${w}&h=${h}&q=82`;
+const fs = require("fs");
+const path = require("path");
+
+const generated = (() => {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(__dirname, "generated.json"), "utf8"));
+  } catch {
+    return {};
+  }
+})();
+
+const guideAsset = (slug) => `/assets/guide-covers/${slug}.svg`;
 
 const images = {
-  arcade: asset("photo-1511512578047-dfb367046420"),
-  cyber: asset("photo-1542751371-adc38448a05e"),
-  racing: asset("photo-1511882150382-421056c89033"),
-  puzzle: asset("photo-1606167668584-78701c57f13d"),
-  roblox: asset("photo-1612287230202-1ff1d85d1bdf"),
-  minecraft: asset("photo-1605901309584-818e25960a8f"),
-  steam: asset("photo-1493711662062-fa541adb3fc8"),
-  blooket: asset("photo-1523240795612-9a054b0db644"),
-  wordle: asset("photo-1455390582262-044cdead277a"),
-  gear: asset("photo-1598550476439-6847785fcea6"),
-  board: asset("photo-1611996575749-79a3a250f948"),
-  controller: asset("photo-1606144042614-b2417e99c4e3")
+  arcade: guideAsset("arcade"),
+  cyber: guideAsset("cyber"),
+  racing: guideAsset("racing"),
+  puzzle: guideAsset("puzzle"),
+  roblox: guideAsset("roblox"),
+  minecraft: guideAsset("minecraft"),
+  steam: guideAsset("steam"),
+  blooket: guideAsset("blooket"),
+  wordle: guideAsset("wordle"),
+  gear: guideAsset("gear"),
+  board: guideAsset("board"),
+  controller: guideAsset("controller")
 };
 
 const categories = [
@@ -28,7 +38,6 @@ const categories = [
 ];
 
 const slugify = (text) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-const gameImages = [images.cyber, images.racing, images.puzzle, images.arcade, images.steam, images.minecraft, images.roblox, images.controller, images.board, images.gear];
 const official = {
   "Subway Surfers": "https://poki.com/en/g/subway-surfers",
   "Moto X3M": "https://poki.com/en/g/moto-x3m",
@@ -51,6 +60,7 @@ const official = {
   "Drive Mad": "https://poki.com/en/g/drive-mad",
   "Venge.io": "https://venge.io/"
 };
+const exactPlatformUrl = (slug) => `https://www.crazygames.com/game/${slug}`;
 
 const gameSeeds = [
   ["Subway Surfers", "action", ["Runner", "Popular"]], ["Temple Run 2", "action", ["Runner", "Mobile"]], ["Vex 7", "action", ["Platform", "Skill"]], ["Stickman Hook", "action", ["Physics", "Skill"]],
@@ -86,11 +96,12 @@ const games = gameSeeds.map(([title, category, tags], index) => ({
   slug: slugify(title),
   title,
   category,
-  rating: Number((4.35 + ((index * 7) % 48) / 100).toFixed(1)),
-  plays: `${(1.2 + (index % 36) * 0.23).toFixed(1)}M`,
+  rating: generated.games?.[slugify(title)]?.rating ?? null,
+  plays: generated.games?.[slugify(title)]?.plays ?? "Not tracked",
   tags,
-  image: gameImages[index % gameImages.length],
-  officialUrl: official[title] || `https://www.crazygames.com/search?q=${encodeURIComponent(title)}`,
+  image: generated.games?.[slugify(title)]?.image || `/assets/game-covers/${slugify(title)}.svg`,
+  officialUrl: generated.games?.[slugify(title)]?.officialUrl || official[title] || exactPlatformUrl(slugify(title)),
+  linkStatus: generated.games?.[slugify(title)]?.linkStatus || (official[title] ? "verified" : "candidate"),
   desc: `${title} 是 PlayZoneX 收录的 ${categories.find((c) => c.slug === category).title} 推荐条目，适合快速了解玩法、官方入口和同类选择。`
 }));
 
@@ -105,17 +116,18 @@ const robloxGuides = [
   { slug: "skins", title: "Roblox 皮肤获取指南", kicker: "免费外观、活动奖励、UGC 搭配和安全提醒。", image: images.controller }
 ];
 
-const robloxTrending = [
+const robloxWatchlist = [
   "Blox Fruits", "Brookhaven RP", "Adopt Me!", "Dress To Impress", "Blade Ball", "Pet Simulator 99", "Anime Vanguards", "Toilet Tower Defense", "Murder Mystery 2", "Jujutsu Infinite",
   "Tower of Hell", "Arsenal", "Doors", "BedWars", "Piggy", "Evade", "Royale High", "Build A Boat For Treasure", "Bee Swarm Simulator", "The Strongest Battlegrounds",
   "Anime Defenders", "Fisch", "Grow a Garden", "Sol's RNG", "Meme Sea", "King Legacy", "Shindo Life", "Pls Donate", "Combat Warriors", "Car Crushers 2",
   "Theme Park Tycoon 2", "Natural Disaster Survival", "Restaurant Tycoon 2", "Livetopia", "Welcome to Bloxburg", "Jailbreak", "MeepCity", "Driving Empire", "Creatures of Sonaria", "Untitled Boxing Game",
   "A Dusty Trip", "SpongeBob Tower Defense", "Anime Last Stand", "Fruit Battlegrounds", "Da Hood", "Arm Wrestle Simulator", "Dungeon Quest", "Ninja Legends", "Mega Mansion Tycoon", "Type Soul"
-].map((name, index) => ({
+];
+const robloxTrending = generated.robloxTrending?.length ? generated.robloxTrending : robloxWatchlist.map((name) => ({
   name,
-  players: `${(8 + (index * 13) % 420).toLocaleString()}K`,
-  trend: index % 3 === 0 ? "rising" : index % 3 === 1 ? "stable" : "event",
-  source: "Manual trend watch"
+  players: "Not tracked",
+  trend: "watchlist",
+  source: "Awaiting verified public API"
 }));
 
 const minecraftPages = [
@@ -134,11 +146,12 @@ const minecraftMods = [
   ["Distant Horizons", "1.20-1.21", "远景渲染"], ["YUNG's Better Mineshafts", "1.20", "结构增强"]
 ].map(([name, version, focus]) => ({ name, version, focus, url: `https://www.curseforge.com/minecraft/search?search=${encodeURIComponent(name)}` }));
 
-const servers = [
-  ["Hypixel", "mc.hypixel.net", "Java 1.8-1.21", "42,000+", "active"], ["Complex Gaming", "hub.mc-complex.com", "Java/Bedrock", "3,200+", "active"], ["Purple Prison", "purpleprison.net", "Java", "1,100+", "active"],
-  ["OPBlocks", "hub.opblocks.com", "Java", "1,500+", "active"], ["MineSuperior", "hub.mcs.gg", "Java", "900+", "active"], ["TheArchon", "pvp.thearchon.net", "Java", "1,000+", "active"],
-  ["ManaCube", "play.manacube.com", "Java", "1,200+", "active"], ["Pixelmon Realms", "play.pixelmonrealms.com", "Java", "700+", "active"], ["CubeCraft", "play.cubecraft.net", "Java/Bedrock", "9,000+", "active"], ["Mineplex", "us.mineplex.com", "Bedrock", "checking", "checking"]
-].map(([name, address, version, players, status]) => ({ name, address, version, players, status, source: "Public server listing/manual check" }));
+const serverCatalog = [
+  ["Hypixel", "mc.hypixel.net", "Java 1.8-1.21"], ["Complex Gaming", "hub.mc-complex.com", "Java/Bedrock"], ["Purple Prison", "purpleprison.net", "Java"],
+  ["OPBlocks", "hub.opblocks.com", "Java"], ["MineSuperior", "hub.mcs.gg", "Java"], ["TheArchon", "pvp.thearchon.net", "Java"],
+  ["ManaCube", "play.manacube.com", "Java"], ["Pixelmon Realms", "play.pixelmonrealms.com", "Java"], ["CubeCraft", "play.cubecraft.net", "Java/Bedrock"], ["Mineplex", "us.mineplex.com", "Bedrock"]
+].map(([name, address, version]) => ({ name, address, version, players: "Not checked", status: "checking", source: "Awaiting server status sync" }));
+const servers = generated.servers?.length ? generated.servers : serverCatalog;
 
 const minecraftBuilds = ["Starter Survival Base", "Cherry Grove Cottage", "Compact Medieval Castle", "Auto-Sorting Storage Room", "Hidden Redstone Door"].map((title, i) => ({
   title,
@@ -158,25 +171,7 @@ const steamPages = [
   { slug: "top-rated", title: "Steam 高分好评", kicker: "高好评率、低门槛和长期值得收藏的作品。", image: images.board, list: "top" }
 ];
 
-const steamDeals = [
-  ["Counter-Strike 2", "Free", "Very Positive", "https://store.steampowered.com/app/730/CounterStrike_2/", "free"], ["Dota 2", "Free", "Very Positive", "https://store.steampowered.com/app/570/Dota_2/", "free"],
-  ["Warframe", "Free", "Very Positive", "https://store.steampowered.com/app/230410/Warframe/", "free"], ["Apex Legends", "Free", "Mixed", "https://store.steampowered.com/app/1172470/Apex_Legends/", "free"],
-  ["Team Fortress 2", "Free", "Very Positive", "https://store.steampowered.com/app/440/Team_Fortress_2/", "free"], ["Path of Exile", "Free", "Very Positive", "https://store.steampowered.com/app/238960/Path_of_Exile/", "free"],
-  ["Stardew Valley", "-40%", "Overwhelmingly Positive", "https://store.steampowered.com/app/413150/Stardew_Valley/", "deals"], ["Hades", "-50%", "Overwhelmingly Positive", "https://store.steampowered.com/app/1145360/Hades/", "deals"],
-  ["Terraria", "-50%", "Overwhelmingly Positive", "https://store.steampowered.com/app/105600/Terraria/", "deals"], ["Balatro", "-20%", "Overwhelmingly Positive", "https://store.steampowered.com/app/2379780/Balatro/", "deals"],
-  ["Blue Prince", "New", "Very Positive", "https://store.steampowered.com/search/?sort_by=Released_DESC&term=Blue%20Prince", "new"], ["Clair Obscur: Expedition 33", "New", "Very Positive", "https://store.steampowered.com/search/?term=Clair%20Obscur%20Expedition%2033", "new"],
-  ["Schedule I", "New", "Very Positive", "https://store.steampowered.com/search/?term=Schedule%20I", "new"], ["R.E.P.O.", "New", "Very Positive", "https://store.steampowered.com/search/?term=R.E.P.O.", "new"],
-  ["Portal 2", "Top", "Overwhelmingly Positive", "https://store.steampowered.com/app/620/Portal_2/", "top"], ["Left 4 Dead 2", "Top", "Overwhelmingly Positive", "https://store.steampowered.com/app/550/Left_4_Dead_2/", "top"],
-  ["Hollow Knight", "Top", "Overwhelmingly Positive", "https://store.steampowered.com/app/367520/Hollow_Knight/", "top"], ["Vampire Survivors", "Top", "Overwhelmingly Positive", "https://store.steampowered.com/app/1794680/Vampire_Survivors/", "top"]
-].map(([title, price, rating, url, list], i) => ({
-  title,
-  price,
-  rating,
-  url,
-  list,
-  image: gameImages[(i + 3) % gameImages.length],
-  history: [100, 88 - (i % 6) * 4, 76 - (i % 5) * 3, 64 - (i % 4) * 4]
-}));
+const steamDeals = generated.steamDeals?.length ? generated.steamDeals : [];
 
 const eduPages = [
   { slug: "blooket", title: "Blooket 玩法与技巧", kicker: "课堂模式、金币效率、活动玩法和题组运营。", image: images.blooket },
@@ -191,36 +186,24 @@ const blooketModes = ["Gold Quest", "Tower Defense 2", "Cafe", "Monster Brawl", 
   tip: ["先保底再偷取", "优先猫头鹰与龙", "先升级速度", "走位比伤害更重要", "不要把现金一次押满", "错题后立刻回看题组"][i]
 }));
 
-const wordleHistory = [
-  "GLINT", "BRAVE", "PLANT", "CHORD", "SWEET", "MIRTH", "CLOUD", "FRAME", "POINT", "SHARE",
-  "BLEND", "CROWN", "TRAIL", "SPICE", "FROST", "LEMON", "DRIVE", "QUIET", "TRACE", "STONE",
-  "GRACE", "FLARE", "BRICK", "OCEAN", "SMILE", "VIVID", "HONEY", "RANGE", "SLATE", "CRISP"
-].map((answer, index) => ({ date: `2026-05-${String(18 + index).padStart(2, "0")}`.replace("2026-05-32", "2026-06-01").replace("2026-05-33", "2026-06-02").replace("2026-05-34", "2026-06-03").replace("2026-05-35", "2026-06-04").replace("2026-05-36", "2026-06-05").replace("2026-05-37", "2026-06-06").replace("2026-05-38", "2026-06-07").replace("2026-05-39", "2026-06-08").replace("2026-05-40", "2026-06-09").replace("2026-05-41", "2026-06-10").replace("2026-05-42", "2026-06-11").replace("2026-05-43", "2026-06-12").replace("2026-05-44", "2026-06-13").replace("2026-05-45", "2026-06-14").replace("2026-05-46", "2026-06-15").replace("2026-05-47", "2026-06-16"), answer, source: "PlayZoneX practice archive" }));
+const wordleHistory = generated.wordleHistory || [];
 
-const codeGames = ["Blox Fruits", "King Legacy", "Pet Simulator 99", "Blade Ball", "Dress To Impress", "Anime Vanguards", "Toilet Tower Defense", "Anime Defenders", "Fruit Battlegrounds", "Shindo Life"];
-const codeWords = ["UPDATE", "RELEASE", "THANKS", "EVENT", "LUCKY"];
-const codes = codeGames.flatMap((game, gameIndex) => codeWords.map((word, codeIndex) => ({
-  game,
-  code: `${word}${gameIndex + 1}${codeIndex + 6}`,
-  reward: ["Boosts", "Gems", "Coins", "Spin", "Cosmetic"][codeIndex],
-  status: "active",
-  lastChecked: "2026-06-16",
-  source: "Manual redemption watch"
-})));
+const codes = generated.codes || [];
 
-const amazonSearch = (term) => `https://www.amazon.com/s?k=${encodeURIComponent(term)}`;
+const amazonProduct = (asin, tag = process.env.PLAYZONEX_AMAZON_TAG || "") =>
+  `https://www.amazon.com/dp/${asin}${tag ? `?tag=${encodeURIComponent(tag)}` : ""}`;
 const gear = [
-  ["Logitech G305 Lightspeed Mouse", "$39-$59", "低延迟 2.4GHz、轻量机身、适合 FPS 与 Roblox。", "gaming wireless mouse"],
-  ["Razer DeathAdder Essential", "$24-$39", "经典人体工学外形，适合长时间在线小游戏。", "Razer DeathAdder Essential"],
-  ["SteelSeries Rival 3", "$29-$49", "耐用微动、RGB、适合入门桌面。", "SteelSeries Rival 3"],
-  ["Keychron C3 Pro Keyboard", "$36-$49", "机械轴、紧凑布局、适合 Minecraft 指令输入。", "Keychron C3 Pro keyboard"],
-  ["Redragon K552 Keyboard", "$39-$55", "87 键机械键盘，预算友好。", "Redragon K552"],
-  ["HyperX Cloud Stinger 2", "$39-$59", "轻量耳机、清晰麦克风，适合语音组队。", "HyperX Cloud Stinger 2"],
-  ["SteelSeries Arctis Nova 1", "$49-$69", "舒适耳罩、跨平台兼容。", "SteelSeries Arctis Nova 1"],
-  ["Xbox Wireless Controller", "$44-$64", "Steam 与网页游戏手柄体验。", "Xbox Wireless Controller"],
-  ["8BitDo Ultimate 2C", "$29-$39", "低延迟手柄，适合休闲竞速与平台跳跃。", "8BitDo Ultimate 2C"],
-  ["Blue Light Blocking Glasses", "$15-$29", "长时间攻略与学习游戏使用。", "gaming blue light glasses"]
-].map(([title, price, spec, query], i) => ({ title, price, spec, image: gameImages[(i + 5) % gameImages.length], url: amazonSearch(query), disclosure: "Amazon product search. Availability, reviews and price may change." }));
+  ["Logitech G305 Lightspeed Mouse", "$39-$59", "低延迟 2.4GHz、轻量机身、适合 FPS 与 Roblox。", "B07CMS5Q6P"],
+  ["Razer DeathAdder Essential", "$24-$39", "经典人体工学外形，适合长时间在线小游戏。", "B094PS5RZQ"],
+  ["SteelSeries Rival 3", "$29-$49", "耐用微动、RGB、适合入门桌面。", "B08176SM7C"],
+  ["Keychron C3 Pro Keyboard", "$36-$49", "机械轴、紧凑布局、适合 Minecraft 指令输入。", "B0CBWJ9SKX"],
+  ["Redragon K552 Keyboard", "$39-$55", "87 键机械键盘，预算友好。", "B016MAK38U"],
+  ["HyperX Cloud Stinger 2", "$39-$59", "轻量耳机、清晰麦克风，适合语音组队。", "B0BCFKG49M"],
+  ["SteelSeries Arctis Nova 1", "$49-$69", "舒适耳罩、跨平台兼容。", "B09ZWCYQTX"],
+  ["Xbox Wireless Controller", "$44-$64", "Steam 与网页游戏手柄体验。", "B08DF248LD"],
+  ["8BitDo Ultimate 2C", "$29-$39", "低延迟手柄，适合休闲竞速与平台跳跃。", "B0D72TNX9F"],
+  ["Blue Light Blocking Glasses", "$15-$29", "长时间攻略与学习游戏使用。", "B07F1VGGLK"]
+].map(([title, price, spec, asin]) => ({ title, price, spec, image: `/assets/gear/${slugify(title)}.svg`, url: amazonProduct(asin), asin, disclosure: process.env.PLAYZONEX_AMAZON_TAG ? "Amazon affiliate product link. Availability, reviews and price may change." : "Amazon product link. Configure PLAYZONEX_AMAZON_TAG to enable affiliate attribution." }));
 
 const legalPages = [
   { path: "/privacy/", type: "legal", title: "Privacy Policy", desc: "PlayZoneX privacy, analytics and advertising disclosure.", nav: "about", legal: "privacy" },

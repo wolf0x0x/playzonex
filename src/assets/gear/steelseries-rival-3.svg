@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".55" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+  <rect width="920" height="430" rx="34" fill="url(#g)"/>
+  <rect x="90" y="96" width="740" height="184" rx="58" fill="#020617" opacity=".42" stroke="#7dd3fc" stroke-width="8"/>
+  <circle cx="270" cy="188" r="38" fill="#7dd3fc"/><circle cx="650" cy="174" r="18" fill="#fbbf24"/><circle cx="710" cy="214" r="18" fill="#f472b6"/>
+  <text x="70" y="350" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="46" font-weight="800">SteelSeries Rival 3</text>
+</svg>

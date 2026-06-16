@@ -1,7 +1,9 @@
 {
-  "checkedAt": "2026-06-16T12:00:00.000Z",
-  "steam": "curated-static",
-  "minecraft": "public-status-watch",
-  "roblox": "manual-redemption-watch",
-  "note": "Production build publishes curated public links, status tables and verification timestamps without making unverifiable live API claims."
+  "checkedAt": "2026-06-16T08:42:38.815Z",
+  "steam": "unavailable",
+  "minecraft": "unavailable",
+  "roblox": "watchlist-no-public-api",
+  "wordle": "no-answer-republication",
+  "games": "local-covers-generated",
+  "note": "Generated data avoids formula-made metrics and unverifiable active claims. Missing live providers are surfaced as unavailable or watchlist status."
 }

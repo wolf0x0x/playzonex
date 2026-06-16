@@ -1,0 +1,1424 @@
+{
+  "checkedAt": "2026-06-16T08:42:38.815Z",
+  "games": {
+    "2048": {
+      "officialUrl": "https://play2048.co/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/2048.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "subway-surfers": {
+      "officialUrl": "https://poki.com/en/g/subway-surfers",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/subway-surfers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "temple-run-2": {
+      "officialUrl": "https://poki.com/en/g/temple-run-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/temple-run-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "vex-7": {
+      "officialUrl": "https://www.crazygames.com/game/vex-7",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/vex-7.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "stickman-hook": {
+      "officialUrl": "https://www.crazygames.com/game/stickman-hook",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/stickman-hook.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "stick-merge": {
+      "officialUrl": "https://www.crazygames.com/game/stick-merge",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/stick-merge.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "ovo": {
+      "officialUrl": "https://www.crazygames.com/game/ovo",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/ovo.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "fireboy-and-watergirl": {
+      "officialUrl": "https://www.crazygames.com/game/fireboy-and-watergirl",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/fireboy-and-watergirl.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "friday-night-funkin": {
+      "officialUrl": "https://www.newgrounds.com/portal/view/770371",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/friday-night-funkin.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bad-ice-cream": {
+      "officialUrl": "https://www.crazygames.com/game/bad-ice-cream",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bad-ice-cream.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "super-mario-flash": {
+      "officialUrl": "https://www.crazygames.com/game/super-mario-flash",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/super-mario-flash.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "dino-game": {
+      "officialUrl": "https://www.crazygames.com/game/dino-game",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/dino-game.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "ninja-hands": {
+      "officialUrl": "https://www.crazygames.com/game/ninja-hands",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/ninja-hands.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "wordle": {
+      "officialUrl": "https://www.nytimes.com/games/wordle/index.html",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/wordle.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "tetris": {
+      "officialUrl": "https://tetris.com/play-tetris",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/tetris.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "cut-the-rope": {
+      "officialUrl": "https://www.crazygames.com/game/cut-the-rope",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/cut-the-rope.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "little-alchemy-2": {
+      "officialUrl": "https://littlealchemy2.com/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/little-alchemy-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "sudoku": {
+      "officialUrl": "https://www.crazygames.com/game/sudoku",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/sudoku.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "nonogram": {
+      "officialUrl": "https://www.crazygames.com/game/nonogram",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/nonogram.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "mahjong-connect": {
+      "officialUrl": "https://www.crazygames.com/game/mahjong-connect",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/mahjong-connect.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "minesweeper": {
+      "officialUrl": "https://www.crazygames.com/game/minesweeper",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/minesweeper.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "unblock-me": {
+      "officialUrl": "https://www.crazygames.com/game/unblock-me",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/unblock-me.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "water-sort": {
+      "officialUrl": "https://www.crazygames.com/game/water-sort",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/water-sort.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "hexa-sort": {
+      "officialUrl": "https://www.crazygames.com/game/hexa-sort",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/hexa-sort.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "moto-x3m": {
+      "officialUrl": "https://poki.com/en/g/moto-x3m",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/moto-x3m.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "drift-hunters": {
+      "officialUrl": "https://www.crazygames.com/game/drift-hunters",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/drift-hunters.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "drive-mad": {
+      "officialUrl": "https://poki.com/en/g/drive-mad",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/drive-mad.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "madalin-stunt-cars-2": {
+      "officialUrl": "https://www.crazygames.com/game/madalin-stunt-cars-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/madalin-stunt-cars-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "highway-racer": {
+      "officialUrl": "https://www.crazygames.com/game/highway-racer",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/highway-racer.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "hill-climb-racing": {
+      "officialUrl": "https://www.crazygames.com/game/hill-climb-racing",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/hill-climb-racing.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "burnout-drift": {
+      "officialUrl": "https://www.crazygames.com/game/burnout-drift",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/burnout-drift.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "super-bike-the-champion": {
+      "officialUrl": "https://www.crazygames.com/game/super-bike-the-champion",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/super-bike-the-champion.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "soccar": {
+      "officialUrl": "https://www.crazygames.com/game/soccar",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/soccar.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "parking-fury": {
+      "officialUrl": "https://www.crazygames.com/game/parking-fury",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/parking-fury.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "city-car-driving": {
+      "officialUrl": "https://www.crazygames.com/game/city-car-driving",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/city-car-driving.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "monster-truck-destroyer": {
+      "officialUrl": "https://www.crazygames.com/game/monster-truck-destroyer",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/monster-truck-destroyer.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "shell-shockers": {
+      "officialUrl": "https://shellshock.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/shell-shockers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "krunker": {
+      "officialUrl": "https://krunker.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/krunker.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "venge-io": {
+      "officialUrl": "https://venge.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/venge-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "1v1-lol": {
+      "officialUrl": "https://www.crazygames.com/game/1v1-lol",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/1v1-lol.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bullet-force": {
+      "officialUrl": "https://www.crazygames.com/game/bullet-force",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bullet-force.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "forward-assault": {
+      "officialUrl": "https://www.crazygames.com/game/forward-assault",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/forward-assault.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "zombs-royale": {
+      "officialUrl": "https://www.crazygames.com/game/zombs-royale",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/zombs-royale.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "time-shooter-2": {
+      "officialUrl": "https://www.crazygames.com/game/time-shooter-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/time-shooter-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "funny-shooter-2": {
+      "officialUrl": "https://www.crazygames.com/game/funny-shooter-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/funny-shooter-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "rooftop-snipers": {
+      "officialUrl": "https://www.crazygames.com/game/rooftop-snipers",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/rooftop-snipers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "zombie-mission": {
+      "officialUrl": "https://www.crazygames.com/game/zombie-mission",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/zombie-mission.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "war-brokers": {
+      "officialUrl": "https://www.crazygames.com/game/war-brokers",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/war-brokers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "basketball-stars": {
+      "officialUrl": "https://poki.com/en/g/basketball-stars",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/basketball-stars.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "basket-random": {
+      "officialUrl": "https://www.crazygames.com/game/basket-random",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/basket-random.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "football-legends": {
+      "officialUrl": "https://www.crazygames.com/game/football-legends",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/football-legends.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "soccer-skills-euro-cup": {
+      "officialUrl": "https://www.crazygames.com/game/soccer-skills-euro-cup",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/soccer-skills-euro-cup.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "retro-bowl": {
+      "officialUrl": "https://www.crazygames.com/game/retro-bowl",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/retro-bowl.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "8-ball-pool": {
+      "officialUrl": "https://www.crazygames.com/game/8-ball-pool",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/8-ball-pool.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "penalty-shooters-2": {
+      "officialUrl": "https://www.crazygames.com/game/penalty-shooters-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/penalty-shooters-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "boxing-random": {
+      "officialUrl": "https://www.crazygames.com/game/boxing-random",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/boxing-random.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "skate-hooligans": {
+      "officialUrl": "https://www.crazygames.com/game/skate-hooligans",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/skate-hooligans.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "table-tennis-world-tour": {
+      "officialUrl": "https://www.crazygames.com/game/table-tennis-world-tour",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/table-tennis-world-tour.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "golf-orbit": {
+      "officialUrl": "https://www.crazygames.com/game/golf-orbit",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/golf-orbit.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "snow-rider-3d": {
+      "officialUrl": "https://www.crazygames.com/game/snow-rider-3d",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/snow-rider-3d.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bloons-tower-defense": {
+      "officialUrl": "https://www.crazygames.com/game/bloons-tower-defense",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bloons-tower-defense.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "kingdom-rush": {
+      "officialUrl": "https://www.crazygames.com/game/kingdom-rush",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/kingdom-rush.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "plants-vs-zombies": {
+      "officialUrl": "https://www.crazygames.com/game/plants-vs-zombies",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/plants-vs-zombies.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "chess-online": {
+      "officialUrl": "https://www.crazygames.com/game/chess-online",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/chess-online.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "checkers": {
+      "officialUrl": "https://www.crazygames.com/game/checkers",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/checkers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "risky-wars": {
+      "officialUrl": "https://www.crazygames.com/game/risky-wars",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/risky-wars.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "mini-metro": {
+      "officialUrl": "https://www.crazygames.com/game/mini-metro",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/mini-metro.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "idle-miner": {
+      "officialUrl": "https://www.crazygames.com/game/idle-miner",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/idle-miner.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bitlife": {
+      "officialUrl": "https://www.crazygames.com/game/bitlife",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bitlife.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "paper-minecraft": {
+      "officialUrl": "https://www.crazygames.com/game/paper-minecraft",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/paper-minecraft.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "forge-of-empires": {
+      "officialUrl": "https://www.crazygames.com/game/forge-of-empires",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/forge-of-empires.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "merge-round-racers": {
+      "officialUrl": "https://www.crazygames.com/game/merge-round-racers",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/merge-round-racers.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "skribbl-io": {
+      "officialUrl": "https://skribbl.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/skribbl-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "gartic-phone": {
+      "officialUrl": "https://www.crazygames.com/game/gartic-phone",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/gartic-phone.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "among-us-online": {
+      "officialUrl": "https://www.crazygames.com/game/among-us-online",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/among-us-online.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bonk-io": {
+      "officialUrl": "https://www.crazygames.com/game/bonk-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bonk-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "getaway-shootout": {
+      "officialUrl": "https://www.crazygames.com/game/getaway-shootout",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/getaway-shootout.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "duo-survival": {
+      "officialUrl": "https://www.crazygames.com/game/duo-survival",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/duo-survival.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "basketbros": {
+      "officialUrl": "https://www.crazygames.com/game/basketbros",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/basketbros.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "house-of-hazards": {
+      "officialUrl": "https://www.crazygames.com/game/house-of-hazards",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/house-of-hazards.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "minibattles": {
+      "officialUrl": "https://www.crazygames.com/game/minibattles",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/minibattles.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "stickman-party": {
+      "officialUrl": "https://www.crazygames.com/game/stickman-party",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/stickman-party.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "bomb-it": {
+      "officialUrl": "https://www.crazygames.com/game/bomb-it",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/bomb-it.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "ludo-king": {
+      "officialUrl": "https://www.crazygames.com/game/ludo-king",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/ludo-king.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "agar-io": {
+      "officialUrl": "https://agar.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/agar-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "slither-io": {
+      "officialUrl": "https://slither.io/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/slither-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "diep-io": {
+      "officialUrl": "https://www.crazygames.com/game/diep-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/diep-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "paper-io-2": {
+      "officialUrl": "https://www.crazygames.com/game/paper-io-2",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/paper-io-2.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "hole-io": {
+      "officialUrl": "https://www.crazygames.com/game/hole-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/hole-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "wormszone-io": {
+      "officialUrl": "https://www.crazygames.com/game/wormszone-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/wormszone-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "mope-io": {
+      "officialUrl": "https://www.crazygames.com/game/mope-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/mope-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "surviv-io": {
+      "officialUrl": "https://www.crazygames.com/game/surviv-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/surviv-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "starve-io": {
+      "officialUrl": "https://www.crazygames.com/game/starve-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/starve-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "zombs-io": {
+      "officialUrl": "https://www.crazygames.com/game/zombs-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/zombs-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "deeeep-io": {
+      "officialUrl": "https://www.crazygames.com/game/deeeep-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/deeeep-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "brutal-io": {
+      "officialUrl": "https://www.crazygames.com/game/brutal-io",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/brutal-io.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "blooket": {
+      "officialUrl": "https://www.crazygames.com/game/blooket",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/blooket.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "kahoot": {
+      "officialUrl": "https://www.crazygames.com/game/kahoot",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/kahoot.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "gimkit": {
+      "officialUrl": "https://www.crazygames.com/game/gimkit",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/gimkit.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "geoguessr": {
+      "officialUrl": "https://www.geoguessr.com/",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/geoguessr.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "quick-draw": {
+      "officialUrl": "https://www.crazygames.com/game/quick-draw",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/quick-draw.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "codecombat": {
+      "officialUrl": "https://www.crazygames.com/game/codecombat",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/codecombat.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "prodigy-math": {
+      "officialUrl": "https://www.crazygames.com/game/prodigy-math",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/prodigy-math.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "typing-club": {
+      "officialUrl": "https://www.crazygames.com/game/typing-club",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/typing-club.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "coolmath-run-3": {
+      "officialUrl": "https://www.crazygames.com/game/coolmath-run-3",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/coolmath-run-3.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "papa-s-freezeria": {
+      "officialUrl": "https://www.crazygames.com/game/papa-s-freezeria",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/papa-s-freezeria.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "world-s-hardest-game": {
+      "officialUrl": "https://www.crazygames.com/game/world-s-hardest-game",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/world-s-hardest-game.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    "duck-life": {
+      "officialUrl": "https://www.crazygames.com/game/duck-life",
+      "linkStatus": "candidate",
+      "image": "/assets/game-covers/duck-life.svg",
+      "remoteImage": null,
+      "rating": null,
+      "plays": "Not tracked",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    }
+  },
+  "servers": [
+    {
+      "name": "Hypixel",
+      "address": "mc.hypixel.net",
+      "version": "Java 1.8-1.21",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Complex Gaming",
+      "address": "hub.mc-complex.com",
+      "version": "Java/Bedrock",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Purple Prison",
+      "address": "purpleprison.net",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "OPBlocks",
+      "address": "hub.opblocks.com",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "MineSuperior",
+      "address": "hub.mcs.gg",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "TheArchon",
+      "address": "pvp.thearchon.net",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "ManaCube",
+      "address": "play.manacube.com",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Pixelmon Realms",
+      "address": "play.pixelmonrealms.com",
+      "version": "Java",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "CubeCraft",
+      "address": "play.cubecraft.net",
+      "version": "Java/Bedrock",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Mineplex",
+      "address": "us.mineplex.com",
+      "version": "Bedrock",
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    }
+  ],
+  "steamDeals": [],
+  "robloxTrending": [
+    {
+      "name": "Blox Fruits",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Brookhaven RP",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Adopt Me!",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Dress To Impress",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Blade Ball",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Pet Simulator 99",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Anime Vanguards",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Toilet Tower Defense",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Murder Mystery 2",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Jujutsu Infinite",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Tower of Hell",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Arsenal",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Doors",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "BedWars",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Piggy",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Evade",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Royale High",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Build A Boat For Treasure",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Bee Swarm Simulator",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "The Strongest Battlegrounds",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Anime Defenders",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Fisch",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Grow a Garden",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Sol's RNG",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Meme Sea",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "King Legacy",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Shindo Life",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Pls Donate",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Combat Warriors",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Car Crushers 2",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Theme Park Tycoon 2",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Natural Disaster Survival",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Restaurant Tycoon 2",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Livetopia",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Welcome to Bloxburg",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Jailbreak",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "MeepCity",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Driving Empire",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Creatures of Sonaria",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Untitled Boxing Game",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "A Dusty Trip",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "SpongeBob Tower Defense",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Anime Last Stand",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Fruit Battlegrounds",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Da Hood",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Arm Wrestle Simulator",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Dungeon Quest",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Ninja Legends",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Mega Mansion Tycoon",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    },
+    {
+      "name": "Type Soul",
+      "players": "Not tracked",
+      "trend": "watchlist",
+      "source": "No public unauthenticated API configured",
+      "checkedAt": "2026-06-16T08:42:38.815Z"
+    }
+  ],
+  "codes": [],
+  "wordleHistory": []
+}

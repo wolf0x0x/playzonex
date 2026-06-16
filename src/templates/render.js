@@ -435,7 +435,7 @@ const AD_SLOTS = {
 
 function getAdHtml(zone, lang = "en") {
   if (!AD_CLIENT || !AD_SLOTS[zone]) {
-    return `<div class="ad-shell ad-shell-${zone}" aria-label="Advertisement"><span>Ad slot</span></div>`;
+    return "";
   }
   const slot = AD_SLOTS[zone] || AD_SLOTS.top;
   let style = "display:block;text-align:center;";
@@ -531,7 +531,6 @@ const layout = (page, body, lang = "en") => {
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
-  <link rel="preconnect" href="https://images.unsplash.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -581,11 +580,12 @@ const footer = (lang = "en") => `<footer class="footer">
   </div>
 </footer>`;
 
-const gameCard = (game, lang = "en") => `<article class="card" data-game-card data-category="${game.category}" data-rating="${game.rating}" data-plays="${game.rating}" data-title="${esc(game.title)}">
+const ratingText = (game) => game.rating ? `★ ${game.rating}` : "Editorial pick";
+const gameCard = (game, lang = "en") => `<article class="card" data-game-card data-category="${game.category}" data-rating="${game.rating || 0}" data-plays="${game.rating || 0}" data-title="${esc(game.title)}">
   <a href="/game/${game.slug}/">
     <div class="card-img"><img src="${game.image}" alt="${esc(game.title)} screenshot" loading="lazy"></div>
     <div class="card-body">
-      <div class="meta">${game.tags.map((tag, i) => `<span class="badge ${i ? "" : "orange"}">${esc(tag)}</span>`).join("")}<span>★ ${game.rating}</span><span>${game.plays} ${t(lang, "detail.plays")}</span></div>
+      <div class="meta">${game.tags.map((tag, i) => `<span class="badge ${i ? "" : "orange"}">${esc(tag)}</span>`).join("")}<span>${esc(ratingText(game))}</span><span>${esc(game.plays)}</span></div>
       <h3>${esc(game.title)}</h3>
       <p>${categoryName(game.category, lang)} · ${t(lang, "gameCardHint")}</p>
     </div>
@@ -706,10 +706,10 @@ const relatedLinks = (navKey, lang = "en") => {
 
 const codes = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "codes.eyebrow"), __(page.desc, lang), site.images.cyber, t(lang, "codes.eyebrow"), lang)}
-  <section class="section container"><div class="split"><div class="panel"><h2>${esc(t(lang, "codes.eyebrow"))}</h2>${site.codes.map((c) => `<div class="code-row"><div><strong>${esc(c.code)}</strong><div class="meta">${esc(c.game)} · ${esc(c.reward)} · ${esc(c.lastChecked)} · <span class="status ${c.status}">${esc(t(lang, `status.${c.status}`))}</span></div></div><button class="copy-code" data-copy="${esc(c.code)}">${esc(t(lang, "codes.copy"))}</button></div>`).join("")}</div><aside class="panel">${getAdHtml("inline", lang)}<p>${esc(t(lang, "codes.note"))}</p><p>Data source: manual redemption watch and official/community announcement checks. Always verify in-game before trading.</p></aside></div></section>
+  <section class="section container"><div class="split"><div class="panel"><h2>${esc(t(lang, "codes.eyebrow"))}</h2>${site.codes.length ? site.codes.map((c) => `<div class="code-row"><div><strong>${esc(c.code)}</strong><div class="meta">${esc(c.game)} · ${esc(c.reward)} · ${esc(c.lastChecked)} · <span class="status ${c.status}">${esc(t(lang, `status.${c.status}`))}</span></div></div><button class="copy-code" data-copy="${esc(c.code)}">${esc(t(lang, "codes.copy"))}</button></div>`).join("") : `<p>No verified active codes are published right now. PlayZoneX no longer republishes generated or unverified codes.</p>`}</div><aside class="panel">${getAdHtml("inline", lang)}<p>${esc(t(lang, "codes.note"))}</p><p>Data source: official/community announcement checks only. Generated code patterns are intentionally excluded.</p></aside></div></section>
 </main>`;
 
-const serverTable = (lang = "en") => `<table class="table"><thead><tr><th>Server</th><th>Version</th><th>Players</th><th>Status</th></tr></thead><tbody>${site.servers.map((s) => `<tr><td><strong>${s.name}</strong><div class="meta">${s.address}</div></td><td>${s.version}</td><td>${s.players}</td><td><span class="status ${s.status}">${esc(t(lang, `status.${s.status}`))}</span></td></tr>`).join("")}</tbody></table>`;
+const serverTable = (lang = "en") => `<table class="table" data-server-table><thead><tr><th>Server</th><th>Version</th><th>Players</th><th>Status</th></tr></thead><tbody>${site.servers.map((s) => `<tr><td><strong>${s.name}</strong><div class="meta">${s.address}</div></td><td>${s.version}</td><td>${s.players}</td><td><span class="status ${s.status}">${esc(t(lang, `status.${s.status}`))}</span></td></tr>`).join("")}</tbody></table>`;
 
 const servers = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "servers.title"), t(lang, "servers.desc"), site.images.minecraft, "Live Status", lang)}
@@ -718,9 +718,10 @@ const servers = (page, lang = "en") => `<main>
 
 const steamList = (page, lang = "en") => {
   const g = translateDataForLang([page.guide], lang)[0];
+  const items = site.steamDeals.filter((item) => item.list === page.guide.list);
   return `<main>
   ${pageHero(g.title, g.kicker, g.image, "Steam", lang)}
-  <section class="section container"><div class="grid cols-3">${site.steamDeals.filter((g) => g.list === page.guide.list).map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge green">${esc(g.price)}</span><h3>${esc(g.title)}</h3><p>${esc(g.rating)} · ${esc(t(lang, "steam.desc"))}</p><div class="spark">${g.history.map((v) => `<i style="height:${v}%"></i>`).join("")}</div><a class="btn secondary" rel="nofollow noopener" href="${g.url}">Steam</a></div></article>`).join("")}</div></section>
+  <section class="section container">${items.length ? `<div class="grid cols-3">${items.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge green">${esc(g.price)}</span><h3>${esc(g.title)}</h3><p>${esc(g.rating)} · ${esc(t(lang, "steam.desc"))}</p><div class="spark">${(g.history || []).map((v) => `<i style="height:${v}%"></i>`).join("")}</div><a class="btn secondary" rel="nofollow noopener" href="${g.url}">Steam</a></div></article>`).join("")}</div>` : `<div class="panel"><h2>Steam data unavailable</h2><p>Live Steam Store data is not available in this build. PlayZoneX does not publish stale discount or price claims when the sync provider cannot be reached.</p></div>`}</section>
 </main>`;
 };
 
@@ -736,7 +737,7 @@ const blooket = (page, lang = "en") => `<main>
 
 const wordle = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "wordle.title"), t(lang, "wordle.desc"), page.guide.image, "Daily Puzzle", lang)}
-  <section class="section container"><div class="split"><article class="panel"><h2>${t(lang, "wordle.hints") || "Today's Hints"}</h2><p>${t(lang, "wordle.hint1") || "Hint 1: Start with a word that covers multiple vowels."}</p><p>${t(lang, "wordle.hint2") || "Hint 2: Avoid repeating letters before turn three."}</p><p>${t(lang, "wordle.hint3") || "Hint 3: Use confirmed consonants to narrow word families."}</p><button class="btn" data-reveal-wordle>${t(lang, "wordle.reveal") || "Reveal Practice Archive"}</button><div data-wordle-answer hidden class="compact-list">${site.wordleHistory.map((w) => `<div class="compact-row"><strong>${esc(w.date)}</strong><span>${esc(w.answer)}</span><span>${esc(w.source)}</span></div>`).join("")}</div></article><aside class="panel"><h3>${t(lang, "wordle.starters") || "Recommended Starters"}</h3><p>SLATE, ADIEU, ROAST ${t(lang, "wordle.startersDesc") || "cover high-frequency letters."}</p>${getAdHtml("inline", lang)}</aside></div></section>
+  <section class="section container"><div class="split"><article class="panel"><h2>${t(lang, "wordle.hints") || "Today's Hints"}</h2><p>${t(lang, "wordle.hint1") || "Hint 1: Start with a word that covers multiple vowels."}</p><p>${t(lang, "wordle.hint2") || "Hint 2: Avoid repeating letters before turn three."}</p><p>${t(lang, "wordle.hint3") || "Hint 3: Use confirmed consonants to narrow word families."}</p><button class="btn" data-reveal-wordle>${t(lang, "wordle.reveal") || "Show Answer Policy"}</button><div data-wordle-answer hidden class="compact-list">${site.wordleHistory.length ? site.wordleHistory.map((w) => `<div class="compact-row"><strong>${esc(w.date)}</strong><span>${esc(w.answer)}</span><span>${esc(w.source)}</span></div>`).join("") : `<p>PlayZoneX does not republish unverified daily Wordle answers. This page keeps strategy hints only unless a verified licensed source is configured.</p>`}</div></article><aside class="panel"><h3>${t(lang, "wordle.starters") || "Recommended Starters"}</h3><p>SLATE, ADIEU, ROAST ${t(lang, "wordle.startersDesc") || "cover high-frequency letters."}</p>${getAdHtml("inline", lang)}</aside></div></section>
 </main>`;
 
 const gear = (lang = "en") => `<main>
@@ -759,7 +760,7 @@ const detail = (page, lang = "en") => {
   return `<main class="container">
     <section class="detail-hero">
       <div class="play-cover"><img src="${g.image}" alt="${esc(g.title)}"><div class="play-overlay"><a class="play-circle" href="${g.officialUrl}" rel="nofollow noopener">${icon("play")}</a></div></div>
-      <aside class="panel"><div class="eyebrow">Game Detail</div><h1>${g.title}</h1><div class="meta"><span class="badge orange">${esc(t(lang, "detail.free"))}</span><span>★ ${g.rating}</span><span>${g.plays} ${t(lang, "detail.plays")}</span></div><p>${categoryName(g.category, lang)} ${t(lang, "gameCardHint")}</p><a class="btn" href="${g.officialUrl}" rel="nofollow noopener">${esc(t(lang, "detail.official"))}</a><a class="btn secondary" href="/online-games/${g.category}/">${esc(t(lang, "detail.moreSame"))}</a></aside>
+      <aside class="panel"><div class="eyebrow">Game Detail</div><h1>${g.title}</h1><div class="meta"><span class="badge orange">${esc(t(lang, "detail.free"))}</span><span>${esc(ratingText(g))}</span><span>${esc(g.plays)}</span><span>${esc(g.linkStatus || "candidate")}</span></div><p>${categoryName(g.category, lang)} ${t(lang, "gameCardHint")}</p><a class="btn" href="${g.officialUrl}" rel="nofollow noopener">${esc(t(lang, "detail.official"))}</a><a class="btn secondary" href="/online-games/${g.category}/">${esc(t(lang, "detail.moreSame"))}</a></aside>
     </section>
     <section class="section">${getAdHtml("inline", lang)}<div class="section-head"><div><div class="eyebrow">Similar</div><h2>${esc(t(lang, "detail.moreSame"))}</h2></div></div><div class="grid cols-4">${site.games.filter((x) => x.slug !== g.slug).slice(0, 4).map((x) => gameCard(x, lang)).join("")}</div></section>
   </main>`;
