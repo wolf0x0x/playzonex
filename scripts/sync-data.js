@@ -11,10 +11,11 @@ const writeJson = (file, data) => {
 
 writeJson(path.join(root, "src/data/sync-state.json"), {
   checkedAt: today,
-  steam: "fallback-cache",
-  minecraft: "fallback-cache",
-  roblox: "fallback-cache",
-  note: "This placeholder keeps GitHub Actions deterministic until API keys are configured."
+  steam: "curated-static",
+  minecraft: "public-status-pending",
+  roblox: "manual-review-required",
+  wordle: "strategy-only",
+  note: "Automated API credentials are not configured in this repository. The production build publishes curated links and omits unverified live claims."
 });
 
 console.log(`Data sync state updated at ${today}`);

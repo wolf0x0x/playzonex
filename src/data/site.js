@@ -26,14 +26,14 @@ const categories = [
 ];
 
 const games = [
-  { slug: "cyber-rage-phantom", title: "赛博之怒：幻影任务", category: "action", rating: 4.9, plays: "2.4M", tags: ["Hot", "New"], image: images.cyber, officialUrl: "https://poki.com/" },
-  { slug: "neon-drift", title: "Neon Drift Racer", category: "racing", rating: 4.8, plays: "1.8M", tags: ["Racing"], image: images.racing, officialUrl: "https://www.crazygames.com/" },
-  { slug: "logic-grid", title: "Logic Grid Quest", category: "puzzle", rating: 4.7, plays: "920K", tags: ["Puzzle"], image: images.puzzle, officialUrl: "https://poki.com/" },
-  { slug: "arena-shot", title: "Arena Shot Alpha", category: "shooting", rating: 4.6, plays: "1.1M", tags: ["Skill"], image: images.arcade, officialUrl: "https://www.crazygames.com/" },
-  { slug: "street-kick", title: "Street Kick League", category: "sports", rating: 4.5, plays: "780K", tags: ["Sports"], image: images.steam, officialUrl: "https://poki.com/" },
-  { slug: "tiny-kingdom", title: "Tiny Kingdom Tactics", category: "strategy", rating: 4.7, plays: "640K", tags: ["Strategy"], image: images.minecraft, officialUrl: "https://www.crazygames.com/" },
-  { slug: "party-stack", title: "Party Stack Online", category: "multiplayer", rating: 4.8, plays: "1.6M", tags: ["Co-op"], image: images.roblox, officialUrl: "https://poki.com/" },
-  { slug: "orbit-io", title: "Orbit.io Clash", category: "io-games", rating: 4.4, plays: "540K", tags: [".io"], image: images.arcade, officialUrl: "https://www.crazygames.com/" }
+  { slug: "subway-surfers", title: "Subway Surfers", category: "action", rating: 4.8, plays: "Official", tags: ["Runner", "Popular"], image: images.cyber, officialUrl: "https://poki.com/en/g/subway-surfers" },
+  { slug: "moto-x3m", title: "Moto X3M", category: "racing", rating: 4.7, plays: "Official", tags: ["Racing"], image: images.racing, officialUrl: "https://poki.com/en/g/moto-x3m" },
+  { slug: "2048", title: "2048", category: "puzzle", rating: 4.7, plays: "Official", tags: ["Puzzle"], image: images.puzzle, officialUrl: "https://play2048.co/" },
+  { slug: "shell-shockers", title: "Shell Shockers", category: "shooting", rating: 4.6, plays: "Official", tags: ["Skill"], image: images.arcade, officialUrl: "https://shellshock.io/" },
+  { slug: "basketball-stars", title: "Basketball Stars", category: "sports", rating: 4.6, plays: "Official", tags: ["Sports"], image: images.steam, officialUrl: "https://poki.com/en/g/basketball-stars" },
+  { slug: "little-alchemy-2", title: "Little Alchemy 2", category: "strategy", rating: 4.8, plays: "Official", tags: ["Strategy"], image: images.minecraft, officialUrl: "https://littlealchemy2.com/" },
+  { slug: "skribbl-io", title: "Skribbl.io", category: "multiplayer", rating: 4.6, plays: "Official", tags: ["Co-op"], image: images.roblox, officialUrl: "https://skribbl.io/" },
+  { slug: "agar-io", title: "Agar.io", category: "io-games", rating: 4.5, plays: "Official", tags: [".io"], image: images.arcade, officialUrl: "https://agar.io/" }
 ];
 
 const robloxGuides = [
@@ -64,23 +64,28 @@ const eduPages = [
 ];
 
 const servers = [
-  { name: "Hypixel", address: "mc.hypixel.net", version: "1.8-1.20", players: "54,230", status: "online" },
-  { name: "Mineplex Legacy", address: "play.mineplex.com", version: "1.20", players: "2,104", status: "online" },
-  { name: "Creative Fun", address: "play.creativefun.net", version: "1.19+", players: "728", status: "online" },
-  { name: "Survival Hub", address: "survival.playzonex.xyz", version: "1.20.6", players: "Maintenance", status: "checking" }
+  { name: "Hypixel", address: "mc.hypixel.net", version: "Java", players: "Live API", status: "checking" },
+  { name: "Complex Gaming", address: "hub.mc-complex.com", version: "Java", players: "Live API", status: "checking" },
+  { name: "Purple Prison", address: "purpleprison.net", version: "Java", players: "Live API", status: "checking" },
+  { name: "OPBlocks", address: "hub.opblocks.com", version: "Java", players: "Live API", status: "checking" }
 ];
 
 const codes = [
-  { code: "PLAYZONEX2026", reward: "Starter boost", status: "active" },
-  { code: "FRUITQUEST", reward: "XP x2 for 20 min", status: "active" },
-  { code: "PIXELSKIN", reward: "Avatar item", status: "checking" },
-  { code: "SUMMERDROP", reward: "Event coins", status: "expired" }
 ];
 
 const gear = [
-  { title: "低延迟无线鼠标", price: "$39-$79", spec: "轻量机身、2.4GHz、可编程侧键", image: images.gear },
-  { title: "入门机械键盘", price: "$49-$99", spec: "热插拔轴体、RGB、紧凑布局", image: images.arcade },
-  { title: "沉浸式游戏耳机", price: "$59-$129", spec: "虚拟环绕、降噪麦克风、舒适耳罩", image: images.steam }
+  { title: "低延迟无线鼠标", price: "$39-$79", spec: "轻量机身、2.4GHz、可编程侧键", image: images.gear, url: "https://www.rtings.com/mouse/reviews/best/gaming" },
+  { title: "入门机械键盘", price: "$49-$99", spec: "热插拔轴体、RGB、紧凑布局", image: images.arcade, url: "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming" },
+  { title: "沉浸式游戏耳机", price: "$59-$129", spec: "虚拟环绕、降噪麦克风、舒适耳罩", image: images.steam, url: "https://www.rtings.com/headphones/reviews/best/by-usage/gaming" }
+];
+
+const steamDeals = [
+  { title: "Counter-Strike 2", price: "Free", rating: "Very Positive", image: images.cyber, url: "https://store.steampowered.com/app/730/CounterStrike_2/" },
+  { title: "Dota 2", price: "Free", rating: "Very Positive", image: images.steam, url: "https://store.steampowered.com/app/570/Dota_2/" },
+  { title: "Warframe", price: "Free", rating: "Very Positive", image: images.arcade, url: "https://store.steampowered.com/app/230410/Warframe/" },
+  { title: "Apex Legends", price: "Free", rating: "Mixed", image: images.racing, url: "https://store.steampowered.com/app/1172470/Apex_Legends/" },
+  { title: "Team Fortress 2", price: "Free", rating: "Very Positive", image: images.roblox, url: "https://store.steampowered.com/app/440/Team_Fortress_2/" },
+  { title: "Path of Exile", price: "Free", rating: "Very Positive", image: images.minecraft, url: "https://store.steampowered.com/app/238960/Path_of_Exile/" }
 ];
 
 const pages = [
@@ -96,7 +101,7 @@ const pages = [
   ...eduPages.map((e) => ({ path: `/${e.slug}/`, type: e.slug, guide: e, title: `${e.title} - PlayZoneX`, desc: e.kicker, nav: "edu" })),
   { path: "/gear/", type: "gear", title: "游戏设备推荐", desc: "适合在线游戏、Roblox、Minecraft 与 Steam 玩家的高性价比设备。", nav: "gear" },
   { path: "/about/", type: "about", title: "关于 PlayZoneX", desc: "PlayZoneX 的内容原则、数据来源和合作说明。", nav: "about" },
-  { path: "/game/cyber-rage-phantom/", type: "detail", game: games[0], title: `${games[0].title} - 游戏详情`, desc: "赛博动作游戏推荐、玩法亮点、官方游玩入口与相似游戏。", nav: "online" }
+  ...games.map((game) => ({ path: `/game/${game.slug}/`, type: "detail", game, title: `${game.title} - 游戏详情`, desc: `${game.title} 官方游玩入口、玩法亮点与相似游戏推荐。`, nav: "online" }))
 ];
 
-module.exports = { images, categories, games, robloxGuides, minecraftPages, steamPages, eduPages, servers, codes, gear, pages };
+module.exports = { images, categories, games, robloxGuides, minecraftPages, steamPages, eduPages, servers, codes, gear, steamDeals, pages };

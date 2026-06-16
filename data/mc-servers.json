@@ -2,29 +2,29 @@
   {
     "name": "Hypixel",
     "address": "mc.hypixel.net",
-    "version": "1.8-1.20",
-    "players": "54,230",
-    "status": "online"
+    "version": "Java",
+    "players": "Live API",
+    "status": "checking"
   },
   {
-    "name": "Mineplex Legacy",
-    "address": "play.mineplex.com",
-    "version": "1.20",
-    "players": "2,104",
-    "status": "online"
+    "name": "Complex Gaming",
+    "address": "hub.mc-complex.com",
+    "version": "Java",
+    "players": "Live API",
+    "status": "checking"
   },
   {
-    "name": "Creative Fun",
-    "address": "play.creativefun.net",
-    "version": "1.19+",
-    "players": "728",
-    "status": "online"
+    "name": "Purple Prison",
+    "address": "purpleprison.net",
+    "version": "Java",
+    "players": "Live API",
+    "status": "checking"
   },
   {
-    "name": "Survival Hub",
-    "address": "survival.playzonex.xyz",
-    "version": "1.20.6",
-    "players": "Maintenance",
+    "name": "OPBlocks",
+    "address": "hub.opblocks.com",
+    "version": "Java",
+    "players": "Live API",
     "status": "checking"
   }
 ]

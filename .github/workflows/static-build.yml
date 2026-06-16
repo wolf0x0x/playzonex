@@ -9,20 +9,39 @@ on:
     - cron: "0 */4 * * *"
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - uses: actions/configure-pages@v5
       - run: npm run sync:data
-      - run: npm run build
-      - name: Commit generated static pages
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Build static pages
+        run: npm run build
+        env:
+          PLAYZONEX_GA_ID: ${{ secrets.PLAYZONEX_GA_ID }}
+          PLAYZONEX_AD_CLIENT: ${{ secrets.PLAYZONEX_AD_CLIENT }}
+          PLAYZONEX_AD_SLOT_TOP: ${{ secrets.PLAYZONEX_AD_SLOT_TOP }}
+          PLAYZONEX_AD_SLOT_SIDEBAR: ${{ secrets.PLAYZONEX_AD_SLOT_SIDEBAR }}
+          PLAYZONEX_AD_SLOT_INLINE: ${{ secrets.PLAYZONEX_AD_SLOT_INLINE }}
+          PLAYZONEX_AD_SLOT_BOTTOM: ${{ secrets.PLAYZONEX_AD_SLOT_BOTTOM }}
+          PLAYZONEX_ADS_TXT: ${{ secrets.PLAYZONEX_ADS_TXT }}
+      - uses: actions/upload-pages-artifact@v3
         with:
-          commit_message: "[auto] static content sync"
-          file_pattern: "index.html online-games roblox minecraft steam blooket wordle gear about game assets data sitemap.xml robots.txt manifest.webmanifest src/data/sync-state.json"
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
