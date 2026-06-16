@@ -76,11 +76,31 @@
 
   const serverRefresh = $("[data-refresh-servers]");
   if (serverRefresh) {
-    serverRefresh.addEventListener("click", () => {
-      const stamp = $("[data-server-updated]");
-      if (stamp) stamp.textContent = new Date().toLocaleString();
-      serverRefresh.textContent = "已刷新";
-      setTimeout(() => { serverRefresh.textContent = "刷新状态"; }, 1400);
+    serverRefresh.addEventListener("click", async () => {
+      const previous = serverRefresh.textContent;
+      serverRefresh.textContent = "刷新中";
+      try {
+        const response = await fetch(`/data/mc-servers.json?ts=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error("server data unavailable");
+        const servers = await response.json();
+        const tbody = $("[data-server-table] tbody");
+        if (tbody) {
+          tbody.innerHTML = servers.map((server) => `
+            <tr>
+              <td><strong>${server.name}</strong><div class="meta">${server.address}</div></td>
+              <td>${server.version}</td>
+              <td>${server.players}</td>
+              <td><span class="status ${server.status}">${server.status}</span></td>
+            </tr>
+          `).join("");
+        }
+        const stamp = $("[data-server-updated]");
+        if (stamp) stamp.textContent = new Date().toLocaleString();
+        serverRefresh.textContent = "已刷新";
+      } catch {
+        serverRefresh.textContent = "刷新失败";
+      }
+      setTimeout(() => { serverRefresh.textContent = previous; }, 1400);
     });
   }
 })();

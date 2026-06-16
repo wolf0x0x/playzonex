@@ -5,6 +5,7 @@ const { renderPage, LANGUAGES, pageUrl, __, translateDataForLang } = require("..
 
 const root = path.resolve(__dirname, "..");
 const dist = path.join(root, "dist");
+const ADS_TXT = process.env.PLAYZONEX_ADS_TXT || "google.com, pub-8695398658548679, DIRECT, f08c47fec0942fa0";
 
 const rm = (target) => {
   if (fs.existsSync(target)) fs.rmSync(target, { recursive: true, force: true, maxRetries: 5, retryDelay: 100 });
@@ -153,7 +154,7 @@ const urls = LANGUAGES.flatMap((lang) =>
 ).join("\n");
 write(path.join(dist, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 write(path.join(dist, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: https://playzonex.xyz/sitemap.xml\n");
-if (process.env.PLAYZONEX_ADS_TXT) write(path.join(dist, "ads.txt"), `${process.env.PLAYZONEX_ADS_TXT.trim()}\n`);
+write(path.join(dist, "ads.txt"), `${ADS_TXT.trim()}\n`);
 write(path.join(dist, "CNAME"), "playzonex.xyz\n");
 write(path.join(dist, ".nojekyll"), "");
 write(path.join(dist, "manifest.webmanifest"), JSON.stringify({

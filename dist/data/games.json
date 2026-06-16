@@ -3,1512 +3,1620 @@
     "slug": "subway-surfers",
     "title": "Subway Surfers",
     "category": "action",
-    "rating": 4.3,
-    "plays": "1.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Runner",
       "Popular"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/subway-surfers.png",
     "officialUrl": "https://poki.com/en/g/subway-surfers",
+    "linkStatus": "verified",
     "desc": "Subway Surfers 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "temple-run-2",
     "title": "Temple Run 2",
     "category": "action",
-    "rating": 4.4,
-    "plays": "1.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Runner",
       "Mobile"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/temple-run-2.png",
     "officialUrl": "https://poki.com/en/g/temple-run-2",
+    "linkStatus": "verified",
     "desc": "Temple Run 2 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "vex-7",
     "title": "Vex 7",
     "category": "action",
-    "rating": 4.5,
-    "plays": "1.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Platform",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Vex%207",
+    "image": "/assets/game-covers/vex-7.svg",
+    "officialUrl": "https://www.crazygames.com/t/stick",
+    "linkStatus": "verified",
     "desc": "Vex 7 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "stickman-hook",
     "title": "Stickman Hook",
     "category": "action",
-    "rating": 4.6,
-    "plays": "1.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Physics",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Stickman%20Hook",
+    "image": "/assets/downloads/game-covers/stickman-hook.jpg",
+    "officialUrl": "https://poki.com/en/g/stickman-hook",
+    "linkStatus": "verified",
     "desc": "Stickman Hook 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "stick-merge",
     "title": "Stick Merge",
     "category": "action",
-    "rating": 4.6,
-    "plays": "2.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Arcade",
       "Upgrade"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Stick%20Merge",
+    "image": "/assets/downloads/game-covers/stick-merge.png",
+    "officialUrl": "https://poki.com/en/g/stick-merge",
+    "linkStatus": "verified",
     "desc": "Stick Merge 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "ovo",
     "title": "OvO",
     "category": "action",
-    "rating": 4.7,
-    "plays": "2.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Parkour",
       "Speedrun"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=OvO",
+    "image": "/assets/downloads/game-covers/ovo.avif",
+    "officialUrl": "https://www.crazygames.com/game/ovo",
+    "linkStatus": "verified",
     "desc": "OvO 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "fireboy-and-watergirl",
     "title": "Fireboy and Watergirl",
     "category": "multiplayer",
-    "rating": 4.8,
-    "plays": "2.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Co-op",
       "Puzzle"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Fireboy%20and%20Watergirl",
+    "image": "/assets/downloads/game-covers/fireboy-and-watergirl.avif",
+    "officialUrl": "https://www.crazygames.com/game/fireboy-and-watergirl-the-forest-temple",
+    "linkStatus": "verified",
     "desc": "Fireboy and Watergirl 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "friday-night-funkin",
     "title": "Friday Night Funkin'",
     "category": "action",
-    "rating": 4.4,
-    "plays": "2.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Rhythm",
       "Music"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.newgrounds.com/portal/view/770371",
+    "image": "/assets/downloads/game-covers/friday-night-funkin.avif",
+    "officialUrl": "https://www.crazygames.com/game/friday-night-funkin",
+    "linkStatus": "verified",
     "desc": "Friday Night Funkin' 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bad-ice-cream",
     "title": "Bad Ice-Cream",
     "category": "multiplayer",
-    "rating": 4.4,
-    "plays": "3.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Co-op",
       "Arcade"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Bad%20Ice-Cream",
+    "image": "/assets/game-covers/bad-ice-cream.svg",
+    "officialUrl": "https://www.crazygames.com/t/casual",
+    "linkStatus": "verified",
     "desc": "Bad Ice-Cream 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "super-mario-flash",
     "title": "Super Mario Flash",
     "category": "action",
-    "rating": 4.5,
-    "plays": "3.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Platform",
       "Retro"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Super%20Mario%20Flash",
+    "image": "/assets/game-covers/super-mario-flash.svg",
+    "officialUrl": "https://www.crazygames.com/t/mario",
+    "linkStatus": "verified",
     "desc": "Super Mario Flash 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "dino-game",
     "title": "Dino Game",
     "category": "action",
-    "rating": 4.6,
-    "plays": "3.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Runner",
       "Offline"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Dino%20Game",
+    "image": "/assets/game-covers/dino-game.svg",
+    "officialUrl": "https://www.crazygames.com/game/dino-game",
+    "linkStatus": "candidate",
     "desc": "Dino Game 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "ninja-hands",
     "title": "Ninja Hands",
     "category": "action",
-    "rating": 4.6,
-    "plays": "3.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Magic",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Ninja%20Hands",
+    "image": "/assets/downloads/game-covers/ninja-hands.avif",
+    "officialUrl": "https://www.crazygames.com/game/ninja-hands",
+    "linkStatus": "verified",
     "desc": "Ninja Hands 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "2048",
     "title": "2048",
     "category": "puzzle",
-    "rating": 4.7,
-    "plays": "4.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Number",
       "Logic"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/2048.jpg",
     "officialUrl": "https://play2048.co/",
+    "linkStatus": "verified",
     "desc": "2048 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "wordle",
     "title": "Wordle",
     "category": "puzzle",
-    "rating": 4.8,
-    "plays": "4.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Daily",
       "Word"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/wordle.png",
     "officialUrl": "https://www.nytimes.com/games/wordle/index.html",
+    "linkStatus": "verified",
     "desc": "Wordle 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "tetris",
     "title": "Tetris",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "4.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classic",
       "Blocks"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://tetris.com/play-tetris",
+    "image": "/assets/downloads/game-covers/tetris.avif",
+    "officialUrl": "https://play.tetris.com/",
+    "linkStatus": "verified",
     "desc": "Tetris 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "cut-the-rope",
     "title": "Cut the Rope",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "4.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Physics",
       "Cute"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/game/cut-the-rope",
+    "image": "/assets/downloads/game-covers/cut-the-rope.avif",
+    "officialUrl": "https://www.crazygames.com/game/cut-the-rope-ebx",
+    "linkStatus": "verified",
     "desc": "Cut the Rope 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "little-alchemy-2",
     "title": "Little Alchemy 2",
     "category": "strategy",
-    "rating": 4.5,
-    "plays": "4.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Crafting",
       "Logic"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/little-alchemy-2.jpg",
     "officialUrl": "https://littlealchemy2.com/",
+    "linkStatus": "verified",
     "desc": "Little Alchemy 2 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "sudoku",
     "title": "Sudoku",
     "category": "puzzle",
-    "rating": 4.6,
-    "plays": "5.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classic",
       "Brain"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Sudoku",
+    "image": "/assets/game-covers/sudoku.svg",
+    "officialUrl": "https://www.crazygames.com/c/puzzle",
+    "linkStatus": "verified",
     "desc": "Sudoku 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "nonogram",
     "title": "Nonogram",
     "category": "puzzle",
-    "rating": 4.6,
-    "plays": "5.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Logic",
       "Picture"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Nonogram",
+    "image": "/assets/downloads/game-covers/nonogram.png",
+    "officialUrl": "https://www.crazygames.com/game/nonogram",
+    "linkStatus": "verified",
     "desc": "Nonogram 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "mahjong-connect",
     "title": "Mahjong Connect",
     "category": "puzzle",
-    "rating": 4.7,
-    "plays": "5.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Tiles",
       "Match"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Mahjong%20Connect",
+    "image": "/assets/game-covers/mahjong-connect.svg",
+    "officialUrl": "https://www.crazygames.com/t/mahjong",
+    "linkStatus": "verified",
     "desc": "Mahjong Connect 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "minesweeper",
     "title": "Minesweeper",
     "category": "puzzle",
-    "rating": 4.8,
-    "plays": "5.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classic",
       "Logic"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Minesweeper",
+    "image": "/assets/game-covers/minesweeper.svg",
+    "officialUrl": "https://www.crazygames.com/t/logic",
+    "linkStatus": "verified",
     "desc": "Minesweeper 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "unblock-me",
     "title": "Unblock Me",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "6.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Sliding",
       "Brain"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Unblock%20Me",
+    "image": "/assets/game-covers/unblock-me.svg",
+    "officialUrl": "https://www.crazygames.com/game/unblock-me",
+    "linkStatus": "candidate",
     "desc": "Unblock Me 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "water-sort",
     "title": "Water Sort",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "6.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Color",
       "Relax"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Water%20Sort",
+    "image": "/assets/game-covers/water-sort.svg",
+    "officialUrl": "https://www.crazygames.com/game/water-sort",
+    "linkStatus": "candidate",
     "desc": "Water Sort 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "hexa-sort",
     "title": "Hexa Sort",
     "category": "puzzle",
-    "rating": 4.5,
-    "plays": "6.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Blocks",
       "Planning"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Hexa%20Sort",
+    "image": "/assets/downloads/game-covers/hexa-sort.avif",
+    "officialUrl": "https://www.crazygames.com/game/hexa-sort",
+    "linkStatus": "verified",
     "desc": "Hexa Sort 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "moto-x3m",
     "title": "Moto X3M",
     "category": "racing",
-    "rating": 4.6,
-    "plays": "6.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Stunt",
       "Bike"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/moto-x3m.jpg",
     "officialUrl": "https://poki.com/en/g/moto-x3m",
+    "linkStatus": "verified",
     "desc": "Moto X3M 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "drift-hunters",
     "title": "Drift Hunters",
     "category": "racing",
-    "rating": 4.7,
-    "plays": "7.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Drift",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/drift-hunters.avif",
     "officialUrl": "https://www.crazygames.com/game/drift-hunters",
+    "linkStatus": "verified",
     "desc": "Drift Hunters 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "drive-mad",
     "title": "Drive Mad",
     "category": "racing",
-    "rating": 4.7,
-    "plays": "7.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Physics",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/drive-mad.png",
     "officialUrl": "https://poki.com/en/g/drive-mad",
+    "linkStatus": "verified",
     "desc": "Drive Mad 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "madalin-stunt-cars-2",
     "title": "Madalin Stunt Cars 2",
     "category": "racing",
-    "rating": 4.8,
-    "plays": "7.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Open World",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Madalin%20Stunt%20Cars%202",
+    "image": "/assets/downloads/game-covers/madalin-stunt-cars-2.avif",
+    "officialUrl": "https://www.crazygames.com/game/madalin-stunt-cars-2",
+    "linkStatus": "verified",
     "desc": "Madalin Stunt Cars 2 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "highway-racer",
     "title": "Highway Racer",
     "category": "racing",
-    "rating": 4.4,
-    "plays": "7.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Traffic",
       "Speed"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Highway%20Racer",
+    "image": "/assets/downloads/game-covers/highway-racer.avif",
+    "officialUrl": "https://www.crazygames.com/game/highway-racer",
+    "linkStatus": "verified",
     "desc": "Highway Racer 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "hill-climb-racing",
     "title": "Hill Climb Racing",
     "category": "racing",
-    "rating": 4.5,
-    "plays": "7.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Physics",
       "Upgrade"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Hill%20Climb%20Racing",
+    "image": "/assets/game-covers/hill-climb-racing.svg",
+    "officialUrl": "https://www.crazygames.com/t/car",
+    "linkStatus": "verified",
     "desc": "Hill Climb Racing 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "burnout-drift",
     "title": "Burnout Drift",
     "category": "racing",
-    "rating": 4.5,
-    "plays": "8.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Drift",
       "Tuning"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Burnout%20Drift",
+    "image": "/assets/downloads/game-covers/burnout-drift.avif",
+    "officialUrl": "https://www.crazygames.com/game/burnout-drift",
+    "linkStatus": "verified",
     "desc": "Burnout Drift 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "super-bike-the-champion",
     "title": "Super Bike The Champion",
     "category": "racing",
-    "rating": 4.6,
-    "plays": "8.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Bike",
       "Track"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Super%20Bike%20The%20Champion",
+    "image": "/assets/downloads/game-covers/super-bike-the-champion.avif",
+    "officialUrl": "https://www.crazygames.com/game/super-bike-the-champion",
+    "linkStatus": "verified",
     "desc": "Super Bike The Champion 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "soccar",
     "title": "SocCar",
     "category": "racing",
-    "rating": 4.7,
-    "plays": "8.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Arena",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=SocCar",
+    "image": "/assets/downloads/game-covers/soccar.avif",
+    "officialUrl": "https://www.crazygames.com/game/soccar",
+    "linkStatus": "verified",
     "desc": "SocCar 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "parking-fury",
     "title": "Parking Fury",
     "category": "racing",
-    "rating": 4.7,
-    "plays": "8.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Parking",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Parking%20Fury",
+    "image": "/assets/downloads/game-covers/parking-fury.jpg",
+    "officialUrl": "https://poki.com/",
+    "linkStatus": "verified",
     "desc": "Parking Fury 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "city-car-driving",
     "title": "City Car Driving",
     "category": "racing",
-    "rating": 4.8,
-    "plays": "9.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Simulation",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=City%20Car%20Driving",
+    "image": "/assets/game-covers/city-car-driving.svg",
+    "officialUrl": "https://www.crazygames.com/game/city-car-driving",
+    "linkStatus": "candidate",
     "desc": "City Car Driving 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "monster-truck-destroyer",
     "title": "Monster Truck Destroyer",
     "category": "racing",
-    "rating": 4.4,
-    "plays": "9.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Truck",
       "Stunt"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Monster%20Truck%20Destroyer",
+    "image": "/assets/game-covers/monster-truck-destroyer.svg",
+    "officialUrl": "https://www.crazygames.com/game/monster-truck-destroyer",
+    "linkStatus": "candidate",
     "desc": "Monster Truck Destroyer 是 PlayZoneX 收录的 竞速游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "shell-shockers",
     "title": "Shell Shockers",
     "category": "shooting",
-    "rating": 4.5,
-    "plays": "1.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "FPS",
       "Arena"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/shell-shockers.webp",
     "officialUrl": "https://shellshock.io/",
+    "linkStatus": "verified",
     "desc": "Shell Shockers 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "krunker",
     "title": "Krunker",
     "category": "shooting",
-    "rating": 4.5,
-    "plays": "1.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "FPS",
       "Multiplayer"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/krunker.png",
     "officialUrl": "https://krunker.io/",
+    "linkStatus": "verified",
     "desc": "Krunker 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "venge-io",
     "title": "Venge.io",
     "category": "shooting",
-    "rating": 4.6,
-    "plays": "1.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "FPS",
       "Competitive"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/venge-io.jpg",
     "officialUrl": "https://venge.io/",
+    "linkStatus": "verified",
     "desc": "Venge.io 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "1v1-lol",
     "title": "1v1.LOL",
     "category": "shooting",
-    "rating": 4.7,
-    "plays": "1.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Build",
       "Battle"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=1v1.LOL",
+    "image": "/assets/downloads/game-covers/1v1-lol.avif",
+    "officialUrl": "https://www.crazygames.com/game/1v1-lol",
+    "linkStatus": "verified",
     "desc": "1v1.LOL 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bullet-force",
     "title": "Bullet Force",
     "category": "shooting",
-    "rating": 4.8,
-    "plays": "2.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "FPS",
       "Team"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Bullet%20Force",
+    "image": "/assets/game-covers/bullet-force.svg",
+    "officialUrl": "https://www.crazygames.com/game/bullet-force",
+    "linkStatus": "candidate",
     "desc": "Bullet Force 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "forward-assault",
     "title": "Forward Assault",
     "category": "shooting",
-    "rating": 4.8,
-    "plays": "2.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Tactical",
       "FPS"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Forward%20Assault",
+    "image": "/assets/downloads/game-covers/forward-assault.avif",
+    "officialUrl": "https://www.crazygames.com/game/forward-assault",
+    "linkStatus": "verified",
     "desc": "Forward Assault 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "zombs-royale",
     "title": "Zombs Royale",
     "category": "shooting",
-    "rating": 4.4,
-    "plays": "2.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Battle Royale",
       "2D"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Zombs%20Royale",
+    "image": "/assets/game-covers/zombs-royale.svg",
+    "officialUrl": "https://www.crazygames.com/game/zombs-royale",
+    "linkStatus": "candidate",
     "desc": "Zombs Royale 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "time-shooter-2",
     "title": "Time Shooter 2",
     "category": "shooting",
-    "rating": 4.5,
-    "plays": "2.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Slow Motion",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Time%20Shooter%202",
+    "image": "/assets/downloads/game-covers/time-shooter-2.avif",
+    "officialUrl": "https://www.crazygames.com/game/time-shooter-2",
+    "linkStatus": "verified",
     "desc": "Time Shooter 2 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "funny-shooter-2",
     "title": "Funny Shooter 2",
     "category": "shooting",
-    "rating": 4.5,
-    "plays": "3.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Arcade",
       "FPS"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Funny%20Shooter%202",
+    "image": "/assets/downloads/game-covers/funny-shooter-2.png",
+    "officialUrl": "https://www.crazygames.com/game/funny-shooter-2",
+    "linkStatus": "verified",
     "desc": "Funny Shooter 2 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "rooftop-snipers",
     "title": "Rooftop Snipers",
     "category": "shooting",
-    "rating": 4.6,
-    "plays": "3.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Duel",
       "Physics"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Rooftop%20Snipers",
+    "image": "/assets/downloads/game-covers/rooftop-snipers.avif",
+    "officialUrl": "https://www.crazygames.com/game/rooftop-snipers",
+    "linkStatus": "verified",
     "desc": "Rooftop Snipers 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "zombie-mission",
     "title": "Zombie Mission",
     "category": "shooting",
-    "rating": 4.7,
-    "plays": "3.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Co-op",
       "Zombie"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Zombie%20Mission",
+    "image": "/assets/game-covers/zombie-mission.svg",
+    "officialUrl": "https://www.crazygames.com/t/zombie",
+    "linkStatus": "verified",
     "desc": "Zombie Mission 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "war-brokers",
     "title": "War Brokers",
     "category": "shooting",
-    "rating": 4.8,
-    "plays": "3.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "FPS",
       "Vehicles"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=War%20Brokers",
+    "image": "/assets/game-covers/war-brokers.svg",
+    "officialUrl": "https://www.crazygames.com/game/war-brokers",
+    "linkStatus": "candidate",
     "desc": "War Brokers 是 PlayZoneX 收录的 射击游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "basketball-stars",
     "title": "Basketball Stars",
     "category": "sports",
-    "rating": 4.3,
-    "plays": "4.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Basketball",
       "Duel"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/basketball-stars.png",
     "officialUrl": "https://poki.com/en/g/basketball-stars",
+    "linkStatus": "verified",
     "desc": "Basketball Stars 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "basket-random",
     "title": "Basket Random",
     "category": "sports",
-    "rating": 4.4,
-    "plays": "4.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Basketball",
       "Funny"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Basket%20Random",
+    "image": "/assets/downloads/game-covers/basket-random.png",
+    "officialUrl": "https://www.crazygames.com/game/basket-random",
+    "linkStatus": "verified",
     "desc": "Basket Random 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "football-legends",
     "title": "Football Legends",
     "category": "sports",
-    "rating": 4.5,
-    "plays": "4.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Soccer",
       "Arcade"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Football%20Legends",
+    "image": "/assets/downloads/game-covers/football-legends.png",
+    "officialUrl": "https://poki.com/en/g/football-legends",
+    "linkStatus": "verified",
     "desc": "Football Legends 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "soccer-skills-euro-cup",
     "title": "Soccer Skills Euro Cup",
     "category": "sports",
-    "rating": 4.6,
-    "plays": "4.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Soccer",
       "Tournament"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Soccer%20Skills%20Euro%20Cup",
+    "image": "/assets/downloads/game-covers/soccer-skills-euro-cup.jpg",
+    "officialUrl": "https://poki.com/en/g/soccer-skills-euro-cup",
+    "linkStatus": "verified",
     "desc": "Soccer Skills Euro Cup 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "retro-bowl",
     "title": "Retro Bowl",
     "category": "sports",
-    "rating": 4.6,
-    "plays": "4.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Football",
       "Management"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Retro%20Bowl",
+    "image": "/assets/game-covers/retro-bowl.svg",
+    "officialUrl": "https://www.crazygames.com/t/american-football",
+    "linkStatus": "verified",
     "desc": "Retro Bowl 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "8-ball-pool",
     "title": "8 Ball Pool",
     "category": "sports",
-    "rating": 4.7,
-    "plays": "5.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Billiards",
       "Classic"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=8%20Ball%20Pool",
+    "image": "/assets/game-covers/8-ball-pool.svg",
+    "officialUrl": "https://www.crazygames.com/t/pool",
+    "linkStatus": "verified",
     "desc": "8 Ball Pool 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "penalty-shooters-2",
     "title": "Penalty Shooters 2",
     "category": "sports",
-    "rating": 4.8,
-    "plays": "5.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Soccer",
       "Penalty"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Penalty%20Shooters%202",
+    "image": "/assets/downloads/game-covers/penalty-shooters-2.avif",
+    "officialUrl": "https://www.crazygames.com/game/penalty-shooters-2",
+    "linkStatus": "verified",
     "desc": "Penalty Shooters 2 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "boxing-random",
     "title": "Boxing Random",
     "category": "sports",
-    "rating": 4.4,
-    "plays": "5.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Boxing",
       "Party"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Boxing%20Random",
+    "image": "/assets/downloads/game-covers/boxing-random.avif",
+    "officialUrl": "https://www.crazygames.com/game/boxing-random",
+    "linkStatus": "verified",
     "desc": "Boxing Random 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "skate-hooligans",
     "title": "Skate Hooligans",
     "category": "sports",
-    "rating": 4.4,
-    "plays": "5.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Skate",
       "Runner"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Skate%20Hooligans",
+    "image": "/assets/game-covers/skate-hooligans.svg",
+    "officialUrl": "https://www.crazygames.com/t/casual",
+    "linkStatus": "verified",
     "desc": "Skate Hooligans 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "table-tennis-world-tour",
     "title": "Table Tennis World Tour",
     "category": "sports",
-    "rating": 4.5,
-    "plays": "6.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Ping Pong",
       "Skill"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Table%20Tennis%20World%20Tour",
+    "image": "/assets/downloads/game-covers/table-tennis-world-tour.png",
+    "officialUrl": "https://www.crazygames.com/game/table-tennis-world-tour",
+    "linkStatus": "verified",
     "desc": "Table Tennis World Tour 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "golf-orbit",
     "title": "Golf Orbit",
     "category": "sports",
-    "rating": 4.6,
-    "plays": "6.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Golf",
       "Arcade"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Golf%20Orbit",
+    "image": "/assets/downloads/game-covers/golf-orbit.avif",
+    "officialUrl": "https://www.crazygames.com/game/golf-orbit",
+    "linkStatus": "verified",
     "desc": "Golf Orbit 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "snow-rider-3d",
     "title": "Snow Rider 3D",
     "category": "sports",
-    "rating": 4.6,
-    "plays": "6.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Snow",
       "3D"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Snow%20Rider%203D",
+    "image": "/assets/downloads/game-covers/snow-rider-3d.avif",
+    "officialUrl": "https://www.crazygames.com/game/snow-rider-3d",
+    "linkStatus": "verified",
     "desc": "Snow Rider 3D 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bloons-tower-defense",
     "title": "Bloons Tower Defense",
     "category": "strategy",
-    "rating": 4.7,
-    "plays": "6.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Tower Defense",
       "Classic"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Bloons%20Tower%20Defense",
+    "image": "/assets/downloads/game-covers/bloons-tower-defense.jpg",
+    "officialUrl": "https://www.crazygames.com/game/bloons-tower-defense",
+    "linkStatus": "verified",
     "desc": "Bloons Tower Defense 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "kingdom-rush",
     "title": "Kingdom Rush",
     "category": "strategy",
-    "rating": 4.8,
-    "plays": "7.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Tower Defense",
       "Fantasy"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Kingdom%20Rush",
+    "image": "/assets/downloads/game-covers/kingdom-rush.png",
+    "officialUrl": "https://www.crazygames.com/game/kingdom-rush",
+    "linkStatus": "verified",
     "desc": "Kingdom Rush 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "plants-vs-zombies",
     "title": "Plants vs Zombies",
     "category": "strategy",
-    "rating": 4.4,
-    "plays": "7.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Defense",
       "Classic"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Plants%20vs%20Zombies",
+    "image": "/assets/game-covers/plants-vs-zombies.svg",
+    "officialUrl": "https://www.crazygames.com/c/action",
+    "linkStatus": "verified",
     "desc": "Plants vs Zombies 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "chess-online",
     "title": "Chess Online",
     "category": "strategy",
-    "rating": 4.4,
-    "plays": "7.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Board",
       "Competitive"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Chess%20Online",
+    "image": "/assets/game-covers/chess-online.svg",
+    "officialUrl": "https://www.crazygames.com/game/chess-online",
+    "linkStatus": "candidate",
     "desc": "Chess Online 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "checkers",
     "title": "Checkers",
     "category": "strategy",
-    "rating": 4.5,
-    "plays": "7.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Board",
       "Classic"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Checkers",
+    "image": "/assets/downloads/game-covers/checkers.jpg",
+    "officialUrl": "https://poki.com/en/board",
+    "linkStatus": "verified",
     "desc": "Checkers 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "risky-wars",
     "title": "Risky Wars",
     "category": "strategy",
-    "rating": 4.6,
-    "plays": "7.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Tactics",
       "Map"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Risky%20Wars",
+    "image": "/assets/game-covers/risky-wars.svg",
+    "officialUrl": "https://www.crazygames.com/game/risky-wars",
+    "linkStatus": "candidate",
     "desc": "Risky Wars 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "mini-metro",
     "title": "Mini Metro",
     "category": "strategy",
-    "rating": 4.6,
-    "plays": "8.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Planning",
       "Transit"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Mini%20Metro",
+    "image": "/assets/game-covers/mini-metro.svg",
+    "officialUrl": "https://www.crazygames.com/t/train",
+    "linkStatus": "verified",
     "desc": "Mini Metro 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "idle-miner",
     "title": "Idle Miner",
     "category": "strategy",
-    "rating": 4.7,
-    "plays": "8.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Idle",
       "Management"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Idle%20Miner",
+    "image": "/assets/downloads/game-covers/idle-miner.png",
+    "officialUrl": "https://www.crazygames.com/game/idle-miner",
+    "linkStatus": "verified",
     "desc": "Idle Miner 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bitlife",
     "title": "BitLife",
     "category": "strategy",
-    "rating": 4.8,
-    "plays": "8.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Life Sim",
       "Choices"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=BitLife",
+    "image": "/assets/game-covers/bitlife.svg",
+    "officialUrl": "https://www.crazygames.com/game/bitlife",
+    "linkStatus": "candidate",
     "desc": "BitLife 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "paper-minecraft",
     "title": "Paper Minecraft",
     "category": "strategy",
-    "rating": 4.4,
-    "plays": "8.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Sandbox",
       "Crafting"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Paper%20Minecraft",
+    "image": "/assets/downloads/game-covers/paper-minecraft.png",
+    "officialUrl": "https://www.crazygames.com/game/paper-minecraft",
+    "linkStatus": "verified",
     "desc": "Paper Minecraft 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "forge-of-empires",
     "title": "Forge of Empires",
     "category": "strategy",
-    "rating": 4.4,
-    "plays": "9.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "City",
       "Empire"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Forge%20of%20Empires",
+    "image": "/assets/game-covers/forge-of-empires.svg",
+    "officialUrl": "https://www.crazygames.com/game/forge-of-empires",
+    "linkStatus": "candidate",
     "desc": "Forge of Empires 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "merge-round-racers",
     "title": "Merge Round Racers",
     "category": "strategy",
-    "rating": 4.5,
-    "plays": "9.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Merge",
       "Cars"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Merge%20Round%20Racers",
+    "image": "/assets/downloads/game-covers/merge-round-racers.png",
+    "officialUrl": "https://poki.com/en/g/merge-round-racers",
+    "linkStatus": "verified",
     "desc": "Merge Round Racers 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "skribbl-io",
     "title": "Skribbl.io",
     "category": "multiplayer",
-    "rating": 4.6,
-    "plays": "1.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Drawing",
       "Party"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/skribbl-io.png",
     "officialUrl": "https://skribbl.io/",
+    "linkStatus": "verified",
     "desc": "Skribbl.io 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "gartic-phone",
     "title": "Gartic Phone",
     "category": "multiplayer",
-    "rating": 4.7,
-    "plays": "1.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Drawing",
       "Party"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Gartic%20Phone",
+    "image": "/assets/game-covers/gartic-phone.svg",
+    "officialUrl": "https://www.crazygames.com/game/gartic-phone",
+    "linkStatus": "candidate",
     "desc": "Gartic Phone 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "among-us-online",
     "title": "Among Us Online",
     "category": "multiplayer",
-    "rating": 4.7,
-    "plays": "1.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Social",
       "Deduction"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Among%20Us%20Online",
+    "image": "/assets/game-covers/among-us-online.svg",
+    "officialUrl": "https://www.crazygames.com/game/among-us-online",
+    "linkStatus": "candidate",
     "desc": "Among Us Online 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bonk-io",
     "title": "Bonk.io",
     "category": "multiplayer",
-    "rating": 4.8,
-    "plays": "1.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Physics",
       "Arena"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Bonk.io",
+    "image": "/assets/downloads/game-covers/bonk-io.jpg",
+    "officialUrl": "https://poki.com/",
+    "linkStatus": "verified",
     "desc": "Bonk.io 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "getaway-shootout",
     "title": "Getaway Shootout",
     "category": "multiplayer",
-    "rating": 4.4,
-    "plays": "2.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Party",
       "Race"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Getaway%20Shootout",
+    "image": "/assets/downloads/game-covers/getaway-shootout.avif",
+    "officialUrl": "https://www.crazygames.com/game/getaway-shootout",
+    "linkStatus": "verified",
     "desc": "Getaway Shootout 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "duo-survival",
     "title": "Duo Survival",
     "category": "multiplayer",
-    "rating": 4.5,
-    "plays": "2.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Co-op",
       "Puzzle"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Duo%20Survival",
+    "image": "/assets/downloads/game-covers/duo-survival.png",
+    "officialUrl": "https://poki.com/en/g/duo-survival",
+    "linkStatus": "verified",
     "desc": "Duo Survival 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "basketbros",
     "title": "BasketBros",
     "category": "multiplayer",
-    "rating": 4.5,
-    "plays": "2.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Sports",
       "PvP"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=BasketBros",
+    "image": "/assets/game-covers/basketbros.svg",
+    "officialUrl": "https://www.crazygames.com/game/basketbros",
+    "linkStatus": "candidate",
     "desc": "BasketBros 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "house-of-hazards",
     "title": "House of Hazards",
     "category": "multiplayer",
-    "rating": 4.6,
-    "plays": "2.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Party",
       "Local"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=House%20of%20Hazards",
+    "image": "/assets/downloads/game-covers/house-of-hazards.avif",
+    "officialUrl": "https://www.crazygames.com/game/house-of-hazards",
+    "linkStatus": "verified",
     "desc": "House of Hazards 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "minibattles",
     "title": "MiniBattles",
     "category": "multiplayer",
-    "rating": 4.7,
-    "plays": "3.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Party",
       "Mini Games"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=MiniBattles",
+    "image": "/assets/downloads/game-covers/minibattles.png",
+    "officialUrl": "https://poki.com/en/g/minibattles",
+    "linkStatus": "verified",
     "desc": "MiniBattles 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "stickman-party",
     "title": "Stickman Party",
     "category": "multiplayer",
-    "rating": 4.7,
-    "plays": "3.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Local",
       "Mini Games"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Stickman%20Party",
+    "image": "/assets/game-covers/stickman-party.svg",
+    "officialUrl": "https://www.crazygames.com/game/stickman-party",
+    "linkStatus": "candidate",
     "desc": "Stickman Party 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "bomb-it",
     "title": "Bomb It",
     "category": "multiplayer",
-    "rating": 4.8,
-    "plays": "3.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Arena",
       "Classic"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Bomb%20It",
+    "image": "/assets/game-covers/bomb-it.svg",
+    "officialUrl": "https://www.crazygames.com/t/casual",
+    "linkStatus": "verified",
     "desc": "Bomb It 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "ludo-king",
     "title": "Ludo King",
     "category": "multiplayer",
-    "rating": 4.4,
-    "plays": "3.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Board",
       "Family"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Ludo%20King",
+    "image": "/assets/downloads/game-covers/ludo-king.avif",
+    "officialUrl": "https://www.crazygames.com/game/ludo-king",
+    "linkStatus": "verified",
     "desc": "Ludo King 是 PlayZoneX 收录的 多人游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "agar-io",
     "title": "Agar.io",
     "category": "io-games",
-    "rating": 4.5,
-    "plays": "4.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Arena"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://agar.io/",
+    "image": "/assets/downloads/game-covers/agar-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Agar.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "slither-io",
     "title": "Slither.io",
     "category": "io-games",
-    "rating": 4.5,
-    "plays": "4.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Snake"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://slither.io/",
+    "image": "/assets/downloads/game-covers/slither-io.jpg",
+    "officialUrl": "http://slither.io/?a",
+    "linkStatus": "verified",
     "desc": "Slither.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "diep-io",
     "title": "Diep.io",
     "category": "io-games",
-    "rating": 4.6,
-    "plays": "4.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Tanks"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Diep.io",
+    "image": "/assets/downloads/game-covers/diep-io.jpg",
+    "officialUrl": "https://poki.com/en/multiplayer",
+    "linkStatus": "verified",
     "desc": "Diep.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "paper-io-2",
     "title": "Paper.io 2",
     "category": "io-games",
-    "rating": 4.7,
-    "plays": "4.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Territory"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Paper.io%202",
+    "image": "/assets/downloads/game-covers/paper-io-2.png",
+    "officialUrl": "https://www.crazygames.com/game/paper-io-2",
+    "linkStatus": "verified",
     "desc": "Paper.io 2 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "hole-io",
     "title": "Hole.io",
     "category": "io-games",
-    "rating": 4.8,
-    "plays": "4.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "City"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Hole.io",
+    "image": "/assets/downloads/game-covers/hole-io.png",
+    "officialUrl": "https://www.crazygames.com/game/holey-io-battle-royale",
+    "linkStatus": "verified",
     "desc": "Hole.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "wormszone-io",
     "title": "WormsZone.io",
     "category": "io-games",
-    "rating": 4.8,
-    "plays": "5.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Snake"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=WormsZone.io",
+    "image": "/assets/game-covers/wormszone-io.svg",
+    "officialUrl": "https://www.crazygames.com/game/wormszone-io",
+    "linkStatus": "candidate",
     "desc": "WormsZone.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "mope-io",
     "title": "Mope.io",
     "category": "io-games",
-    "rating": 4.4,
-    "plays": "5.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Survival"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Mope.io",
+    "image": "/assets/downloads/game-covers/mope-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Mope.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "surviv-io",
     "title": "Surviv.io",
     "category": "io-games",
-    "rating": 4.5,
-    "plays": "5.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Battle Royale"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Surviv.io",
+    "image": "/assets/game-covers/surviv-io.svg",
+    "officialUrl": "https://www.crazygames.com/game/surviv-io",
+    "linkStatus": "candidate",
     "desc": "Surviv.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "starve-io",
     "title": "Starve.io",
     "category": "io-games",
-    "rating": 4.5,
-    "plays": "5.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Crafting"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Starve.io",
+    "image": "/assets/downloads/game-covers/starve-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Starve.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "zombs-io",
     "title": "Zombs.io",
     "category": "io-games",
-    "rating": 4.6,
-    "plays": "6.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Base"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Zombs.io",
+    "image": "/assets/downloads/game-covers/zombs-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Zombs.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "deeeep-io",
     "title": "Deeeep.io",
     "category": "io-games",
-    "rating": 4.7,
-    "plays": "6.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Ocean"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Deeeep.io",
+    "image": "/assets/downloads/game-covers/deeeep-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Deeeep.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "brutal-io",
     "title": "Brutal.io",
     "category": "io-games",
-    "rating": 4.8,
-    "plays": "6.5M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       ".io",
       "Arena"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Brutal.io",
+    "image": "/assets/downloads/game-covers/brutal-io.jpg",
+    "officialUrl": "https://poki.com/en/io",
+    "linkStatus": "verified",
     "desc": "Brutal.io 是 PlayZoneX 收录的 .io 游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "blooket",
     "title": "Blooket",
     "category": "puzzle",
-    "rating": 4.3,
-    "plays": "6.7M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classroom",
       "Quiz"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Blooket",
+    "image": "/assets/game-covers/blooket.svg",
+    "officialUrl": "https://www.crazygames.com/game/blooket",
+    "linkStatus": "candidate",
     "desc": "Blooket 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "kahoot",
     "title": "Kahoot!",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "7.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classroom",
       "Quiz"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Kahoot!",
+    "image": "/assets/game-covers/kahoot.svg",
+    "officialUrl": "https://www.crazygames.com/game/kahoot",
+    "linkStatus": "candidate",
     "desc": "Kahoot! 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "gimkit",
     "title": "Gimkit",
     "category": "strategy",
-    "rating": 4.5,
-    "plays": "7.2M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Classroom",
       "Strategy"
     ],
-    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Gimkit",
+    "image": "/assets/game-covers/gimkit.svg",
+    "officialUrl": "https://www.crazygames.com/game/gimkit",
+    "linkStatus": "candidate",
     "desc": "Gimkit 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "geoguessr",
     "title": "GeoGuessr",
     "category": "puzzle",
-    "rating": 4.6,
-    "plays": "7.4M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Map",
       "Knowledge"
     ],
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
+    "image": "/assets/downloads/game-covers/geoguessr.webp",
     "officialUrl": "https://www.geoguessr.com/",
+    "linkStatus": "verified",
     "desc": "GeoGuessr 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "quick-draw",
     "title": "Quick Draw",
     "category": "puzzle",
-    "rating": 4.6,
-    "plays": "7.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Drawing",
       "AI"
     ],
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Quick%20Draw",
+    "image": "/assets/game-covers/quick-draw.svg",
+    "officialUrl": "https://www.crazygames.com/t/casual",
+    "linkStatus": "verified",
     "desc": "Quick Draw 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "codecombat",
     "title": "CodeCombat",
     "category": "strategy",
-    "rating": 4.7,
-    "plays": "7.9M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Coding",
       "Learning"
     ],
-    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=CodeCombat",
+    "image": "/assets/game-covers/codecombat.svg",
+    "officialUrl": "https://www.crazygames.com/game/codecombat",
+    "linkStatus": "candidate",
     "desc": "CodeCombat 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "prodigy-math",
     "title": "Prodigy Math",
     "category": "strategy",
-    "rating": 4.8,
-    "plays": "8.1M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Math",
       "RPG"
     ],
-    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Prodigy%20Math",
+    "image": "/assets/game-covers/prodigy-math.svg",
+    "officialUrl": "https://www.crazygames.com/game/prodigy-math",
+    "linkStatus": "candidate",
     "desc": "Prodigy Math 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "typing-club",
     "title": "Typing Club",
     "category": "puzzle",
-    "rating": 4.4,
-    "plays": "8.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Typing",
       "Practice"
     ],
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Typing%20Club",
+    "image": "/assets/game-covers/typing-club.svg",
+    "officialUrl": "https://www.crazygames.com/game/typing-club",
+    "linkStatus": "candidate",
     "desc": "Typing Club 是 PlayZoneX 收录的 益智游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "coolmath-run-3",
     "title": "Coolmath Run 3",
     "category": "action",
-    "rating": 4.4,
-    "plays": "8.6M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Runner",
       "Space"
     ],
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Coolmath%20Run%203",
+    "image": "/assets/game-covers/coolmath-run-3.svg",
+    "officialUrl": "https://www.crazygames.com/game/coolmath-run-3",
+    "linkStatus": "candidate",
     "desc": "Coolmath Run 3 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "papa-s-freezeria",
     "title": "Papa's Freezeria",
     "category": "strategy",
-    "rating": 4.5,
-    "plays": "8.8M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Cooking",
       "Management"
     ],
-    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Papa's%20Freezeria",
+    "image": "/assets/downloads/game-covers/papa-s-freezeria.jpg",
+    "officialUrl": "https://poki.com/en/g/papas-freezeria",
+    "linkStatus": "verified",
     "desc": "Papa's Freezeria 是 PlayZoneX 收录的 策略游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "world-s-hardest-game",
     "title": "World's Hardest Game",
     "category": "action",
-    "rating": 4.6,
-    "plays": "9.0M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Skill",
       "Hard"
     ],
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=World's%20Hardest%20Game",
+    "image": "/assets/downloads/game-covers/world-s-hardest-game.jpg",
+    "officialUrl": "https://poki.com/en/adventure",
+    "linkStatus": "verified",
     "desc": "World's Hardest Game 是 PlayZoneX 收录的 动作游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   },
   {
     "slug": "duck-life",
     "title": "Duck Life",
     "category": "sports",
-    "rating": 4.6,
-    "plays": "9.3M",
+    "rating": null,
+    "plays": "Not tracked",
     "tags": [
       "Training",
       "Racing"
     ],
-    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
-    "officialUrl": "https://www.crazygames.com/search?q=Duck%20Life",
+    "image": "/assets/downloads/game-covers/duck-life.png",
+    "officialUrl": "https://poki.com/en/g/duck-life",
+    "linkStatus": "verified",
     "desc": "Duck Life 是 PlayZoneX 收录的 体育游戏 推荐条目，适合快速了解玩法、官方入口和同类选择。"
   }
 ]
