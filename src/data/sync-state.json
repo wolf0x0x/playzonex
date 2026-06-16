@@ -1,0 +1,7 @@
+{
+  "checkedAt": "2026-06-16T05:51:00.557Z",
+  "steam": "fallback-cache",
+  "minecraft": "fallback-cache",
+  "roblox": "fallback-cache",
+  "note": "This placeholder keeps GitHub Actions deterministic until API keys are configured."
+}
