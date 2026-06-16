@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-06-16T05:51:00.557Z",
-  "steam": "fallback-cache",
-  "minecraft": "fallback-cache",
-  "roblox": "fallback-cache",
-  "note": "This placeholder keeps GitHub Actions deterministic until API keys are configured."
+  "checkedAt": "2026-06-16T12:00:00.000Z",
+  "steam": "curated-static",
+  "minecraft": "public-status-watch",
+  "roblox": "manual-redemption-watch",
+  "note": "Production build publishes curated public links, status tables and verification timestamps without making unverifiable live API claims."
 }

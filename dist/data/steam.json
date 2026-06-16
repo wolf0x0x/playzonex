@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Counter-Strike 2",
+    "price": "Free",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      88,
+      76,
+      64
+    ]
+  },
+  {
+    "title": "Dota 2",
+    "price": "Free",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/app/570/Dota_2/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      84,
+      73,
+      60
+    ]
+  },
+  {
+    "title": "Warframe",
+    "price": "Free",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/app/230410/Warframe/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      80,
+      70,
+      56
+    ]
+  },
+  {
+    "title": "Apex Legends",
+    "price": "Free",
+    "rating": "Mixed",
+    "url": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      76,
+      67,
+      52
+    ]
+  },
+  {
+    "title": "Team Fortress 2",
+    "price": "Free",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/app/440/Team_Fortress_2/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      72,
+      64,
+      64
+    ]
+  },
+  {
+    "title": "Path of Exile",
+    "price": "Free",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/app/238960/Path_of_Exile/",
+    "list": "free",
+    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      68,
+      76,
+      60
+    ]
+  },
+  {
+    "title": "Stardew Valley",
+    "price": "-40%",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "list": "deals",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      88,
+      73,
+      56
+    ]
+  },
+  {
+    "title": "Hades",
+    "price": "-50%",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/1145360/Hades/",
+    "list": "deals",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      84,
+      70,
+      52
+    ]
+  },
+  {
+    "title": "Terraria",
+    "price": "-50%",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/105600/Terraria/",
+    "list": "deals",
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      80,
+      67,
+      64
+    ]
+  },
+  {
+    "title": "Balatro",
+    "price": "-20%",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/2379780/Balatro/",
+    "list": "deals",
+    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      76,
+      64,
+      60
+    ]
+  },
+  {
+    "title": "Blue Prince",
+    "price": "New",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/search/?sort_by=Released_DESC&term=Blue%20Prince",
+    "list": "new",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      72,
+      76,
+      56
+    ]
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "price": "New",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/search/?term=Clair%20Obscur%20Expedition%2033",
+    "list": "new",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      68,
+      73,
+      52
+    ]
+  },
+  {
+    "title": "Schedule I",
+    "price": "New",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/search/?term=Schedule%20I",
+    "list": "new",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      88,
+      70,
+      64
+    ]
+  },
+  {
+    "title": "R.E.P.O.",
+    "price": "New",
+    "rating": "Very Positive",
+    "url": "https://store.steampowered.com/search/?term=R.E.P.O.",
+    "list": "new",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      84,
+      67,
+      60
+    ]
+  },
+  {
+    "title": "Portal 2",
+    "price": "Top",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/620/Portal_2/",
+    "list": "top",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      80,
+      64,
+      56
+    ]
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "price": "Top",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
+    "list": "top",
+    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      76,
+      76,
+      52
+    ]
+  },
+  {
+    "title": "Hollow Knight",
+    "price": "Top",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+    "list": "top",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      72,
+      73,
+      64
+    ]
+  },
+  {
+    "title": "Vampire Survivors",
+    "price": "Top",
+    "rating": "Overwhelmingly Positive",
+    "url": "https://store.steampowered.com/app/1794680/Vampire_Survivors/",
+    "list": "top",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
+    "history": [
+      100,
+      68,
+      70,
+      60
+    ]
+  }
+]

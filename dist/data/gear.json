@@ -1,23 +1,82 @@
 [
   {
-    "title": "低延迟无线鼠标",
-    "price": "$39-$79",
-    "spec": "轻量机身、2.4GHz、可编程侧键",
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=80",
-    "url": "https://www.rtings.com/mouse/reviews/best/gaming"
+    "title": "Logitech G305 Lightspeed Mouse",
+    "price": "$39-$59",
+    "spec": "低延迟 2.4GHz、轻量机身、适合 FPS 与 Roblox。",
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=gaming%20wireless%20mouse",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
   },
   {
-    "title": "入门机械键盘",
-    "price": "$49-$99",
-    "spec": "热插拔轴体、RGB、紧凑布局",
-    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=80",
-    "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming"
+    "title": "Razer DeathAdder Essential",
+    "price": "$24-$39",
+    "spec": "经典人体工学外形，适合长时间在线小游戏。",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=Razer%20DeathAdder%20Essential",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
   },
   {
-    "title": "沉浸式游戏耳机",
-    "price": "$59-$129",
-    "spec": "虚拟环绕、降噪麦克风、舒适耳罩",
-    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=80",
-    "url": "https://www.rtings.com/headphones/reviews/best/by-usage/gaming"
+    "title": "SteelSeries Rival 3",
+    "price": "$29-$49",
+    "spec": "耐用微动、RGB、适合入门桌面。",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=SteelSeries%20Rival%203",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "Keychron C3 Pro Keyboard",
+    "price": "$36-$49",
+    "spec": "机械轴、紧凑布局、适合 Minecraft 指令输入。",
+    "image": "https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=Keychron%20C3%20Pro%20keyboard",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "Redragon K552 Keyboard",
+    "price": "$39-$55",
+    "spec": "87 键机械键盘，预算友好。",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=Redragon%20K552",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "HyperX Cloud Stinger 2",
+    "price": "$39-$59",
+    "spec": "轻量耳机、清晰麦克风，适合语音组队。",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=HyperX%20Cloud%20Stinger%202",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "SteelSeries Arctis Nova 1",
+    "price": "$49-$69",
+    "spec": "舒适耳罩、跨平台兼容。",
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=SteelSeries%20Arctis%20Nova%201",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "Xbox Wireless Controller",
+    "price": "$44-$64",
+    "spec": "Steam 与网页游戏手柄体验。",
+    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=Xbox%20Wireless%20Controller",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "8BitDo Ultimate 2C",
+    "price": "$29-$39",
+    "spec": "低延迟手柄，适合休闲竞速与平台跳跃。",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=8BitDo%20Ultimate%202C",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
+  },
+  {
+    "title": "Blue Light Blocking Glasses",
+    "price": "$15-$29",
+    "spec": "长时间攻略与学习游戏使用。",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&h=760&q=82",
+    "url": "https://www.amazon.com/s?k=gaming%20blue%20light%20glasses",
+    "disclosure": "Amazon product search. Availability, reviews and price may change."
   }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Starter Survival Base",
+    "difficulty": "Beginner",
+    "materials": "Oak, cobblestone, glass"
+  },
+  {
+    "title": "Cherry Grove Cottage",
+    "difficulty": "Beginner",
+    "materials": "Cherry wood, lanterns, leaves"
+  },
+  {
+    "title": "Compact Medieval Castle",
+    "difficulty": "Intermediate",
+    "materials": "Stone bricks, spruce, deepslate"
+  },
+  {
+    "title": "Auto-Sorting Storage Room",
+    "difficulty": "Intermediate",
+    "materials": "Hoppers, chests, comparators"
+  },
+  {
+    "title": "Hidden Redstone Door",
+    "difficulty": "Advanced",
+    "materials": "Sticky pistons, redstone dust, repeaters"
+  }
+]

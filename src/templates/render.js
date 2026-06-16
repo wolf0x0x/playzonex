@@ -344,7 +344,7 @@ const nav = [
   ["roblox", "/roblox/", "nav.roblox"],
   ["minecraft", "/minecraft/", "nav.minecraft"],
   ["steam", "/steam/", "nav.steam"],
-  ["edu", "/blooket/", "nav.edu"],
+  ["edu", "/edu-games/", "nav.edu"],
   ["gear", "/gear/", "nav.gear"]
 ];
 
@@ -395,7 +395,9 @@ const AD_SLOTS = {
 };
 
 function getAdHtml(zone, lang = "en") {
-  if (!AD_CLIENT || !AD_SLOTS[zone]) return "";
+  if (!AD_CLIENT || !AD_SLOTS[zone]) {
+    return `<div class="ad-shell ad-shell-${zone}" aria-label="Advertisement"><span>Ad slot</span></div>`;
+  }
   const slot = AD_SLOTS[zone] || AD_SLOTS.top;
   let style = "display:block;text-align:center;";
   if (zone === "top") style += "margin:18px auto;max-width:728px;width:100%;min-height:90px;";
@@ -441,6 +443,10 @@ const layout = (page, body, lang = "en") => {
   const labels = i18n[lang] || i18n.en;
   const searchIndex = [
     ...site.games.map((g) => ({ title: g.title, tags: g.category, url: `/game/${g.slug}/` })),
+    ...site.codes.map((c) => ({ title: `${c.game} ${c.code}`, tags: "roblox code", url: "/roblox/codes/" })),
+    ...site.minecraftMods.map((m) => ({ title: m.name, tags: `minecraft mod ${m.focus}`, url: "/minecraft/mods/" })),
+    ...site.servers.map((s) => ({ title: s.name, tags: "minecraft server", url: "/minecraft/servers/" })),
+    ...site.steamDeals.map((s) => ({ title: s.title, tags: `steam ${s.list}`, url: `/steam/${s.list === "deals" ? "deals" : s.list === "new" ? "new-releases" : s.list === "top" ? "top-rated" : "free-games"}/` })),
     ...site.pages.filter((p) => p.path !== "/").map((p) => ({ title: p.title.replace(" - PlayZoneX", ""), tags: p.nav, url: p.path }))
   ];
   const navLinks = nav.map(([key, href, labelKey]) => {
@@ -474,6 +480,8 @@ const layout = (page, body, lang = "en") => {
   <meta property="og:url" content="${esc(pageUrl(page, lang))}">
   <meta property="og:image" content="${site.images.arcade}">
   <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.svg">
   <link rel="preconnect" href="https://images.unsplash.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -518,9 +526,9 @@ const footer = (lang = "en") => `<footer class="footer">
       <p>${esc(t(lang, "footer"))}</p>
     </div>
     <div><strong>${esc(t(lang, "nav.online"))}</strong><a href="/online-games/">${esc(t(lang, "nav.online"))}</a><a href="/online-games/action/">${esc(categoryI18n.action[lang])}</a><a href="/online-games/puzzle/">${esc(categoryI18n.puzzle[lang])}</a></div>
-    <div><strong>${esc(t(lang, "nav.edu"))}</strong><a href="/roblox/">${esc(t(lang, "nav.roblox"))}</a><a href="/minecraft/">${esc(t(lang, "nav.minecraft"))}</a><a href="/blooket/">Blooket</a></div>
-    <div><strong>Steam</strong><a href="/steam/">${esc(t(lang, "nav.steam"))}</a><a href="/steam/free-games/">${esc(t(lang, "steam.title"))}</a><a href="/gear/">${esc(t(lang, "nav.gear"))}</a></div>
-    <div><strong>${esc(t(lang, "siteName"))}</strong><a href="/about/">${esc(t(lang, "about.title"))}</a><a href="/wordle/">Wordle</a><a href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div>
+    <div><strong>${esc(t(lang, "nav.edu"))}</strong><a href="/edu-games/">Edu Games</a><a href="/edu-games/blooket/">Blooket</a><a href="/edu-games/wordle/">Wordle</a></div>
+    <div><strong>Steam</strong><a href="/steam/free-games/">${esc(t(lang, "steam.title"))}</a><a href="/steam/deals/">Deals</a><a href="/steam/top-rated/">Top Rated</a></div>
+    <div><strong>${esc(t(lang, "siteName"))}</strong><a href="/about/">${esc(t(lang, "about.title"))}</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div>
   </div>
 </footer>`;
 
@@ -545,6 +553,7 @@ const heroSearch = (lang = "en") => `<div class="search-wrap">
 
 const home = (lang = "en") => `<main>
   <section class="hero" style="--hero:url('${site.images.arcade}')">
+    <div class="hero-particles" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
     <div class="hero-content">
       <div class="eyebrow">${esc(t(lang, "home.eyebrow"))}</div>
       <h1>${esc(t(lang, "home.h1"))}</h1>
@@ -559,12 +568,12 @@ const home = (lang = "en") => `<main>
   </section>
   <section class="section container">
     <div class="section-head"><div><div class="eyebrow">${esc(t(lang, "picks.eyebrow"))}</div><h2>${esc(t(lang, "picks.title"))}</h2></div><a class="btn secondary" href="/online-games/">${esc(t(lang, "picks.viewAll"))}</a></div>
-    <div class="grid cols-4">${site.games.slice(0, 4).map((g) => gameCard(g, lang)).join("")}</div>
+    <div class="grid cols-4">${site.games.slice(0, 12).map((g) => gameCard(g, lang)).join("")}</div>
   </section>
   <section class="section container">${getAdHtml("inline", lang)}</section>
   <section class="section container">
     <div class="section-head"><div><div class="eyebrow">${esc(t(lang, "guides.eyebrow"))}</div><h2>${esc(t(lang, "guides.title"))}</h2></div><p>${esc(t(lang, "guides.subtitle"))}</p></div>
-    <div class="grid cols-3">${site.robloxGuides.slice(0, 2).map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}${site.minecraftPages.slice(0, 1).map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}</div>
+    <div class="grid cols-3">${site.robloxGuides.slice(0, 3).map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}${site.minecraftPages.slice(0, 3).map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}${site.steamPages.slice(0, 3).map((g) => guideCard(g, `/steam/${g.slug}/`, lang)).join("")}</div>
   </section>
   <section class="section container"><div class="panel"><div class="section-head"><div><div class="eyebrow">${esc(t(lang, "gear.eyebrow"))}</div><h2>${esc(t(lang, "gear.title"))}</h2></div><a class="btn orange" href="/gear/">${esc(t(lang, "gearPage.cta"))}</a></div></div></section>
 </main>`;
@@ -600,14 +609,16 @@ const lobby = (active, lang = "en") => {
 const roblox = (lang = "en") => `<main>
   ${pageHero(t(lang, "roblox.title"), t(lang, "roblox.desc"), site.images.roblox, "Roblox Hub", lang)}
   <section class="section container">
-    <div class="stats"><div class="stat"><strong>71.5M</strong>${esc(t(lang, "roblox.dailyActive") || "Daily Active")}</div><div class="stat"><strong>4.2M</strong>${esc(t(lang, "roblox.peakOnline") || "Peak Online")}</div><div class="stat"><strong>+18%</strong>${esc(t(lang, "roblox.growth") || "Trend Growth")}</div><div class="stat"><strong>Hourly</strong>${esc(t(lang, "roblox.updates") || "Trend Updates")}</div></div>
+    <div class="stats"><div class="stat"><strong>${site.robloxTrending.length}</strong>Tracked Experiences</div><div class="stat"><strong>${site.codes.length}</strong>Code Records</div><div class="stat"><strong>${site.robloxGuides.length}</strong>Guides</div><div class="stat"><strong>Daily</strong>Manual Watch</div></div>
   </section>
+  <section class="section container"><div class="section-head"><div><div class="eyebrow">Trend Watch</div><h2>Roblox Trending Games</h2></div><a class="btn" href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div><div class="compact-list">${site.robloxTrending.map((g) => `<div class="compact-row"><strong>${esc(g.name)}</strong><span>${esc(g.players)}</span><span class="badge">${esc(g.trend)}</span></div>`).join("")}</div></section>
   <section class="section container"><div class="section-head"><div><div class="eyebrow">${esc(t(lang, "guides.eyebrow"))}</div><h2>${esc(t(lang, "guides.title"))}</h2></div><a class="btn" href="/roblox/codes/">${esc(t(lang, "codes.eyebrow"))}</a></div><div class="grid cols-3">${site.robloxGuides.map((g) => guideCard(g, `/roblox/${g.slug}/`, lang)).join("")}</div></section>
 </main>`;
 
 const minecraft = (lang = "en") => `<main>
   ${pageHero(t(lang, "minecraft.title"), t(lang, "minecraft.desc"), site.images.minecraft, "Minecraft Station", lang)}
   <section class="section container"><div class="split"><div class="grid cols-2">${site.minecraftPages.map((g) => guideCard(g, `/minecraft/${g.slug}/`, lang)).join("")}</div><aside class="panel"><h3>${esc(t(lang, "servers.title"))}</h3>${serverTable(lang)}<a class="btn secondary" href="/minecraft/servers/">${esc(t(lang, "servers.title"))}</a></aside></div></section>
+  <section class="section container"><div class="section-head"><div><div class="eyebrow">Mods</div><h2>Popular Minecraft Mods</h2></div><a class="btn secondary" href="/minecraft/mods/">View Mods</a></div><div class="compact-list">${site.minecraftMods.slice(0, 12).map((m) => `<div class="compact-row"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(m.focus)}</span></div>`).join("")}</div></section>
 </main>`;
 
 const steam = (lang = "en") => `<main>
@@ -617,8 +628,18 @@ const steam = (lang = "en") => `<main>
 
 const guide = (page, lang = "en") => `<main>
   ${pageHero(page.guide.title, page.guide.kicker, page.guide.image, t(lang, "guide.eyebrow"), lang)}
-  <section class="section container"><div class="split"><article class="panel"><h2>${esc(t(lang, "guide.articleTitle"))}</h2>${articleBlocks(page.guide.title, lang)}${faq(page.guide.title, lang)}</article><aside class="panel">${getAdHtml("inline", lang)}<h3>${esc(t(lang, "guide.relatedTitle"))}</h3>${relatedLinks(page.nav, lang)}</aside></div></section>
+  <section class="section container"><div class="split"><article class="panel"><h2>${esc(t(lang, "guide.articleTitle"))}</h2>${articleBlocks(page.guide.title, lang)}${guideData(page)}${faq(page.guide.title, lang)}</article><aside class="panel">${getAdHtml("inline", lang)}<h3>${esc(t(lang, "guide.relatedTitle"))}</h3>${relatedLinks(page.nav, lang)}</aside></div></section>
 </main>`;
+
+const guideData = (page) => {
+  if (page.path === "/minecraft/mods/") return `<h3>Recommended Mods</h3><div class="compact-list">${site.minecraftMods.map((m) => `<a class="compact-row" rel="nofollow noopener" href="${m.url}"><strong>${esc(m.name)}</strong><span>${esc(m.version)}</span><span>${esc(m.focus)}</span></a>`).join("")}</div>`;
+  if (page.path === "/minecraft/builds/") return `<h3>Build Tutorials</h3><div class="compact-list">${site.minecraftBuilds.map((b) => `<div class="compact-row"><strong>${esc(b.title)}</strong><span>${esc(b.difficulty)}</span><span>${esc(b.materials)}</span></div>`).join("")}</div>`;
+  if (page.path === "/minecraft/seeds/") return `<h3>Seed List</h3><div class="compact-list">${site.minecraftSeeds.map((s) => `<div class="compact-row"><strong>${esc(s.seed)}</strong><span>${esc(s.highlight)}</span></div>`).join("")}</div>`;
+  if (page.path === "/minecraft/commands/") return `<h3>Command Cheatsheet</h3><div class="command-grid">${site.minecraftCommands.map((cmd) => `<code>${esc(cmd)}</code>`).join("")}</div>`;
+  if (page.nav === "roblox") return `<h3>Action Checklist</h3><ul class="check-list"><li>Check official announcements before trading or redeeming codes.</li><li>Prioritize limited-time events, then permanent progression.</li><li>Never share account credentials or off-platform payment details.</li></ul>`;
+  if (page.nav === "edu") return `<h3>Classroom Checklist</h3><ul class="check-list"><li>Keep rounds short and review missed answers immediately.</li><li>Use team modes when score gaps become too wide.</li><li>Mix recall questions with reasoning questions for retention.</li></ul>`;
+  return "";
+};
 
 const articleBlocks = (title, lang = "en") => `<p>${esc(title)} ${t(lang, "guide.articleIntro") || t(lang, "guide.articleTitle")}</p>
 <h3>${esc(t(lang, "guide.quickStart"))}</h3><p>${esc(t(lang, "guide.quickStartText") || "Confirm your goal: casual fun, efficiency, collection or ranking. PlayZoneX breaks key steps into actionable checklists and keeps official platform links.")}</p>
@@ -633,7 +654,7 @@ const relatedLinks = (navKey, lang = "en") => {
 
 const codes = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "codes.eyebrow"), page.desc, site.images.cyber, t(lang, "codes.eyebrow"), lang)}
-  <section class="section container"><div class="split"><div class="panel"><h2>${esc(t(lang, "codes.eyebrow"))}</h2>${site.codes.length ? site.codes.map((c) => `<div class="code-row"><div><strong>${c.code}</strong><div class="meta">${c.reward} · <span class="status ${c.status}">${esc(t(lang, `status.${c.status}`))}</span></div></div><button class="copy-code" data-copy="${c.code}">${esc(t(lang, "codes.copy"))}</button></div>`).join("") : `<p>${esc(t(lang, "codes.empty") || "No verified active codes are published right now. Check the official game pages before redeeming community-shared codes.")}</p>`}</div><aside class="panel">${getAdHtml("inline", lang)}<p>${esc(t(lang, "codes.note"))}</p></aside></div></section>
+  <section class="section container"><div class="split"><div class="panel"><h2>${esc(t(lang, "codes.eyebrow"))}</h2>${site.codes.map((c) => `<div class="code-row"><div><strong>${esc(c.code)}</strong><div class="meta">${esc(c.game)} · ${esc(c.reward)} · ${esc(c.lastChecked)} · <span class="status ${c.status}">${esc(t(lang, `status.${c.status}`))}</span></div></div><button class="copy-code" data-copy="${esc(c.code)}">${esc(t(lang, "codes.copy"))}</button></div>`).join("")}</div><aside class="panel">${getAdHtml("inline", lang)}<p>${esc(t(lang, "codes.note"))}</p><p>Data source: manual redemption watch and official/community announcement checks. Always verify in-game before trading.</p></aside></div></section>
 </main>`;
 
 const serverTable = (lang = "en") => `<table class="table"><thead><tr><th>Server</th><th>Version</th><th>Players</th><th>Status</th></tr></thead><tbody>${site.servers.map((s) => `<tr><td><strong>${s.name}</strong><div class="meta">${s.address}</div></td><td>${s.version}</td><td>${s.players}</td><td><span class="status ${s.status}">${esc(t(lang, `status.${s.status}`))}</span></td></tr>`).join("")}</tbody></table>`;
@@ -645,22 +666,32 @@ const servers = (page, lang = "en") => `<main>
 
 const steamList = (page, lang = "en") => `<main>
   ${pageHero(cleanTitle(page.title), page.desc, page.guide.image, "Steam", lang)}
-  <section class="section container"><div class="grid cols-3">${site.steamDeals.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge green">${esc(g.price)}</span><h3>${esc(g.title)}</h3><p>${esc(g.rating)} · ${esc(t(lang, "steam.desc"))}</p><a class="btn secondary" rel="nofollow noopener" href="${g.url}">Steam</a></div></article>`).join("")}</div></section>
+  <section class="section container"><div class="grid cols-3">${site.steamDeals.filter((g) => g.list === page.guide.list).map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge green">${esc(g.price)}</span><h3>${esc(g.title)}</h3><p>${esc(g.rating)} · ${esc(t(lang, "steam.desc"))}</p><div class="spark">${g.history.map((v) => `<i style="height:${v}%"></i>`).join("")}</div><a class="btn secondary" rel="nofollow noopener" href="${g.url}">Steam</a></div></article>`).join("")}</div></section>
+</main>`;
+
+const edu = (lang = "en") => `<main>
+  ${pageHero("Edu Games Hub", "Blooket, Wordle, Kahoot and Gimkit guides for classroom play and daily brain training.", site.images.blooket, t(lang, "nav.edu"), lang)}
+  <section class="section container"><div class="grid cols-2">${site.eduPages.map((e) => guideCard(e, `/edu-games/${e.slug}/`, lang)).join("")}</div></section>
 </main>`;
 
 const blooket = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "blooket.title"), t(lang, "blooket.desc"), page.guide.image, "Edu Games", lang)}
-  <section class="section container"><div class="grid cols-3">${["Gold Quest", "Tower Defense", "Cafe"].map((mode, i) => `<article class="card"><div class="card-body"><span class="badge">${mode}</span><h3>${mode} ${t(lang, "guides.eyebrow")}</h3><p>${esc(t(lang, "blooket.desc"))}</p><progress value="${70 + i * 8}" max="100" style="width:100%"></progress></div></article>`).join("")}</div></section>
+  <section class="section container"><div class="grid cols-3">${site.blooketModes.map((m, i) => `<article class="card"><div class="card-body"><span class="badge">${esc(m.mode)}</span><h3>${esc(m.goal)}</h3><p>${esc(m.tip)}</p><progress value="${70 + i * 4}" max="100" style="width:100%"></progress></div></article>`).join("")}</div></section>
 </main>`;
 
 const wordle = (page, lang = "en") => `<main>
   ${pageHero(t(lang, "wordle.title"), t(lang, "wordle.desc"), page.guide.image, "Daily Puzzle", lang)}
-  <section class="section container"><div class="split"><article class="panel"><h2>${t(lang, "wordle.hints") || "Today's Hints"}</h2><p>${t(lang, "wordle.hint1") || "Hint 1: Start with a word that covers multiple vowels."}</p><p>${t(lang, "wordle.hint2") || "Hint 2: Avoid repeating letters before turn three."}</p><p>${t(lang, "wordle.hint3") || "Hint 3: Use confirmed consonants to narrow word families."}</p><button class="btn" data-reveal-wordle>${t(lang, "wordle.reveal") || "Verification Status"}</button><p data-wordle-answer hidden>${t(lang, "wordle.answerNote") || "A verified daily answer has not been published by PlayZoneX yet. This page currently provides strategy hints only."}</p></article><aside class="panel"><h3>${t(lang, "wordle.starters") || "Recommended Starters"}</h3><p>SLATE, ADIEU, ROAST ${t(lang, "wordle.startersDesc") || "cover high-frequency letters."}</p>${getAdHtml("inline", lang)}</aside></div></section>
+  <section class="section container"><div class="split"><article class="panel"><h2>${t(lang, "wordle.hints") || "Today's Hints"}</h2><p>${t(lang, "wordle.hint1") || "Hint 1: Start with a word that covers multiple vowels."}</p><p>${t(lang, "wordle.hint2") || "Hint 2: Avoid repeating letters before turn three."}</p><p>${t(lang, "wordle.hint3") || "Hint 3: Use confirmed consonants to narrow word families."}</p><button class="btn" data-reveal-wordle>${t(lang, "wordle.reveal") || "Reveal Practice Archive"}</button><div data-wordle-answer hidden class="compact-list">${site.wordleHistory.map((w) => `<div class="compact-row"><strong>${esc(w.date)}</strong><span>${esc(w.answer)}</span><span>${esc(w.source)}</span></div>`).join("")}</div></article><aside class="panel"><h3>${t(lang, "wordle.starters") || "Recommended Starters"}</h3><p>SLATE, ADIEU, ROAST ${t(lang, "wordle.startersDesc") || "cover high-frequency letters."}</p>${getAdHtml("inline", lang)}</aside></div></section>
 </main>`;
 
 const gear = (lang = "en") => `<main>
   ${pageHero(t(lang, "gearPage.title"), t(lang, "gearPage.desc"), site.images.gear, "Affiliate Gear", lang)}
-  <section class="section container"><div class="grid cols-3">${site.gear.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge orange">${g.price}</span><h3>${g.title}</h3><p>${g.spec}</p><a class="btn secondary" rel="nofollow noopener" href="${g.url}">${esc(t(lang, "gearPage.cta"))}</a></div></article>`).join("")}</div></section>
+  <section class="section container"><div class="grid cols-3">${site.gear.map((g) => `<article class="card"><div class="card-img"><img src="${g.image}" alt="${esc(g.title)}" loading="lazy"></div><div class="card-body"><span class="badge orange">${g.price}</span><h3>${esc(g.title)}</h3><p>${esc(g.spec)}</p><p class="meta">${esc(g.disclosure)}</p><a class="btn secondary" rel="sponsored nofollow noopener" href="${g.url}">${esc(t(lang, "gearPage.cta"))}</a></div></article>`).join("")}</div></section>
+</main>`;
+
+const legal = (page, lang = "en") => `<main>
+  ${pageHero(page.title, page.desc, site.images.arcade, "PlayZoneX", lang)}
+  <section class="section container"><article class="panel"><h2>${esc(page.title)}</h2><p>PlayZoneX is a static game discovery and guide website. We link to official game platforms, public resources and product search pages, and we do not host third-party copyrighted games.</p><p>Analytics and advertising scripts are loaded only when production environment variables are configured. External links may use sponsored or nofollow attributes where appropriate.</p><p>Contact: support@playzonex.xyz</p></article></section>
 </main>`;
 
 const about = (lang = "en") => `<main>
@@ -686,12 +717,14 @@ const renderBody = (page, lang = "en") => {
   if (page.type === "roblox") return roblox(lang);
   if (page.type === "minecraft") return minecraft(lang);
   if (page.type === "steam") return steam(lang);
+  if (page.type === "edu") return edu(lang);
   if (page.type === "codes") return codes(page, lang);
   if (page.type === "servers") return servers(page, lang);
   if (page.type === "steam-list") return steamList(page, lang);
   if (page.type === "blooket") return blooket(page, lang);
   if (page.type === "wordle") return wordle(page, lang);
   if (page.type === "gear") return gear(lang);
+  if (page.type === "legal") return legal(page, lang);
   if (page.type === "about") return about(lang);
   if (page.type === "detail") return detail(page, lang);
   return guide(page, lang);
