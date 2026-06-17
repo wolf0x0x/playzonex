@@ -17,6 +17,29 @@ const localGear = (slug) => `/assets/gear/${slug}.svg`;
 const localGuide = (slug) => `/assets/guide-covers/${slug}.svg`;
 const localDownload = (kind, file) => `/assets/downloads/${kind}/${file}`;
 const MAX_IMAGE_BYTES = 6 * 1024 * 1024;
+const ALL_MODULES = ["steam", "minecraft", "roblox", "wordle", "rawg", "blooket", "games", "gear"];
+
+const readJson = (file, fallback = {}) => {
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch {
+    return fallback;
+  }
+};
+
+function requestedModules() {
+  const args = process.argv.slice(2);
+  const argValue = args.find((arg) => arg.startsWith("--modules="))?.split("=")[1]
+    || args[args.indexOf("--modules") + 1];
+  const raw = argValue || process.env.PLAYZONEX_SYNC_MODULES || "all";
+  const selected = raw.split(",").map((item) => item.trim().toLowerCase()).filter(Boolean);
+  if (!selected.length || selected.includes("all")) return new Set(ALL_MODULES);
+  return new Set(selected.filter((item) => ALL_MODULES.includes(item)));
+}
+
+function hasModule(modules, name) {
+  return modules.has(name);
+}
 
 async function fetchText(url, options = {}) {
   const controller = new AbortController();
@@ -291,6 +314,86 @@ async function syncSteam() {
   }
 }
 
+async function syncRawgMetadata() {
+  const apiKey = process.env.RAWG_API_KEY || process.env.PLAYZONEX_RAWG_API_KEY || "";
+  if (!apiKey) {
+    return {
+      checkedAt: today,
+      source: "RAWG API key not configured",
+      games: []
+    };
+  }
+  const result = await fetchText(`https://api.rawg.io/api/games?key=${encodeURIComponent(apiKey)}&page_size=40&ordering=-rating`, { accept: "application/json" });
+  if (!result) {
+    return {
+      checkedAt: today,
+      source: "RAWG unavailable",
+      games: []
+    };
+  }
+  try {
+    const data = JSON.parse(result.body);
+    return {
+      checkedAt: today,
+      source: "RAWG API",
+      games: (data.results || []).map((game) => ({
+        id: game.id,
+        slug: game.slug,
+        title: game.name,
+        released: game.released || null,
+        rating: game.rating ?? null,
+        ratingsCount: game.ratings_count ?? null,
+        metacritic: game.metacritic ?? null,
+        backgroundImage: game.background_image || null,
+        platforms: (game.platforms || []).map((entry) => entry.platform?.name).filter(Boolean),
+        genres: (game.genres || []).map((entry) => entry.name).filter(Boolean),
+        tags: (game.tags || []).slice(0, 8).map((entry) => entry.name).filter(Boolean)
+      }))
+    };
+  } catch {
+    return {
+      checkedAt: today,
+      source: "RAWG parse error",
+      games: []
+    };
+  }
+}
+
+function syncRoblox() {
+  return {
+    trending: site.robloxTrending.map((item) => ({
+      ...item,
+      players: item.players && item.players !== "Not tracked" ? item.players : "Not tracked",
+      source: item.source && !/formula|generated/i.test(item.source) ? item.source : "No public unauthenticated API configured",
+      checkedAt: today
+    })),
+    codes: [],
+    state: "watchlist-no-public-api"
+  };
+}
+
+function syncWordle() {
+  return {
+    history: [],
+    state: "no-answer-republication",
+    checkedAt: today,
+    note: "Daily answer is not republished unless a verified licensed source is configured."
+  };
+}
+
+function syncBlooketGuides() {
+  return {
+    checkedAt: today,
+    source: "PlayZoneX editorial maintenance",
+    guides: site.blooketModes.map((mode) => ({
+      mode: mode.mode,
+      goal: mode.goal,
+      tip: mode.tip,
+      freshness: "reviewed"
+    }))
+  };
+}
+
 function syncGearAssets() {
   for (const item of site.gear) {
     const file = path.join(root, "src/assets/gear", `${slugify(item.title)}.svg`);
@@ -313,37 +416,77 @@ function syncGuideAssets() {
 }
 
 (async () => {
+  const modules = requestedModules();
+  const generatedPath = path.join(root, "src/data/generated.json");
+  const previous = readJson(generatedPath, {});
   mkdir(path.join(root, "src/assets/game-covers"));
   mkdir(path.join(root, "src/assets/gear"));
   mkdir(path.join(root, "src/assets/guide-covers"));
   mkdir(path.join(root, "src/assets/downloads/game-covers"));
   mkdir(path.join(root, "src/assets/downloads/steam"));
-  const gameEntries = {};
-  for (const game of site.games) {
-    gameEntries[game.slug] = await syncGame(game);
-  }
-  syncGearAssets();
-  syncGuideAssets();
-  const servers = await syncMinecraftServers();
-  const steamDeals = await syncSteam();
+
   const generated = {
+    ...previous,
     checkedAt: today,
-    games: gameEntries,
-    servers,
-    steamDeals,
-    robloxTrending: site.robloxTrending.map((item) => ({ ...item, players: "Not tracked", source: "No public unauthenticated API configured", checkedAt: today })),
-    codes: [],
-    wordleHistory: []
+    requestedModules: [...modules]
   };
+
+  if (hasModule(modules, "games")) {
+    const gameEntries = {};
+    for (const game of site.games) {
+      gameEntries[game.slug] = await syncGame(game);
+    }
+    generated.games = gameEntries;
+  }
+
+  if (hasModule(modules, "gear")) {
+    syncGearAssets();
+  }
+  syncGuideAssets();
+
+  if (hasModule(modules, "minecraft")) {
+    generated.servers = await syncMinecraftServers();
+  }
+
+  if (hasModule(modules, "steam")) {
+    generated.steamDeals = await syncSteam();
+  }
+
+  if (hasModule(modules, "roblox")) {
+    const roblox = syncRoblox();
+    generated.robloxTrending = roblox.trending;
+    generated.codes = roblox.codes;
+    generated.robloxState = roblox.state;
+  }
+
+  if (hasModule(modules, "wordle")) {
+    const wordle = syncWordle();
+    generated.wordleHistory = wordle.history;
+    generated.wordleState = wordle.state;
+    generated.wordleNote = wordle.note;
+  }
+
+  if (hasModule(modules, "rawg")) {
+    generated.rawgMetadata = await syncRawgMetadata();
+  }
+
+  if (hasModule(modules, "blooket")) {
+    generated.blooketGuides = syncBlooketGuides();
+  }
+
   writeJson(path.join(root, "src/data/generated.json"), generated);
   writeJson(path.join(root, "src/data/sync-state.json"), {
     checkedAt: today,
-    steam: steamDeals.length ? "synced-steam-featuredcategories" : "unavailable",
-    minecraft: servers.some((server) => server.source === "mcsrvstat.us") ? "synced-mcsrvstat" : "unavailable",
-    roblox: "watchlist-no-public-api",
-    wordle: "no-answer-republication",
-    games: Object.values(gameEntries).some((game) => game.linkStatus === "verified") ? "verified-links-and-local-covers" : "local-covers-generated",
+    requestedModules: [...modules],
+    steam: hasModule(modules, "steam") ? ((generated.steamDeals || []).length ? "synced-steam-featuredcategories" : "unavailable") : "not-requested",
+    minecraft: hasModule(modules, "minecraft") ? ((generated.servers || []).some((server) => server.source === "mcsrvstat.us") ? "synced-mcsrvstat" : "unavailable") : "not-requested",
+    roblox: hasModule(modules, "roblox") ? (generated.robloxState || "watchlist-no-public-api") : "not-requested",
+    wordle: hasModule(modules, "wordle") ? (generated.wordleState || "no-answer-republication") : "not-requested",
+    rawg: hasModule(modules, "rawg") ? (generated.rawgMetadata?.games?.length ? "synced-rawg-api" : generated.rawgMetadata?.source || "unavailable") : "not-requested",
+    blooket: hasModule(modules, "blooket") ? "synced-editorial-guides" : "not-requested",
+    games: hasModule(modules, "games") ? (Object.values(generated.games || {}).some((game) => game.linkStatus === "verified") ? "verified-links-and-local-covers" : "local-covers-generated") : "not-requested",
+    gear: hasModule(modules, "gear") ? "local-assets-generated" : "not-requested",
     note: "Generated data avoids formula-made metrics and unverifiable active claims. Missing live providers are surfaced as unavailable or watchlist status."
   });
-  console.log(`Data sync completed at ${today}: ${Object.keys(gameEntries).length} games, ${servers.length} servers, ${steamDeals.length} Steam entries.`);
+  console.log(`Data sync completed at ${today}: modules=${[...modules].join(",")}; games=${Object.keys(generated.games || {}).length}; servers=${(generated.servers || []).length}; steam=${(generated.steamDeals || []).length}.`);
 })();
