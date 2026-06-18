@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-18T01:41:47.849Z",
+  "checkedAt": "2026-06-18T02:15:04.824Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Steam Deck",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Steam Deck",
@@ -1209,19 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Warframe: Styanax Prime Access - Complete",
-      "price": "$139.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/78308/",
-      "list": "free",
-      "image": "/assets/downloads/steam/78308.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/78308/bwvzyg1bdrvdebir/7c443da976b43c22bbe3953fdba6519ea130bcde/header_ratio.jpg?t=1781709081",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Steam Controller",
@@ -1233,19 +1221,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1777592825",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
-      "title": "Overwatch® - Ultimate Battle Pass Bundle 2026: Season 3",
-      "price": "$39.99",
+      "title": "Warframe: Styanax Prime Access - Complete",
+      "price": "$139.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4586820/",
+      "url": "https://store.steampowered.com/app/78308/",
       "list": "free",
-      "image": "/assets/downloads/steam/4586820.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586820/30c557f08a493d6536dc681a6b3d1005f040315d/header.jpg?t=1781632872",
+      "image": "/assets/downloads/steam/78308.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/78308/bwvzyg1bdrvdebir/7c443da976b43c22bbe3953fdba6519ea130bcde/header_ratio.jpg?t=1781709081",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Forza Horizon 6",
@@ -1257,7 +1245,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1781643649",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Overwatch® - Ultimate Battle Pass Bundle 2026: Season 3",
+      "price": "$39.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4586820/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4586820.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586820/30c557f08a493d6536dc681a6b3d1005f040315d/header.jpg?t=1781632872",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Destiny 2: The Collection",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72233/10mlyrwt89khh346/14798d43e99d07301dc3dca07b8d9b667454ddfc/header_ratio.jpg?t=1781235088",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Dead by Daylight",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781638389",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Resident Evil Requiem",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Backrooms Lost Runners",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072120/dad7d34f3239a360eee16c3763d82d80501937b7/header.jpg?t=1781718736",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "FINAL FANTASY VII REBIRTH",
@@ -1317,19 +1317,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
-      "title": "Hi-Fi RUSH",
-      "price": "-50%",
+      "title": "Split Fiction",
+      "price": "-35%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1817230/",
+      "url": "https://store.steampowered.com/app/2001120/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1817230.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1764916407",
+      "image": "/assets/downloads/steam/2001120.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "R.E.P.O.",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3241660/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3241660.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Dying Light 2: Reloaded Edition",
@@ -1341,19 +1353,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/129576/361f974102857da0d3ad6e6d5a85b7b52be59b6e/header_ratio.jpg?t=1738590788",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Solo Leveling: ARISE OVERDRIVE",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2373990/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2373990.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1773379045",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "Rust",
@@ -1365,7 +1365,91 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "ENDLESS SIGNAL",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4754140/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4754140.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754140/7079c4cd5ef100ba7a82962122514e04edc324c5/header.jpg?t=1781745099",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Texelizer",
+      "price": "$14.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4727380/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4727380.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727380/d4c189a461859ee8d1db925b61bab8623c3b3e47/header.jpg?t=1781744446",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Building 0: Hakuei University",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4315850/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4315850.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315850/d4455d7d103c042047a5fae3dedb407a72b79d73/header.jpg?t=1781743107",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Plant Anywhere",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4507050/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4507050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507050/153378589046c4117df971b885abb3a35084e619/header.jpg?t=1781741065",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "MuteX+",
+      "price": "$6.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3504980/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3504980.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504980/5e2f9bc3b2a78781b25c8409a26220160b60ec6c/header.jpg?t=1781739737",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Glimvale : My Mini Overworld",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3403590/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3403590.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403590/header.jpg?t=1781738275",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
+    },
+    {
+      "title": "Trail of Gods: The Cursed Island",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4771360/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4771360.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771360/2175a5618cf1b0a45b54b5e8edc33d199dcc1f2d/header.jpg?t=1781729274",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     },
     {
       "title": "How Much Is ?",
@@ -1377,91 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341690/8d5f6a4a7fcbc507cd74e9bfa8b25b10aca9281d/header.jpg?t=1781726462",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Gloria Victis: Medieval MMORPG",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/327070/",
-      "list": "new",
-      "image": "/assets/downloads/steam/327070.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1781716455",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Gloria Victis: Medieval MMORPG",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/327070/",
-      "list": "new",
-      "image": "/assets/downloads/steam/327070.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1781716455",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Prologue: Go Wayback!",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2943740/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2943740.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943740/862230cce78633d19b0e89cf013e830d4f26bb52/header.jpg?t=1781718474",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "SWAPMEAT",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2790700/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2790700.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790700/99508a3c5d7bd26ab1a2a9333c1f510bfd4d4881/header.jpg?t=1781716500",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Arcade Architect",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4710210/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4710210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710210/f1a6077fc3c020e7e7962b689532bd9c4dc041b1/header.jpg?t=1781716065",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Melon Clicker",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3405460/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3405460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405460/header.jpg?t=1781715805",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
-    },
-    {
-      "title": "Pornographer",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4734170/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4734170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4734170/1e0a3387f8f576310c1c420b04f6e0b420d98374/header.jpg?t=1781715619",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-17T21:51:01.063Z"
+      "checkedAt": "2026-06-18T02:15:04.824Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
