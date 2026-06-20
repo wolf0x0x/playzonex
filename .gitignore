@@ -3,3 +3,36 @@ node_modules/
 .env
 .env.*
 npm-debug.log*
+
+# Static build output. GitHub Pages deploys the generated site from the
+# Actions artifact, so these files should not be committed to the source tree.
+/dist/
+/assets/
+/data/
+/index.html
+/sitemap.xml
+/robots.txt
+/ads.txt
+/manifest.webmanifest
+/favicon.svg
+/apple-touch-icon.svg
+/CNAME
+/.nojekyll
+/about/
+/blooket/
+/de/
+/edu-games/
+/es/
+/fr/
+/game/
+/gear/
+/ja/
+/minecraft/
+/online-games/
+/privacy/
+/pt/
+/roblox/
+/steam/
+/terms/
+/wordle/
+/zh/

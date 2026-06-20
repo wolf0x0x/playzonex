@@ -170,8 +170,4 @@ write(path.join(dist, "manifest.webmanifest"), JSON.stringify({
   ]
 }, null, 2));
 
-const staticTargets = ["index.html", "online-games", "roblox", "minecraft", "steam", "edu-games", "blooket", "wordle", "gear", "about", "privacy", "terms", "game", "assets", "data", "sitemap.xml", "robots.txt", "ads.txt", "manifest.webmanifest", "favicon.svg", "apple-touch-icon.svg", "CNAME", ".nojekyll", ...LANGUAGES.filter((lang) => lang !== "en")];
-for (const target of staticTargets) rm(path.join(root, target));
-copyDir(dist, root);
-
 console.log(`Built ${totalPages} pages (${site.pages.length} pages × ${LANGUAGES.length} languages) to ${dist}`);
