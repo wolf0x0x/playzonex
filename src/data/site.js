@@ -102,7 +102,7 @@ const games = gameSeeds.map(([title, category, tags], index) => ({
   image: generated.games?.[slugify(title)]?.image || `/assets/game-covers/${slugify(title)}.svg`,
   officialUrl: generated.games?.[slugify(title)]?.officialUrl || official[title] || exactPlatformUrl(slugify(title)),
   linkStatus: generated.games?.[slugify(title)]?.linkStatus || (official[title] ? "verified" : "candidate"),
-  desc: `${title} 是 PlayZoneX 收录的 ${categories.find((c) => c.slug === category).title} 推荐条目，适合快速了解玩法、官方入口和同类选择。`
+  desc: generated.games?.[slugify(title)]?.desc || ""
 }));
 
 const robloxGuides = [

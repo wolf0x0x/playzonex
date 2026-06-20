@@ -123,8 +123,9 @@ const i18n = {
     guide: { eyebrow: "Guide", articleTitle: "Core Content", quickStart: "Quick Start", updateTitle: "Update Strategy", faqTitle: "FAQ", faqUpdate: "How often is this updated?", faqUpdateAnswer: "Core data updates daily or every 4 hours; guides are maintained as events and versions change.", faqDownload: "Do you provide direct game downloads?", faqDownloadAnswer: "No. We only provide navigation, guides and recommendations; game links point to official platforms.", relatedTitle: "Related" },
     codes: { eyebrow: "Roblox Codes", copy: "Copy", note: "Codes must be redeemed in-game. Expired codes are kept as short-term history." },
     servers: { title: "Minecraft Server Status", desc: "Live player counts, versions and status from public Minecraft servers.", source: "Source", refresh: "Refresh Status" },
-    detail: { free: "Free", rating: "Rating", plays: "plays", official: "Play Official", moreSame: "More Like This" },
+    detail: { free: "Free", rating: "Rating", plays: "plays", official: "Play Official", moreSame: "More Like This", playFreeOnline: "Play Free Online", descTemplate: "{title} is an {category} entry on PlayZoneX. Play free online, check the official link and discover similar recommendations.", moreSameTemplate: "More {category} like {title}" },
     gameCardHint: "Official play entry, highlights and similar recommendations.",
+    gameCardAlt: "Play {title} - Free Online Game",
     status: { active: "active", checking: "checking", expired: "expired" }
   },
   es: {
@@ -157,8 +158,9 @@ const i18n = {
     guide: { eyebrow: "Guía", articleTitle: "Contenido Principal", quickStart: "Inicio Rápido", updateTitle: "Estrategia de Actualización", faqTitle: "Preguntas Frecuentes", faqUpdate: "¿Con qué frecuencia se actualiza?", faqUpdateAnswer: "Los datos principales se actualizan diariamente o cada 4 horas; las guías se mantienen según eventos y versiones.", faqDownload: "¿Proporcionáis descargas directas?", faqDownloadAnswer: "No. Solo ofrecemos navegación, guías y recomendaciones; los enlaces apuntan a plataformas oficiales.", relatedTitle: "Relacionado" },
     codes: { eyebrow: "Códigos Roblox", copy: "Copiar", note: "Los códigos deben canjearse dentro del juego. Los caducados se conservan como historial breve." },
     servers: { title: "Estado de Servidores Minecraft", desc: "Jugadores en línea, versiones y estado de servidores públicos de Minecraft.", source: "Fuente", refresh: "Actualizar Estado" },
-    detail: { free: "Gratis", rating: "Valoración", plays: "jugadas", official: "Jugar Oficial", moreSame: "Más Similares" },
+    detail: { free: "Gratis", rating: "Valoración", plays: "jugadas", official: "Jugar Oficial", moreSame: "Más Similares", playFreeOnline: "Juega Gratis Online", descTemplate: "{title} es una entrada de {category} en PlayZoneX. Juega gratis en línea, consulta el enlace oficial y descubre recomendaciones similares.", moreSameTemplate: "Más {category} como {title}" },
     gameCardHint: "Entrada oficial, puntos fuertes y recomendaciones similares.",
+    gameCardAlt: "Juega {title} - Juego Gratis Online",
     status: { active: "activo", checking: "verificando", expired: "caducado" }
   },
   pt: {
@@ -191,8 +193,9 @@ const i18n = {
     guide: { eyebrow: "Guia", articleTitle: "Conteúdo Principal", quickStart: "Início Rápido", updateTitle: "Estratégia de Atualização", faqTitle: "Perguntas Frequentes", faqUpdate: "Com que frequência isso é atualizado?", faqUpdateAnswer: "Os dados principais são atualizados diariamente ou a cada 4 horas; os guias são mantidos conforme eventos e versões mudam.", faqDownload: "Vocês fornecem downloads diretos de jogos?", faqDownloadAnswer: "Não. Oferecemos apenas navegação, guias e recomendações; os links dos jogos apontam para plataformas oficiais.", relatedTitle: "Relacionado" },
     codes: { eyebrow: "Códigos Roblox", copy: "Copiar", note: "Os códigos devem ser resgatados no jogo. Códigos expirados são mantidos como histórico curto." },
     servers: { title: "Status dos Servidores Minecraft", desc: "Jogadores online, versões e status de servidores públicos de Minecraft.", source: "Fonte", refresh: "Atualizar Status" },
-    detail: { free: "Grátis", rating: "Avaliação", plays: "jogadas", official: "Jogar Oficial", moreSame: "Mais Similares" },
+    detail: { free: "Grátis", rating: "Avaliação", plays: "jogadas", official: "Jogar Oficial", moreSame: "Mais Similares", playFreeOnline: "Jogue Grátis Online", descTemplate: "{title} é uma entrada de {category} no PlayZoneX. Jogue grátis online, confira o link oficial e descubra recomendações similares.", moreSameTemplate: "Mais {category} como {title}" },
     gameCardHint: "Entrada oficial, destaques e recomendações similares.",
+    gameCardAlt: "Jogue {title} - Jogo Grátis Online",
     status: { active: "ativo", checking: "verificando", expired: "expirado" }
   },
   fr: {
@@ -225,8 +228,9 @@ const i18n = {
     guide: { eyebrow: "Guide", articleTitle: "Contenu Principal", quickStart: "Démarrage Rapide", updateTitle: "Stratégie de Mise à Jour", faqTitle: "FAQ", faqUpdate: "À quelle fréquence cela est-il mis à jour ?", faqUpdateAnswer: "Les données principales sont mises à jour quotidiennement ou toutes les 4 heures ; les guides sont maintenus selon les événements et versions.", faqDownload: "Proposez-vous des téléchargements directs de jeux ?", faqDownloadAnswer: "Non. Nous fournissons uniquement navigation, guides et recommandations ; les liens vers les jeux pointent vers les plateformes officielles.", relatedTitle: "Liens Connexes" },
     codes: { eyebrow: "Codes Roblox", copy: "Copier", note: "Les codes doivent être utilisés en jeu. Les codes expirés sont conservés brièvement." },
     servers: { title: "Statut des Serveurs Minecraft", desc: "Joueurs en ligne, versions et statut des serveurs Minecraft publics.", source: "Source", refresh: "Actualiser" },
-    detail: { free: "Gratuit", rating: "Note", plays: "parties", official: "Jouer Officiel", moreSame: "Plus Similaires" },
+    detail: { free: "Gratuit", rating: "Note", plays: "parties", official: "Jouer Officiel", moreSame: "Plus Similaires", playFreeOnline: "Jouez Gratuitement en Ligne", descTemplate: "{title} est une entrée {category} sur PlayZoneX. Jouez gratuitement en ligne, consultez le lien officiel et découvrez des recommandations similaires.", moreSameTemplate: "Plus de {category} comme {title}" },
     gameCardHint: "Entrée officielle, points forts et recommandations similaires.",
+    gameCardAlt: "Jouez à {title} - Jeu Gratuit en Ligne",
     status: { active: "actif", checking: "vérification", expired: "expiré" }
   },
   de: {
@@ -259,8 +263,9 @@ const i18n = {
     guide: { eyebrow: "Guide", articleTitle: "Kerninhalte", quickStart: "Schnellstart", updateTitle: "Update-Strategie", faqTitle: "FAQ", faqUpdate: "Wie oft wird dies aktualisiert?", faqUpdateAnswer: "Kern Daten werden täglich oder alle 4 Stunden aktualisiert; Guides werden je nach Events und Versionen gepflegt.", faqDownload: "Bietet ihr direkte Spiel-Downloads an?", faqDownloadAnswer: "Nein. Wir bieten nur Navigation, Guides und Empfehlungen; Spiel-Links führen zu offiziellen Plattformen.", relatedTitle: "Verwandte Links" },
     codes: { eyebrow: "Roblox-Codes", copy: "Kopieren", note: "Codes müssen im Spiel eingelöst werden. Abgelaufene Codes werden kurzzeitig als Historie gespeichert." },
     servers: { title: "Minecraft-Server-Status", desc: "Live-Spielerzahlen, Versionen und Status öffentlicher Minecraft-Server.", source: "Quelle", refresh: "Status Aktualisieren" },
-    detail: { free: "Kostenlos", rating: "Bewertung", plays: "Spiele", official: "Offiziell Spielen", moreSame: "Ähnliche Spiele" },
+    detail: { free: "Kostenlos", rating: "Bewertung", plays: "Spiele", official: "Offiziell Spielen", moreSame: "Ähnliche Spiele", playFreeOnline: "Kostenlos Online Spielen", descTemplate: "{title} ist ein {category}-Eintrag auf PlayZoneX. Spiele kostenlos online, prüfe den offiziellen Link und entdecke ähnliche Empfehlungen.", moreSameTemplate: "Mehr {category} wie {title}" },
     gameCardHint: "Offizieller Spiel-Entry, Highlights und ähnliche Empfehlungen.",
+    gameCardAlt: "Spiele {title} - Kostenloses Online-Spiel",
     status: { active: "aktiv", checking: "prüfung", expired: "abgelaufen" }
   },
   ja: {
@@ -293,8 +298,9 @@ const i18n = {
     guide: { eyebrow: "攻略", articleTitle: "核心コンテンツ", quickStart: "クイックスタート", updateTitle: "更新方針", faqTitle: "よくある質問", faqUpdate: "どのくらいの頻度で更新されますか？", faqUpdateAnswer: "核心データは毎日または4時間ごとに更新。攻略はイベントやバージョン変化に応じてメンテナンスされます。", faqDownload: "ゲームの直接ダウンロードは提供していますか？", faqDownloadAnswer: "いいえ。当サイトはナビゲーション、攻略、おすすめのみを提供し、ゲームリンクは公式プラットフォームへ飛びます。", relatedTitle: "関連リンク" },
     codes: { eyebrow: "Roblox コード", copy: "コピー", note: "コードはゲーム内で使用する必要があります。期限切れコードは短期間履歴として残ります。" },
     servers: { title: "Minecraft サーバーステータス", desc: "公開Minecraftサーバーのオンライン人数、バージョン、ステータス。", source: "ソース", refresh: "ステータス更新" },
-    detail: { free: "無料", rating: "評価", plays: "プレイ数", official: "公式でプレイ", moreSame: "類似ゲーム" },
+    detail: { free: "無料", rating: "評価", plays: "プレイ数", official: "公式でプレイ", moreSame: "類似ゲーム", playFreeOnline: "無料オンラインプレイ", descTemplate: "『{title}』は PlayZoneX の {category} タイトルです。無料でオンラインで遊び、公式リンクを確認し、類似のおすすめを見つけよう。", moreSameTemplate: "『{title}』のような {category} をもっと見る" },
     gameCardHint: "公式プレイ入口、魅力、類似おすすめ。",
+    gameCardAlt: "『{title}』を無料でオンラインゲームとしてプレイ",
     status: { active: "有効", checking: "確認中", expired: "期限切れ" }
   },
   zh: {
@@ -327,8 +333,9 @@ const i18n = {
     guide: { eyebrow: "攻略", articleTitle: "核心内容", quickStart: "快速上手", updateTitle: "更新策略", faqTitle: "常见问题", faqUpdate: "多久更新？", faqUpdateAnswer: "核心数据按每日或每 4 小时更新，攻略内容按活动和版本变化维护。", faqDownload: "是否直接提供游戏下载？", faqDownloadAnswer: "不提供。本站只做导航、攻略与推荐，游戏入口跳转官方平台。", relatedTitle: "相关入口" },
     codes: { eyebrow: "Roblox 兑换码", copy: "复制", note: "兑换码需以游戏内实际可用状态为准，过期码会保留短期历史记录。" },
     servers: { title: "Minecraft 服务器状态", desc: "公开 Minecraft 服务器的在线人数、版本和状态。", source: "数据来源", refresh: "刷新状态" },
-    detail: { free: "免费", rating: "评分", plays: "plays", official: "前往官方游玩", moreSame: "相似游戏" },
+    detail: { free: "免费", rating: "评分", plays: "plays", official: "前往官方游玩", moreSame: "相似游戏", playFreeOnline: "免费在线游玩", descTemplate: "《{title}》是 PlayZoneX 收录的 {category} 推荐条目，可在线免费游玩、查看官方入口并发现相似推荐。", moreSameTemplate: "更多类似《{title}》的 {category}" },
     gameCardHint: "官方游玩入口、玩法亮点和相似推荐。",
+    gameCardAlt: "免费在线游玩《{title}》",
     status: { active: "有效", checking: "确认中", expired: "已过期" }
   }
 };
@@ -480,7 +487,10 @@ function pageMeta(page, lang) {
     const g = translateDataForLang([page.guide], lang)[0];
     return { title: `${g.title} - PlayZoneX`, desc: g.kicker };
   }
-  if (page.type === "detail" && page.game) return { title: `${page.game.title} - ${t(lang, "detail.official")} - PlayZoneX`, desc: `${page.game.title} game details, official play link and similar recommendations.` };
+  if (page.type === "detail" && page.game) {
+    const g = page.game;
+    return { title: `${g.title} - ${t(lang, "detail.playFreeOnline")} | PlayZoneX`, desc: gameDesc(g, lang) };
+  }
   return { title: page.title, desc: page.desc };
 }
 
@@ -502,18 +512,93 @@ const layout = (page, body, lang = "en") => {
     const active = page.nav === key ? "active" : "";
     return `<a class="${active}" href="${href}">${esc(t(lang, labelKey))}</a>`;
   }).join("");
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": page.type === "detail" ? "VideoGame" : "WebPage",
-    name: meta.title.replace(" - PlayZoneX", ""),
-    description: meta.desc,
-    url: pageUrl(page, lang)
+  const cleanMetaTitle = (title) => title.replace(/ [-|] PlayZoneX$/, "");
+
+  const buildPageSchema = () => {
+    const base = {
+      "@context": "https://schema.org",
+      "@type": page.type === "detail" ? "VideoGame" : "WebPage",
+      name: cleanMetaTitle(meta.title),
+      description: meta.desc,
+      url: pageUrl(page, lang)
+    };
+    if (page.type === "detail" && page.game) {
+      const g = page.game;
+      base.name = g.title;
+      base.image = g.image;
+      base.url = g.officialUrl;
+      base.applicationCategory = "Game";
+      base.genre = categoryName(g.category, lang);
+      base.operatingSystem = "Any";
+      base.author = { "@type": "Organization", name: "PlayZoneX", url: DOMAIN };
+      if (g.rating) {
+        const agg = { "@type": "AggregateRating", ratingValue: g.rating, bestRating: "5", worstRating: "1" };
+        if (typeof g.plays === "number" && g.plays > 0) agg.ratingCount = g.plays;
+        base.aggregateRating = agg;
+      }
+      base.offers = { "@type": "Offer", price: "0", priceCurrency: "USD", availability: "https://schema.org/InStock" };
+    }
+    return base;
   };
-  if (page.type === "detail" && page.game) {
-    schema.image = page.game.image;
-    schema.aggregateRating = { "@type": "AggregateRating", ratingValue: page.game.rating, bestRating: "5" };
-    schema.url = page.game.officialUrl;
-  }
+
+  const buildBreadcrumbSchema = () => {
+    const homeItem = { name: t(lang, "siteName"), item: pageUrl({ path: "/" }, lang) };
+    const items = [];
+    const push = (name, path) => items.push({ name, item: pageUrl({ path }, lang) });
+    const pushPage = (name, p = page) => items.push({ name, item: pageUrl(p, lang) });
+
+    if (page.type === "home") {
+      pushPage(t(lang, "siteName"));
+    } else if (page.type === "detail" && page.game) {
+      items.push(homeItem);
+      push(t(lang, "nav.online"), "/online-games/");
+      push(categoryName(page.game.category, lang), `/online-games/${page.game.category}/`);
+      pushPage(page.game.title);
+    } else if (page.type === "category") {
+      items.push(homeItem);
+      push(t(lang, "nav.online"), "/online-games/");
+      pushPage(categoryName(page.category, lang));
+    } else if (page.type === "lobby") {
+      items.push(homeItem);
+      pushPage(t(lang, "nav.online"));
+    } else if (page.nav === "roblox" || page.type === "codes") {
+      items.push(homeItem);
+      push(t(lang, "nav.roblox"), "/roblox/");
+      if (page.guide) push(__(page.guide.title, lang), page.path);
+      else if (page.type === "codes") push(t(lang, "codes.eyebrow"), page.path);
+    } else if (page.nav === "minecraft" || page.type === "servers") {
+      items.push(homeItem);
+      push(t(lang, "nav.minecraft"), "/minecraft/");
+      if (page.guide) push(__(page.guide.title, lang), page.path);
+      else if (page.type === "servers") push(t(lang, "servers.title"), page.path);
+    } else if (page.nav === "steam" || page.type === "steam-list") {
+      items.push(homeItem);
+      push(t(lang, "nav.steam"), "/steam/");
+      if (page.guide) push(__(page.guide.title, lang), page.path);
+    } else if (page.nav === "edu" || page.type === "blooket" || page.type === "wordle") {
+      items.push(homeItem);
+      push(t(lang, "nav.edu"), "/edu-games/");
+      if (page.guide) push(__(page.guide.title, lang), page.path);
+    } else if (page.type === "gear") {
+      items.push(homeItem);
+      pushPage(t(lang, "nav.gear"));
+    } else if (page.type === "about") {
+      items.push(homeItem);
+      pushPage(t(lang, "about.title"));
+    } else {
+      items.push(homeItem);
+      pushPage(cleanMetaTitle(meta.title));
+    }
+
+    return {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: items.map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.name, item: it.item }))
+    };
+  };
+
+  const pageSchema = buildPageSchema();
+  const breadcrumbSchema = buildBreadcrumbSchema();
   const googleTag = GA_ID ? `  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
   <script>
@@ -547,7 +632,7 @@ ${googleTag}
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="stylesheet" href="/assets/styles.css">
   ${AD_CLIENT ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${AD_CLIENT}" crossorigin="anonymous"></script>` : ""}
-  <script type="application/ld+json">${JSON.stringify(schema)}</script>
+  <script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", "@graph": [pageSchema, breadcrumbSchema] })}</script>
 </head>
 <body>
   <header class="topbar">
@@ -591,7 +676,7 @@ const footer = (lang = "en") => `<footer class="footer">
 const ratingText = (game) => game.rating ? `★ ${game.rating}` : "Editorial pick";
 const gameCard = (game, lang = "en") => `<article class="card" data-game-card data-category="${game.category}" data-rating="${game.rating || 0}" data-plays="${game.rating || 0}" data-title="${esc(game.title)}">
   <a href="/game/${game.slug}/">
-    <div class="card-img"><img src="${game.image}" alt="${esc(game.title)} screenshot" loading="lazy"></div>
+    <div class="card-img"><img src="${game.image}" alt="${esc(t(lang, "gameCardAlt").replace(/{title}/g, game.title))}" loading="lazy" width="600" height="400"></div>
     <div class="card-body">
       <div class="meta">${game.tags.map((tag, i) => `<span class="badge ${i ? "" : "orange"}">${esc(tag)}</span>`).join("")}<span>${esc(ratingText(game))}</span><span>${esc(game.plays)}</span></div>
       <h3>${esc(game.title)}</h3>
@@ -601,6 +686,12 @@ const gameCard = (game, lang = "en") => `<article class="card" data-game-card da
 </article>`;
 
 const categoryName = (slug, lang = "en") => categoryI18n[slug]?.[lang] || __(site.categories.find((c) => c.slug === slug)?.title, lang) || slug;
+
+const gameDesc = (game, lang = "en") => {
+  if (game.desc) return game.desc;
+  const template = t(lang, "detail.descTemplate");
+  return template.replace(/{title}/g, game.title).replace(/{category}/g, categoryName(game.category, lang));
+};
 
 const heroSearch = (lang = "en") => `<div class="search-wrap">
   <input class="search-input" data-search placeholder="${esc(t(lang, "searchPlaceholder"))}" autocomplete="off">
@@ -765,12 +856,13 @@ const about = (lang = "en") => `<main>
 
 const detail = (page, lang = "en") => {
   const g = page.game;
+  const moreSameHeading = esc(t(lang, "detail.moreSameTemplate").replace(/{category}/g, categoryName(g.category, lang)).replace(/{title}/g, g.title));
   return `<main class="container">
     <section class="detail-hero">
-      <div class="play-cover"><img src="${g.image}" alt="${esc(g.title)}"><div class="play-overlay"><a class="play-circle" href="${g.officialUrl}" rel="nofollow noopener">${icon("play")}</a></div></div>
-      <aside class="panel"><div class="eyebrow">Game Detail</div><h1>${g.title}</h1><div class="meta"><span class="badge orange">${esc(t(lang, "detail.free"))}</span><span>${esc(ratingText(g))}</span><span>${esc(g.plays)}</span><span>${esc(g.linkStatus || "candidate")}</span></div><p>${categoryName(g.category, lang)} ${t(lang, "gameCardHint")}</p><a class="btn" href="${g.officialUrl}" rel="nofollow noopener">${esc(t(lang, "detail.official"))}</a><a class="btn secondary" href="/online-games/${g.category}/">${esc(t(lang, "detail.moreSame"))}</a></aside>
+      <div class="play-cover"><img src="${g.image}" alt="${esc(t(lang, "gameCardAlt").replace(/{title}/g, g.title))}" width="800" height="600"><div class="play-overlay"><a class="play-circle" href="${g.officialUrl}" rel="nofollow noopener">${icon("play")}</a></div></div>
+      <aside class="panel"><div class="eyebrow">${esc(categoryName(g.category, lang))}</div><h1>${g.title}</h1><div class="meta"><span class="badge orange">${esc(t(lang, "detail.free"))}</span><span>${esc(ratingText(g))}</span><span>${esc(g.plays)}</span><span>${esc(g.linkStatus || "candidate")}</span></div><p>${esc(gameDesc(g, lang))}</p><a class="btn" href="${g.officialUrl}" rel="nofollow noopener">${esc(t(lang, "detail.official"))}</a><a class="btn secondary" href="/online-games/${g.category}/">${esc(t(lang, "detail.moreSame"))}</a></aside>
     </section>
-    <section class="section">${getAdHtml("inline", lang)}<div class="section-head"><div><div class="eyebrow">Similar</div><h2>${esc(t(lang, "detail.moreSame"))}</h2></div></div><div class="grid cols-4">${site.games.filter((x) => x.slug !== g.slug).slice(0, 4).map((x) => gameCard(x, lang)).join("")}</div></section>
+    <section class="section">${getAdHtml("inline", lang)}<div class="section-head"><div><div class="eyebrow">${esc(categoryName(g.category, lang))}</div><h2>${moreSameHeading}</h2></div><a class="btn secondary" href="/online-games/${g.category}/">${esc(t(lang, "detail.moreSame"))}</a></div><div class="grid cols-4">${site.games.filter((x) => x.category === g.category && x.slug !== g.slug).slice(0, 4).map((x) => gameCard(x, lang)).join("")}</div></section>
   </main>`;
 };
 
