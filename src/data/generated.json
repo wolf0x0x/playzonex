@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-23T20:33:31.562Z",
+  "checkedAt": "2026-06-23T21:21:32.965Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355580/1dacd838b5b84abb1914668f5596af29dba7c4b7/header.jpg?t=1782236025",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Warhammer 40,000: Darktide - Skitarii Class",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/5bb3da805ebe9216ce63f358ba4abf83c959320a/header.jpg?t=1782235928",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Steam Deck",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Steam Deck",
@@ -1233,19 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "SAND: Raiders of Sophie",
-      "price": "-21%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1431300/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1431300.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Steam Controller",
@@ -1257,19 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1777592825",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
-      "title": "Sid Meier's Civilization® VII: Brush and Blade Collection",
-      "price": "$29.99",
+      "title": "SAND: Raiders of Sophie",
+      "price": "-21%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4657090/",
+      "url": "https://store.steampowered.com/app/1431300/",
       "list": "free",
-      "image": "/assets/downloads/steam/4657090.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657090/a8bd695a1aa66f15a7b12b9883c0d161bce94e6e/header.jpg?t=1782230397",
+      "image": "/assets/downloads/steam/1431300.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "MOUSE: P.I. For Hire",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2416450/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2416450.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1780271651",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Horizon Forbidden West™ Complete Edition",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1776465869",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "MOUSE: P.I. For Hire",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1780271651",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "RuneScape: Dragonwilds",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1782209165",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Cyberpunk 2077: Phantom Liberty",
@@ -1329,7 +1329,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "Dimhaven - The Lost Source",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2458980/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2458980.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458980/06d5c493e7d088a11372622a0689869126966c19/header.jpg?t=1782229679",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Dead by Daylight",
@@ -1338,34 +1350,106 @@
       "url": "https://store.steampowered.com/app/381210/",
       "list": "deals",
       "image": "/assets/downloads/steam/381210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781795618",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782245493",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
-      "title": "FINAL FANTASY VII REBIRTH",
-      "price": "-60%",
+      "title": "Rust",
+      "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2909400/",
+      "url": "https://store.steampowered.com/app/252490/",
       "list": "deals",
-      "image": "/assets/downloads/steam/2909400.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
+      "image": "/assets/downloads/steam/252490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
-      "title": "Batman: Arkham Collection",
-      "price": "-85%",
+      "title": "Glitchy: Not So Sweet",
+      "price": "$4.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/320795/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/320795.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/320795/header_ratio.jpg?t=1775683257",
+      "url": "https://store.steampowered.com/app/4642480/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4642480.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642480/23bcdbc1dab0ba9755f78facf95ce41d9e0d070d/header.jpg?t=1782244973",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "Hell Runner",
+      "price": "$14.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2213450/",
+      "list": "new",
+      "image": "/assets/downloads/steam/2213450.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213450/header.jpg?t=1782242309",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "HOP-CO-OP",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4464550/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4464550.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464550/d250a352b5476f644ad35aa4601f0cb1aee30dcb/header.jpg?t=1782242247",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "Boing!",
+      "price": "-24%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4367280/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4367280.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367280/e357496c9c197abeec03e47e520dff8483d499ad/header.jpg?t=1782242152",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "Raccoon Packer: A Cozy Puzzle Game",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4590400/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4590400.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590400/c2b0bcc078eff64a4acbf540b841c673caac3e45/header.jpg?t=1782241302",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "Volcano Logistics",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4219150/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4219150.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219150/aadfc2d37cda8f34fb885fbcb71453cf11734b46/header.jpg?t=1782239788",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
+    },
+    {
+      "title": "There Is Nothing There",
+      "price": "$2.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4387910/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4387910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387910/d808c663189c815ffb9347ca041aa93484bbfa59/header.jpg?t=1782247460",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     },
     {
       "title": "Public Fears - George's Farm",
@@ -1377,91 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564770/02a4d206ae1e12deb6b58edc32f52b60517b46b5/header.jpg?t=1782238463",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Knight Legion: Rpg Strategy",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4686310/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4686310.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686310/034ba87ce8017db8b187e1cad8494328bdab0172/header.jpg?t=1782238393",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "7,200 Premier Pack - Rainbow Six Siege",
-      "price": "$99.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4770140/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4770140.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770140/a892d876128f73576dd3cc90c54b3907495fa9d0/header.jpg?t=1782237461",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Bug Drop",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4439870/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4439870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439870/3bd21c8adb675bdf91953a9fb84610bc61069233/header.jpg?t=1782236537",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Gene Crawl: Dungeon Descent",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4360060/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4360060.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360060/67a21759b3913e50faf5f7a549ea8cd90c7ca6fe/header.jpg?t=1782236453",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Patchkins Party",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3405130/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3405130.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405130/422fe7ce2f2ad25acd456de7bc4088429a170c2d/header.jpg?t=1782235621",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Deck Lite",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3935250/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3935250.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935250/6b3139bd5871d6dcf0497fa3d4602b91efab7622/header.jpg?t=1782235550",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
-    },
-    {
-      "title": "Tiny Cats vs Toys",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4550590/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4550590.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550590/466d29e7288fea4299072c5697324cb5f8226d4a/header.jpg?t=1782234886",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-23T19:10:42.098Z"
+      "checkedAt": "2026-06-23T21:21:32.965Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
