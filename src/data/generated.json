@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-25T16:09:43.714Z",
+  "checkedAt": "2026-06-25T17:59:48.098Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,19 +1185,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Prime Status Upgrade",
-      "price": "$14.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/54029/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/54029.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/54029/header_ratio.jpg?t=1713988570",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "Steam Controller",
@@ -1209,19 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1777592825",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "DELTARUNE",
-      "price": "$24.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1671210/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1671210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1233,19 +1233,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Planet Coaster 2: Parades Pack",
-      "price": "$18.99",
+      "title": "DELTARUNE",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4492160/",
+      "url": "https://store.steampowered.com/app/1671210/",
       "list": "free",
-      "image": "/assets/downloads/steam/4492160.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492160/4193c5a62cc53f43d3b40e7371ce2de3c68614e8/header.jpg?t=1782381558",
+      "image": "/assets/downloads/steam/1671210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "Cyberpunk 2077: Ultimate Edition",
@@ -1257,19 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Horizon Forbidden West™ Complete Edition",
-      "price": "-50%",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2420110/",
+      "url": "https://store.steampowered.com/app/2138330/",
       "list": "free",
-      "image": "/assets/downloads/steam/2420110.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1776465869",
+      "image": "/assets/downloads/steam/2138330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "Horizon Forbidden West™ Complete Edition",
@@ -1293,19 +1293,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1776465869",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Cyberpunk 2077: Phantom Liberty",
-      "price": "-40%",
+      "title": "DELTARUNE",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2138330/",
+      "url": "https://store.steampowered.com/app/1671210/",
       "list": "deals",
-      "image": "/assets/downloads/steam/2138330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
+      "image": "/assets/downloads/steam/1671210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1086940/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1086940.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
       "title": "RuneScape: Dragonwilds",
@@ -1317,151 +1329,139 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1782209165",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Sex, Secrets & Used Tech",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3576350/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3576350.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576350/367ed33546b647dd0387fc03e221e5093a9b455e/header.jpg?t=1782349109",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "FINAL FANTASY VII REBIRTH",
-      "price": "-60%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2909400/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2909400.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt - Complete Edition",
-      "price": "-80%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/124923/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/124923.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/38e6905e6bd8395f9ae4d37c688335c7d1c93294/header_ratio.jpg?t=1775042338",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "Batman: Arkham Collection",
-      "price": "-85%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/320795/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/320795.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/320795/header_ratio.jpg?t=1775683257",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "Starsandisland Modkit",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4886470/",
-      "list": "new",
-      "image": null,
-      "remoteImage": null,
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "Soccerboy vs Aliens",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3562500/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3562500.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562500/f6b2083a46535c0289e9d095ed7f9949d10823cf/header.jpg?t=1782392299",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "KIYO - Bunny Tyranny",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2466790/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2466790.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2466790/f48cf9f42a61956979e99b69c5213b2928a6afed/header.jpg?t=1782392093",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
-    },
-    {
-      "title": "Critter Quest",
+      "title": "Cyberpunk 2077: Phantom Liberty",
       "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4799700/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4799700.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799700/2f5187f34f25c3cac45ac2d60d9be069a2e0b250/header.jpg?t=1782388996",
+      "url": "https://store.steampowered.com/app/2138330/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2138330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "7 Nights with Vroombi",
-      "price": "-15%",
+      "title": "God of War Ragnarök",
+      "price": "-33%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3992580/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3992580.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992580/fdfdd5d0a81071bf108570cdcf7f20541f24a52c/header.jpg?t=1782387545",
+      "url": "https://store.steampowered.com/app/2322010/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2322010.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Cubic Spree",
-      "price": "$12.99",
+      "title": "Marvel's Spider-Man 2",
+      "price": "-33%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4148410/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4148410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148410/c32b2e4dabb5ea49d3377dc1d212fc4b6c1276c2/header.jpg?t=1782394836",
+      "url": "https://store.steampowered.com/app/2651280/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2651280.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "Depths",
-      "price": "Free",
+      "title": "Once a Pawn a King",
+      "price": "-35%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4808100/",
+      "url": "https://store.steampowered.com/app/3298910/",
       "list": "new",
-      "image": "/assets/downloads/steam/4808100.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808100/febdf85eb8362e554a51b1f6d7e64556a02df810/header.jpg?t=1782382854",
+      "image": "/assets/downloads/steam/3298910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3298910/17c5b9ff82c16e66875e77510e32c1d04cee6040/header_alt_assets_0.jpg?t=1782406764",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     },
     {
-      "title": "MARBLE MIRAGE",
+      "title": "Wife Life : Secret",
+      "price": "$2.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4624870/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4624870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624870/f8aa8541668c70fd9b1af0d8702f5964783c0174/header.jpg?t=1782405433",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Wetline - Fire Break",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4048170/",
+      "url": "https://store.steampowered.com/app/4801080/",
       "list": "new",
-      "image": "/assets/downloads/steam/4048170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048170/65df360ef4f92a1bb63d918a5c473c687abc0caf/header.jpg?t=1782381645",
+      "image": "/assets/downloads/steam/4801080.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801080/3187d6ffedb6c521c25bdfe568397281eb599a80/header.jpg?t=1782404662",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-25T13:57:34.966Z"
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Cronus' Tomb: First Quest",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4670670/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4670670.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670670/f9861f2f5f7e16b0f9ee181b8d228c5a31385354/header.jpg?t=1782404514",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "The Lumberjack's Routine",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4695000/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4695000.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695000/f3400c3a7b2be96f97a30cf0bcb53638ba85db72/header.jpg?t=1782404394",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Impulse Response",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4672520/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4672520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672520/30cd90ed9e019e4c4bc98f222f89f3561e9e2e8b/header.jpg?t=1782403216",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Enarian Online",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4218510/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4218510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218510/85879f262553b5976db3c53e541e409e42cc8094/header.jpg?t=1782403000",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
+    },
+    {
+      "title": "Left Fore Dead: Zombie Battle Golf",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4626000/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4626000.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626000/d40e2a0fc963afe6375847fad22a0fdb8e9a8f2c/header.jpg?t=1782400757",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-25T17:59:48.098Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
