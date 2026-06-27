@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-27T20:44:05.856Z",
+  "checkedAt": "2026-06-27T20:46:51.872Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Steam Deck",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Steam Deck",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "SAND: Raiders of Sophie",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "The Binding of Isaac: Rebirth Complete Bundle",
@@ -1245,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/2405/12hy4z7jy2ssyi46/header_ratio.jpg?t=1617171075",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1257,7 +1257,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "DELTARUNE",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1293,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
-    },
-    {
-      "title": "Red Dead Redemption 2",
-      "price": "-75%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1174180/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1174180.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "DELTARUNE",
@@ -1317,31 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
-      "title": "Marvel's Spider-Man 2",
-      "price": "-33%",
+      "title": "Red Dead Redemption 2",
+      "price": "-75%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2651280/",
+      "url": "https://store.steampowered.com/app/1174180/",
       "list": "deals",
-      "image": "/assets/downloads/steam/2651280.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+      "image": "/assets/downloads/steam/1174180.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
-    },
-    {
-      "title": "God of War Ragnarök",
-      "price": "-33%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2322010/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2322010.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Paralives",
@@ -1353,7 +1329,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1782408391",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "price": "-33%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2651280/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2651280.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Ghost of Tsushima DIRECTOR'S CUT",
@@ -1365,7 +1353,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
+    },
+    {
+      "title": "RuneScape: Dragonwilds",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1374490/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1374490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1782481994",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-27T20:46:51.872Z"
+    },
+    {
+      "title": "Finding Lake Chewaucan",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3512920/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3512920.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3512920/98b8b655af038be26681d8752bab3afbb9f43079/header.jpg?t=1782581747",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Fabricatio",
@@ -1377,7 +1389,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834620/d75264e160df5ce80bd5e03ddf811cdea13f13e7/header.jpg?t=1782577766",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Gods and Kings",
@@ -1389,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982380/header.jpg?t=1782573979",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Seven Rounds",
@@ -1401,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838390/ad2daa89b07cd68e0a5ed5170300e6eb211b2646/header.jpg?t=1782567190",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Touhou Defense Tale ~ AI Test in Touhou ~",
@@ -1413,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738660/42fb12d13379c32a14bc1eba6fe4db9408b7874f/header.jpg?t=1782567073",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Ocean Planet",
@@ -1425,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586470/258c25676ae6b11fa0bbd727c8a5f470ca3afa04/header.jpg?t=1782566612",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Godius Eternal War",
@@ -1437,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559140/d0dc52625c604bf57727545666bd29e766e7a4d9/header.jpg?t=1782565838",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     },
     {
       "title": "Battle Medal: Super Auto Chess Swarm War",
@@ -1449,19 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568990/63c2115baeb7b6fa6627058b6801f81bab1e977d/header.jpg?t=1782558011",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
-    },
-    {
-      "title": "HexLemma",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4801330/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4801330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801330/120d72aecbd5e4c616b92ca556a6f620a283e0d3/header.jpg?t=1782556962",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-06-27T18:09:03.879Z"
+      "checkedAt": "2026-06-27T20:46:51.872Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
