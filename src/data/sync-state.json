@@ -1,15 +1,17 @@
 {
-  "checkedAt": "2026-06-29T20:49:13.493Z",
+  "checkedAt": "2026-06-29T21:04:00.394Z",
   "requestedModules": [
-    "blooket"
+    "games",
+    "gear",
+    "rawg"
   ],
   "steam": "not-requested",
   "minecraft": "not-requested",
   "roblox": "not-requested",
   "wordle": "not-requested",
-  "rawg": "not-requested",
-  "blooket": "synced-editorial-guides",
-  "games": "not-requested",
-  "gear": "not-requested",
+  "rawg": "RAWG API key not configured",
+  "blooket": "not-requested",
+  "games": "verified-links-and-local-covers",
+  "gear": "local-assets-generated",
   "note": "Generated data avoids formula-made metrics and unverifiable active claims. Missing live providers are surfaced as unavailable or watchlist status."
 }
