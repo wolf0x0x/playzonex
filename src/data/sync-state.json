@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-07-01T20:23:27.526Z",
+  "checkedAt": "2026-07-01T20:25:23.970Z",
   "requestedModules": [
-    "minecraft"
+    "rawg"
   ],
   "steam": "not-requested",
-  "minecraft": "synced-mcsrvstat",
+  "minecraft": "not-requested",
   "roblox": "not-requested",
   "wordle": "not-requested",
-  "rawg": "not-requested",
+  "rawg": "RAWG API key not configured",
   "blooket": "not-requested",
   "games": "not-requested",
   "gear": "not-requested",
