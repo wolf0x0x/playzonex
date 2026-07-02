@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-07-02T05:42:38.157Z",
+  "checkedAt": "2026-07-02T06:58:12.964Z",
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
-  "steam": "not-requested",
-  "minecraft": "synced-mcsrvstat",
+  "steam": "synced-steam-featuredcategories",
+  "minecraft": "not-requested",
   "roblox": "not-requested",
   "wordle": "not-requested",
   "rawg": "not-requested",
