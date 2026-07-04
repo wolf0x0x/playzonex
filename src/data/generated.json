@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-04T06:00:58.337Z",
+  "checkedAt": "2026-07-04T06:38:08.449Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,19 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "ARK Tides of Fortune",
-      "price": "$19.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4558480/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4558480.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558480/272e93410295d126fae1220848c163ac81a54b47/header.jpg?t=1783120993",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1245,19 +1233,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
-      "title": "ARK: Dragontopia",
-      "price": "$29.99",
+      "title": "ARK Tides of Fortune",
+      "price": "$19.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4558490/",
+      "url": "https://store.steampowered.com/app/4558480/",
       "list": "free",
-      "image": "/assets/downloads/steam/4558490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558490/8009224b2bd22779f788b648dfc6ff5bb889e7dd/header.jpg?t=1783121005",
+      "image": "/assets/downloads/steam/4558480.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558480/272e93410295d126fae1220848c163ac81a54b47/header.jpg?t=1783120993",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "SAND: Raiders of Sophie",
+      "price": "-21%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1431300/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1431300.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Steam Deck",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1305,19 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "DELTARUNE",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1671210/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1671210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1329,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "Cyberpunk 2077: Phantom Liberty",
@@ -1341,31 +1329,103 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
-      "title": "Red Dead Redemption 2",
-      "price": "-75%",
+      "title": "DELTARUNE",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1174180/",
+      "url": "https://store.steampowered.com/app/1671210/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1174180.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "image": "/assets/downloads/steam/1671210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
-      "title": "RuneScape: Dragonwilds",
+      "title": "Marvel's Spider-Man 2",
+      "price": "-33%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2651280/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2651280.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "Palworld",
       "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1374490/",
+      "url": "https://store.steampowered.com/app/1623730/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1374490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783074967",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1782406665",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "Beat Pet",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4819850/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4819850.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819850/3cd552a247232913fdcfe57f280c1a0dbcc73699/header.jpg?t=1783137375",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "Rescue Dogs vs Aliens Tower Defense",
+      "price": "$6.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4797790/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4797790.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "Ploy Co.",
+      "price": "$4.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4005740/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4005740.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005740/72eb62d13445b923e488b681db3ba012c683221d/header.jpg?t=1783132064",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "DRUMP SIMULATOR",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4557030/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4557030.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783129721",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
+    },
+    {
+      "title": "AR Basketball",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4794320/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4794320.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "ARK: Genesis Ascended Part 1",
@@ -1377,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558470/baed1cdc187b4597f5d661ca3f34520b9dcfc4a0/header.jpg?t=1783114378",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "ARK Tides of Fortune",
@@ -1389,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558480/272e93410295d126fae1220848c163ac81a54b47/header.jpg?t=1783120993",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     },
     {
       "title": "ARK: Dragontopia",
@@ -1398,70 +1458,10 @@
       "url": "https://store.steampowered.com/app/4558490/",
       "list": "new",
       "image": "/assets/downloads/steam/4558490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558490/8009224b2bd22779f788b648dfc6ff5bb889e7dd/header.jpg?t=1783121005",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558490/8009224b2bd22779f788b648dfc6ff5bb889e7dd/header.jpg?t=1783145969",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "Crosshair King",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4765540/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4765540.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/c5827f6a2b5fae8241dc5302c6dadf414ca776c2/header.jpg?t=1783114364",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "American Revolutionary War",
-      "price": "$39.95",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4671050/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4671050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/b85799323dfcc3d880b07f458eb10711f9b58b7a/header.jpg?t=1783104005",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "Bepe War",
-      "price": "$8.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4798810/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4798810.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/dddb6a55145b67c6fdb3acc720b2de3d3860d039/header.jpg?t=1783103656",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "Cicadia",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4306650/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4306650.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
-    },
-    {
-      "title": "The Laws of Probability",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4849960/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4849960.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/e001fac164d8b02dd2bca089e61cfa6f061cb27d/header.jpg?t=1783103157",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-04T01:30:32.817Z"
+      "checkedAt": "2026-07-04T06:38:08.449Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
