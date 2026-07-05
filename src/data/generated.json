@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T10:30:24.094Z",
+  "checkedAt": "2026-07-05T11:37:46.254Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1087,19 +1087,19 @@
       "name": "Hypixel",
       "address": "mc.hypixel.net",
       "version": "Requires MC 1.8 / 1.21",
-      "players": "30,813 / 200,000",
+      "players": "34,103 / 200,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "Complex Gaming",
       "address": "hub.mc-complex.com",
       "version": "1.7.2-26.2",
-      "players": "1,058 / 3,000",
+      "players": "1,119 / 3,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "Purple Prison",
@@ -1108,25 +1108,25 @@
       "players": "672 / 1,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "OPBlocks",
       "address": "hub.opblocks.com",
       "version": "1.7.2-26.2",
-      "players": "3,741 / 4,000",
+      "players": "3,936 / 4,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "MineSuperior",
       "address": "hub.mcs.gg",
       "version": "1.7.2-26.2",
-      "players": "356 / 2,500",
+      "players": "365 / 2,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "TheArchon",
@@ -1135,43 +1135,43 @@
       "players": "Unavailable",
       "status": "expired",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "ManaCube",
       "address": "play.manacube.com",
       "version": "1.7.2-26.2",
-      "players": "1,189 / 3,500",
+      "players": "1,258 / 3,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "Pixelmon Realms",
       "address": "play.pixelmonrealms.com",
       "version": "1.7.2-1.19.4",
-      "players": "21 / 999",
+      "players": "24 / 999",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "CubeCraft",
       "address": "play.cubecraft.net",
       "version": "We support: 1.20-1.21",
-      "players": "1,294 / 5,000",
+      "players": "1,451 / 5,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     },
     {
       "name": "Mineplex",
       "address": "us.mineplex.com",
       "version": "1.8.9 / 1.21.11 / 26",
-      "players": "448 / 449",
+      "players": "511 / 512",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-05T09:57:22.683Z"
+      "checkedAt": "2026-07-05T11:37:46.254Z"
     }
   ],
   "steamDeals": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "roblox"
+    "minecraft"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
