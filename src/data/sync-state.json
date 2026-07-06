@@ -1,14 +1,14 @@
 {
-  "checkedAt": "2026-07-06T20:33:28.850Z",
+  "checkedAt": "2026-07-06T20:52:48.056Z",
   "requestedModules": [
-    "minecraft"
+    "blooket"
   ],
   "steam": "not-requested",
-  "minecraft": "synced-mcsrvstat",
+  "minecraft": "not-requested",
   "roblox": "not-requested",
   "wordle": "not-requested",
   "rawg": "not-requested",
-  "blooket": "not-requested",
+  "blooket": "synced-editorial-guides",
   "games": "not-requested",
   "gear": "not-requested",
   "note": "Generated data avoids formula-made metrics and unverifiable active claims. Missing live providers are surfaced as unavailable or watchlist status."
