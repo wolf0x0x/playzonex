@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T11:47:43.045Z",
+  "checkedAt": "2026-07-07T14:01:28.639Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Moonlight Peaks",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2209900/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2209900.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced",
@@ -1233,43 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
-      "title": "MECCHA CHAMELEON",
-      "price": "$5.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4704690/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/4704690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
-      "title": "Moonlight Peaks",
-      "price": "-15%",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2209900/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/2209900.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "EA SPORTS™ College Football 27",
-      "price": "$69.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4032350/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4032350.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1781643937",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Moonlight Peaks",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Palworld",
@@ -1317,31 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1782406665",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "Cyberpunk 2077: Phantom Liberty",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2138330/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2138330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "DELTARUNE",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1671210/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1671210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1353,7 +1329,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2138330/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2138330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Marvel's Spider-Man 2",
@@ -1365,7 +1365,55 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "The Hollow House",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4851270/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4851270.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851270/f848d9d0a393491e61b80d4f6e758e1318ff288e/header.jpg?t=1783422118",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Legacy of the Ark: The Long Awakening",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4871420/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4871420.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871420/e0c9a997de6d93e39c7a15852f8feb7e399172da/header.jpg?t=1783421516",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Hentai Succubus Puzzle",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4844800/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4844800.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844800/d98ed28f03ba299bb07a71718f729772d7e79dec/header.jpg?t=1783421311",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
+    },
+    {
+      "title": "Car Mechanic Simulator 2021 - Pickup DLC",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4651970/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4651970.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651970/79eaef67c26c03157eb204f8205333caa3d9c6da/header.jpg?t=1783419265",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "operation",
@@ -1377,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868590/43f1708b9804c8f5d17a10677c4e6acb16db0faa/header.jpg?t=1783416504",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "Fugaz",
@@ -1389,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/875943eb9507b1ccd7ed5a905cfae3c7ab5664bb/header.jpg?t=1783416309",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
       "title": "DOI: Defense Shooter",
@@ -1401,67 +1449,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829530/34f9ee7d5e3ad048483f70d150197d6018850b81/header.jpg?t=1783414874",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     },
     {
-      "title": "Down The Stairs: The Game",
-      "price": "-10%",
+      "title": "Hentai Puzzle: Reika",
+      "price": "-33%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4810930/",
+      "url": "https://store.steampowered.com/app/4826450/",
       "list": "new",
-      "image": "/assets/downloads/steam/4810930.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
+      "image": "/assets/downloads/steam/4826450.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826450/4e44a26d1a930d4394b107d779eac4be3e99ba88/header.jpg?t=1783412131",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "Khaldun: Text Based Strategy",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4539870/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4539870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1783405744",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "Heavy Wake",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4235660/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4235660.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1783404099",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "PROJECT: OJISAN",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4588010/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4588010.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1783404056",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
-    },
-    {
-      "title": "DEMON SIEGE",
-      "price": "-25%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4724650/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4724650.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/f9368810fef7eb9e2ebdc48d3fdfcb377654e0b3/header.jpg?t=1783399593",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-07T10:43:42.233Z"
+      "checkedAt": "2026-07-07T14:01:28.639Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
