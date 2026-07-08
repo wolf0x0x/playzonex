@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-08T20:11:09.122Z",
+  "checkedAt": "2026-07-08T20:53:20.270Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "price": "$59.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3751950/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3751950.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
@@ -1233,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1783522815",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced",
@@ -1245,31 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
-      "title": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
-      "price": "$54.99",
+      "title": "Disney Dreamlight Valley: Honeyglow Woods",
+      "price": "$16.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4306890/",
+      "url": "https://store.steampowered.com/app/4376930/",
       "list": "free",
-      "image": "/assets/downloads/steam/4306890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1781748039",
+      "image": "/assets/downloads/steam/4376930.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376930/c24c762017ce3bfb20c82dad2abc4c2076688664/header.jpg?t=1783515660",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced",
-      "price": "$59.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3751950/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3751950.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,31 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
-    },
-    {
-      "title": "Palworld",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1623730/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1623730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1782406665",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
-    },
-    {
-      "title": "Moonlight Peaks",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2209900/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2209900.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1317,7 +1293,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
+    },
+    {
+      "title": "Palworld",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1623730/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1782406665",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-08T20:53:20.270Z"
+    },
+    {
+      "title": "Moonlight Peaks",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2209900/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2209900.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1329,19 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
-    },
-    {
-      "title": "DOOM: The Dark Ages",
-      "price": "-67%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3017860/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3017860.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/af14846bdc72d46a4207c24d9ada4dc54595cc2d/header_alt_assets_2.jpg?t=1783452885",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Cyberpunk 2077: Phantom Liberty",
@@ -1353,19 +1341,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
+      "title": "DOOM: The Dark Ages",
+      "price": "-67%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
+      "url": "https://store.steampowered.com/app/3017860/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "image": "/assets/downloads/steam/3017860.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/af14846bdc72d46a4207c24d9ada4dc54595cc2d/header_alt_assets_2.jpg?t=1783452885",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
+    },
+    {
+      "title": "DELTARUNE",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1671210/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1671210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Bardo",
@@ -1377,7 +1377,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773260/b383c17623b328c52f288265e206ccad3d3880e9/header.jpg?t=1783533805",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Somnus Corporation",
@@ -1389,7 +1389,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576570/66e43ba8de3341218d48781c83f799fe34f5daba/header.jpg?t=1783533753",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Heatspire",
@@ -1401,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330950/d6a686d66b0686b0c7d085540b0b5a32bec9d7b5/header.jpg?t=1783532978",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "The Adventures Of Hooman",
@@ -1413,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457130/24b330f0855755e3be162c58c48dfc0c3b79b003/header.jpg?t=1783530051",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Forest Lookout",
@@ -1425,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767420/b4183ca2a41581d57616dc9ac4eb3fdbd8d8587b/header.jpg?t=1783527817",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
       "title": "Sauve le Shérif !",
@@ -1437,31 +1437,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760110/2d109ea2a26e9b870bd0b4153db4a8f6d1a69be0/header.jpg?t=1783526415",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
-      "title": "Granblue Fantasy: Relink - Endless Ragnarok Special Pack",
-      "price": "$11.99",
+      "title": "PGA TOUR 2K25 - Clubhouse Pass Premium Season 7",
+      "price": "$9.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4528540/",
+      "url": "https://store.steampowered.com/app/4085390/",
       "list": "new",
-      "image": "/assets/downloads/steam/4528540.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528540/f34657b4b3e7b38fd937980e1838a3e7b99dbd03/header.jpg?t=1783522912",
+      "image": "/assets/downloads/steam/4085390.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085390/370ab0e680553ca856b3084f3cf51882889845d0/header.jpg?t=1783526114",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     },
     {
-      "title": "Tokyo Valkyries",
-      "price": "-10%",
+      "title": "Tales from the Other Side: Beneath the Roots",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4093240/",
+      "url": "https://store.steampowered.com/app/4601840/",
       "list": "new",
-      "image": "/assets/downloads/steam/4093240.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093240/78820e864b501fdc97fbb661621b2d0332af3b1a/header.jpg?t=1783522890",
+      "image": "/assets/downloads/steam/4601840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601840/b2c406e1ed8332495462ccb39a44a0068bcef3d0/header.jpg?t=1783523172",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-08T18:21:42.523Z"
+      "checkedAt": "2026-07-08T20:53:20.270Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
