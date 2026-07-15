@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T16:50:33.229Z",
+  "checkedAt": "2026-07-15T17:01:44.174Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,18 +1176,6 @@
   ],
   "steamDeals": [
     {
-      "title": "Palworld",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1623730/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1623730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1783654507",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
       "title": "Steam Controller",
       "price": "$99.00",
       "rating": "Steam listing",
@@ -1197,7 +1185,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1777592825",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "Palworld",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1623730/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1783654507",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Steam Machine",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Steam Machine",
@@ -1245,19 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "The Mound: Omen of Cthulhu",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2569760/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2569760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced",
@@ -1269,7 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "The Mound: Omen of Cthulhu",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2569760/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2569760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Palworld",
@@ -1281,31 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1783654507",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "DELTARUNE",
@@ -1317,7 +1293,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Angels Fall First",
@@ -1329,19 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "The Outlast Trials",
-      "price": "-70%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1304930/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1304930.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784039821",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
       "title": "Cat Mail Co.",
@@ -1353,115 +1329,139 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1784045214",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "The Incident at Galley House",
+      "title": "A Game About Chopping Trees",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3641000/",
+      "url": "https://store.steampowered.com/app/4512570/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3641000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/c36fe32e992c59c8eb560fd5d97bed0f96c08ff5/header.jpg?t=1784037785",
+      "image": "/assets/downloads/steam/4512570.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784122534",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "Lewd Cup",
+      "title": "No Man's Sky",
+      "price": "-60%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/275850/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/275850.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "The Outlast Trials",
+      "price": "-70%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1304930/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1304930.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "Sunlit remedy",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4265260/",
+      "url": "https://store.steampowered.com/app/4547770/",
       "list": "new",
-      "image": "/assets/downloads/steam/4265260.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265260/c38a46a82a46d4825818c3509a0236ffabb64335/header.jpg?t=1784120484",
+      "image": "/assets/downloads/steam/4547770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547770/c99ccc27e0315e004535e75f5a5dd5433c9182ce/header.jpg?t=1784132570",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "Track Star",
+      "title": "CAUTION WET PAINT",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4827850/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4827850.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827850/04a5a0ef98d8c187ff66f6a7fb0329c025d4bf22/header.jpg?t=1784131213",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "Sketchy's Contract",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4538830/",
+      "url": "https://store.steampowered.com/app/2823080/",
       "list": "new",
-      "image": "/assets/downloads/steam/4538830.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538830/528214b642ffd67f7a34140630fc24be46e6bf6b/header.jpg?t=1784117210",
+      "image": "/assets/downloads/steam/2823080.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823080/237f2443665c1e1c5722f7f68b65113b86fb2890/header.jpg?t=1784130518",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "Minimalist Desktop",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3937750/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3937750.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937750/5f7ce5e83617c656fa3a5a2e3b953208809bf1a4/header.jpg?t=1784116834",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "Peace Under His Roof",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4324840/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4324840.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324840/7530d231bffce2a4574be87c2eae1a6b48a7b4b4/header.jpg?t=1784112232",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
-    },
-    {
-      "title": "Vexbound",
+      "title": "DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition)",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4891140/",
+      "url": "https://store.steampowered.com/app/4840740/",
       "list": "new",
-      "image": "/assets/downloads/steam/4891140.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891140/178f5582e1e30f4a73f85faa5137eec9ec71a5c6/header.jpg?t=1784110799",
+      "image": "/assets/downloads/steam/4840740.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840740/6c9f781fb44cc5bfbc327f7243262868935b15b6/header.jpg?t=1784130164",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "The Mound: Omen of Cthulhu - Characters & Items Pack",
-      "price": "$4.99",
+      "title": "The Fishercat",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4630460/",
+      "url": "https://store.steampowered.com/app/4876770/",
       "list": "new",
-      "image": "/assets/downloads/steam/4630460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/604e035122800b70b041d9c509cdae26241b8664/header.jpg?t=1784109746",
+      "image": "/assets/downloads/steam/4876770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876770/b9ac04ae8686264f71d2d06ea7b8d13ad18ccc3d/header.jpg?t=1784129742",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "The Mound: Omen of Cthulhu",
+      "title": "Full Stride",
+      "price": "$34.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4181970/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4181970.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181970/324f21adbc86539e2514be300ba0608c36eaf786/header.jpg?t=1784127836",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-15T17:01:44.174Z"
+    },
+    {
+      "title": "Teeto",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2569760/",
+      "url": "https://store.steampowered.com/app/2783370/",
       "list": "new",
-      "image": "/assets/downloads/steam/2569760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+      "image": "/assets/downloads/steam/2783370.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/7b1d32e039db9a92cb731031b9d8a679c468fbb3/header.jpg?t=1784130266",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     },
     {
-      "title": "What Surrounds Us",
-      "price": "-20%",
+      "title": "eBaseball™: PRO SPIRIT",
+      "price": "$59.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4178950/",
+      "url": "https://store.steampowered.com/app/4128400/",
       "list": "new",
-      "image": "/assets/downloads/steam/4178950.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178950/71d880b4dcccd01783b44733ba3c0bb1d5aef515/header.jpg?t=1784109225",
+      "image": "/assets/downloads/steam/4128400.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/89639ca2b8f37f7c4b2ce26d5890fef8939f0714/header.jpg?t=1784110012",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-15T13:03:47.323Z"
+      "checkedAt": "2026-07-15T17:01:44.174Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
