@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-19T16:41:16.672Z",
+  "checkedAt": "2026-07-19T17:10:41.188Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "steam"
+    "wordle"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
