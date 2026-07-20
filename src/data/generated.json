@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-20T16:54:14.433Z",
+  "checkedAt": "2026-07-20T17:16:28.979Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Palworld",
@@ -1233,31 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784190284",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced",
-      "price": "$59.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3751950/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3751950.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "Halo: Campaign Evolved",
-      "price": "$49.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2806050/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2806050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1783544553",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Steam Deck",
@@ -1269,7 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "Halo: Campaign Evolved",
+      "price": "$49.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2806050/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2806050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1783544553",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Palworld",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784190284",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Funnel Runners",
@@ -1305,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1317,19 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "DELTARUNE",
-      "price": "-20%",
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1671210/",
+      "url": "https://store.steampowered.com/app/3240220/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1671210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Warhammer 40,000: Space Marine 2",
@@ -1341,19 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "The Outlast Trials",
-      "price": "-70%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1304930/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1304930.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1365,103 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "Risen Blade",
+      "title": "Satisfactory",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/526870/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/526870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1780413533",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "Pathogenic",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4347620/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4347620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347620/c6e107b0fbca6be71d216c11e2cfa51b284df082/header.jpg?t=1784552516",
+      "url": "https://store.steampowered.com/app/3808690/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3808690.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/61607b65d95681ef02bae9bf79099bc6fe511b56/header.jpg?t=1784553076",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "Spicy Content Creator",
+      "title": "MythGotchi",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4513090/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4513090.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513090/b24204577144930f2ee7412008da2104e7d2528e/header.jpg?t=1784565965",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "At Night : Freakshow",
+      "price": "-11%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4730500/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4730500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730500/201d7f6e533cabce904c209869f8e5d3af146aa0/header.jpg?t=1784566791",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "The Thing That Happened",
+      "price": "$22.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2906500/",
+      "list": "new",
+      "image": "/assets/downloads/steam/2906500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906500/9f0cd6eb2a907043d6e4540dd10c82bae21af3b2/header.jpg?t=1784564377",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "PomoExpress",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3848970/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3848970.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848970/7086cfcb27898878b9fe2f756e07fab91d252b2f/header.jpg?t=1784563205",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-20T17:16:28.979Z"
+    },
+    {
+      "title": "Incremental Infinity",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4572290/",
+      "url": "https://store.steampowered.com/app/4210010/",
       "list": "new",
-      "image": "/assets/downloads/steam/4572290.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572290/dbdf3086afea1f4911e8efaac32470c4aa8f2258/header.jpg?t=1784547408",
+      "image": "/assets/downloads/steam/4210010.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/eb6cf2e7c2d5bfb19888909534908b6eaa2eafd0/header.jpg?t=1784565742",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "SUSHI Claw Machine",
+      "title": "Frogrammer",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3964140/",
+      "url": "https://store.steampowered.com/app/3584240/",
       "list": "new",
-      "image": "/assets/downloads/steam/3964140.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964140/ed9b0adb109ae770fa63b962042fdbc06e259a59/header.jpg?t=1784546482",
+      "image": "/assets/downloads/steam/3584240.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584240/e42e2a054cea3d4bfd022ba1baf49279d0365b13/header.jpg?t=1784560778",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "A Game of D.I.C.E.",
-      "price": "-40%",
+      "title": "Ritter & Rotwein",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3853970/",
+      "url": "https://store.steampowered.com/app/2994200/",
       "list": "new",
-      "image": "/assets/downloads/steam/3853970.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853970/455bff8728a8b18bd0d57cb3f90dd0989182b8a9/header.jpg?t=1784539138",
+      "image": "/assets/downloads/steam/2994200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994200/6f5a341e0d051c1aa2e5fef83a857e35c0daf71b/header.jpg?t=1784559921",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     },
     {
-      "title": "Yoink! - Texture ripper",
-      "price": "-10%",
+      "title": "SCUM Apex Predator Pack",
+      "price": "$14.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4902910/",
+      "url": "https://store.steampowered.com/app/4635200/",
       "list": "new",
-      "image": "/assets/downloads/steam/4902910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/df8e072fbbd89df58f788efa3ab104f4ddf13d73/header.jpg?t=1784538576",
+      "image": "/assets/downloads/steam/4635200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635200/1a11be35a6abed0cc6fcf78d44d66fb99d18152f/header.jpg?t=1784559883",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "Rise of Mutant Swarms",
-      "price": "$7.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4230080/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4230080.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230080/de03053a071ad6fe2a9f7fe795651132142fa989/header.jpg?t=1784537549",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "MASUKU",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4401050/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4401050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401050/880a39d0df3b4e04c8ef0e0d1d51a18af048e0bf/header.jpg?t=1784535916",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
-    },
-    {
-      "title": "YGGDRA: SPIN",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4513650/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4513650.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513650/532b06df457264a306d895ae99e05114db9b3947/header.jpg?t=1784538728",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T13:42:30.300Z"
+      "checkedAt": "2026-07-20T17:16:28.979Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
