@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T01:08:30.297Z",
+  "checkedAt": "2026-07-21T01:20:21.498Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,16 +1176,16 @@
   ],
   "steamDeals": [
     {
-      "title": "Steam Machine",
-      "price": "$1049.00",
+      "title": "Steam Controller",
+      "price": "$99.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
+      "url": "https://store.steampowered.com/app/4165870/",
       "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "image": "/assets/downloads/steam/4165870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1777592825",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
+    },
+    {
+      "title": "Steam Machine",
+      "price": "$1049.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Palworld",
@@ -1233,43 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784190284",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
-      "title": "ZeroSpace",
+      "title": "Funnel Runners",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1605850/",
+      "url": "https://store.steampowered.com/app/3712080/",
       "list": "free",
-      "image": "/assets/downloads/steam/1605850.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605850/88b4d42b10bd4f8a4fa30012def3957ecaef95b3/header.jpg?t=1784567471",
+      "image": "/assets/downloads/steam/3712080.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784567934",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
-      "title": "Steam Deck",
-      "price": "$399.00",
+      "title": "Halo: Campaign Evolved",
+      "price": "$49.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
+      "url": "https://store.steampowered.com/app/2806050/",
       "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "image": "/assets/downloads/steam/2806050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1783544553",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Palworld",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784190284",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
-    },
-    {
-      "title": "Tainted Grail: The Fall of Avalon",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1466060/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1466060.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1782412343",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Funnel Runners",
@@ -1305,7 +1293,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784567934",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
+    },
+    {
+      "title": "Tainted Grail: The Fall of Avalon",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1466060/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1466060.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1782412343",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "Denshattack!",
@@ -1341,31 +1341,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/6d05ab4b41ac7fc89896b9ae03a79e7fb9f9177b/header_alt_assets_0.jpg?t=1784356856",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
-      "title": "The Life and Suffering of Prince Jerian",
-      "price": "-15%",
+      "title": "Derail Valley",
+      "price": "-25%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2936290/",
+      "url": "https://store.steampowered.com/app/588030/",
       "list": "deals",
-      "image": "/assets/downloads/steam/2936290.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936290/07af765e1cc1f571cd94303a2e9cd8e81ff71b4b/header.jpg?t=1784566297",
+      "image": "/assets/downloads/steam/588030.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/header.jpg?t=1782140299",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
-      "title": "Pathogenic",
-      "price": "-20%",
+      "title": "The Outlast Trials",
+      "price": "-70%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3808690/",
+      "url": "https://store.steampowered.com/app/1304930/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3808690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/61607b65d95681ef02bae9bf79099bc6fe511b56/header.jpg?t=1784553076",
+      "image": "/assets/downloads/steam/1304930.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "言灵",
@@ -1377,7 +1377,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/9131a88255d92e7b3a3017f0cf60089ab3244949/header.jpg?t=1784580400",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
+    },
+    {
+      "title": "WinHack 95",
+      "price": "$3.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4669350/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4669350.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669350/9d7da2d8b667f6c933eb31cea6fadb07f72a7e1d/header.jpg?t=1784575843",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "NOVASWARM",
@@ -1389,7 +1401,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4909080/ae5f7c755e093dc1e4730af4995c6a8858acea6e/header.jpg?t=1784573311",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
+    },
+    {
+      "title": "Parcel Simulator - Supporter Pack",
+      "price": "$4.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4530910/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4530910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530910/e6e433432ab0ef94b310841ffd07a7c1737c1690/header.jpg?t=1784572450",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-21T01:20:21.498Z"
+    },
+    {
+      "title": "Conquer for Glory",
+      "price": "$1.49",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4854320/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4854320.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854320/1450edcb949e77dc5d306428568d183173b94538/header.jpg?t=1784571098",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "TERMies Duels",
@@ -1401,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914460/3c626095ae758c570e4342dd20cd3c7bf811e60e/header.jpg?t=1784570256",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "UNSIGHT",
@@ -1413,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605950/a98bf74e773d8999444043f09dc6e8d0a1b275ad/header.jpg?t=1784569165",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     },
     {
       "title": "MOLDRISE",
@@ -1425,43 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519130/1e86fd32896317d1e4fdae7540a3e953cff0feaa/header.jpg?t=1784574286",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
-    },
-    {
-      "title": "Merry’s Seven Wishes",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4055750/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4055750.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055750/c35b2f8d35b7d7370da48b2223686bdbf12f3785/header.jpg?t=1784568616",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
-    },
-    {
-      "title": "Bearicade",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4876850/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4876850.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876850/0bc5257129e14720c31d6a575338feb62f9f09c7/header.jpg?t=1784568389",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
-    },
-    {
-      "title": "Empire at Risk",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4273390/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4273390.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273390/9ed9be9096700fd51900eb6268b2efb1c1fefd0b/header.jpg?t=1784568045",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-20T20:58:06.412Z"
+      "checkedAt": "2026-07-21T01:20:21.498Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
