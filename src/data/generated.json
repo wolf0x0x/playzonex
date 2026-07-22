@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-22T20:52:23.255Z",
+  "checkedAt": "2026-07-22T21:04:05.158Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1087,91 +1087,91 @@
       "name": "Hypixel",
       "address": "mc.hypixel.net",
       "version": "Requires MC 1.8 / 1.21",
-      "players": "38,807 / 200,000",
+      "players": "37,950 / 200,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "Complex Gaming",
       "address": "hub.mc-complex.com",
       "version": "1.7.2-26.2",
-      "players": "1,726 / 3,000",
-      "status": "active",
-      "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "Purple Prison",
       "address": "purpleprison.net",
       "version": "1.7.x, 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
-      "players": "876 / 1,000",
-      "status": "active",
-      "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "OPBlocks",
       "address": "hub.opblocks.com",
       "version": "1.7.2-26.2",
-      "players": "5,862 / 6,000",
+      "players": "5,731 / 6,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "MineSuperior",
       "address": "hub.mcs.gg",
       "version": "1.7.2-26.2",
-      "players": "333 / 2,500",
+      "players": "343 / 2,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "TheArchon",
       "address": "pvp.thearchon.net",
       "version": "Java",
       "players": "Unavailable",
-      "status": "expired",
-      "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "ManaCube",
       "address": "play.manacube.com",
       "version": "1.7.2-26.2",
-      "players": "1,638 / 3,500",
-      "status": "active",
-      "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "Pixelmon Realms",
       "address": "play.pixelmonrealms.com",
       "version": "1.7.2-1.19.4",
-      "players": "21 / 999",
+      "players": "19 / 999",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "CubeCraft",
       "address": "play.cubecraft.net",
       "version": "We support: 1.20-1.21",
-      "players": "1,980 / 5,000",
+      "players": "1,758 / 5,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     },
     {
       "name": "Mineplex",
       "address": "us.mineplex.com",
       "version": "1.8.9 / 1.21.11 / 26",
-      "players": "641 / 642",
+      "players": "710 / 711",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-07-22T19:51:56.232Z"
+      "checkedAt": "2026-07-22T21:04:05.158Z"
     }
   ],
   "steamDeals": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "steam"
+    "minecraft"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
