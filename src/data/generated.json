@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-23T09:56:25.352Z",
+  "checkedAt": "2026-07-23T10:09:03.111Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,30 +1176,6 @@
   ],
   "steamDeals": [
     {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
       "title": "Halo: Campaign Evolved",
       "price": "$49.99",
       "rating": "Steam listing",
@@ -1209,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1783544553",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Palworld",
@@ -1221,7 +1197,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Steam Machine",
+      "price": "$1049.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Steam Machine",
+      "price": "$1049.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "DragonSword : Awakening",
@@ -1230,22 +1230,10 @@
       "url": "https://store.steampowered.com/app/4570720/",
       "list": "free",
       "image": "/assets/downloads/steam/4570720.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784776402",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "Shift At Midnight",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3722330/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3722330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784732222",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Avatar Legends: The Fighting Game",
@@ -1257,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784736575",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Avatar Legends: The Fighting Game",
@@ -1269,7 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784736575",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Fallout 1st",
+      "price": "$12.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1202520/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1202520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202520/header.jpg?t=1718719668",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Palworld",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "Shift At Midnight",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3722330/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3722330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784732222",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Tears of Metal",
@@ -1305,7 +1293,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Shift At Midnight",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3722330/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3722330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784799421",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Funnel Runners",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784567934",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1329,31 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "Rubinite",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1845250/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1845250.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/header.jpg?t=1784768415",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
       "title": "Tainted Grail: The Fall of Avalon",
@@ -1365,103 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/5660590ed7a97a0e2dddf20fd7a83379e23b7231/header.jpg?t=1784626931",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "Sniper Game",
-      "price": "$9.99",
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4831000/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4831000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831000/65ceedf722ea6e703344a35433e08aad200cf317/header.jpg?t=1784786237",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "Linkshift",
+      "title": "Rubinite",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3822710/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3822710.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822710/9eb1eba69da2dba8c32f6fae5c2e65d40af57709/header.jpg?t=1784784750",
+      "url": "https://store.steampowered.com/app/1845250/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1845250.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/header.jpg?t=1784788602",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "Atomcraft",
+      "title": "Car Sales Simulator",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4414590/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4414590.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414590/13636d5c41d0dda4e7fc88a4994e6f0b7fec7f78/header.jpg?t=1784799130",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Market Empire Simulator",
+      "price": "-75%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3163840/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3163840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3163840/668166bfb40a234ea8cb5a920a5fd56519d33b84/header.jpg?t=1784799423",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Club Soko",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2803490/",
+      "url": "https://store.steampowered.com/app/3346410/",
       "list": "new",
-      "image": "/assets/downloads/steam/2803490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803490/e940a217b5b850e4466cb22d9ac8ea226bb79fa6/header.jpg?t=1784779499",
+      "image": "/assets/downloads/steam/3346410.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346410/e19e19c7d8892d2f9dd683e16c239fc1465a320e/header.jpg?t=1784799064",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "玄中记",
+      "title": "XiuXian Idle Cultivation",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4866160/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4866160.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866160/5547515484358294527ae5416d644317546f43d6/header.jpg?t=1784797218",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-23T10:09:03.111Z"
+    },
+    {
+      "title": "Sail Girl",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4571290/",
+      "url": "https://store.steampowered.com/app/3957240/",
       "list": "new",
-      "image": "/assets/downloads/steam/4571290.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571290/91072bb64ab93652bec02854a07567e6c26211a4/header.jpg?t=1784778938",
+      "image": "/assets/downloads/steam/3957240.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957240/34e8e62b354f48ef9a2e6f598a31744df8309108/header_alt_assets_2.jpg?t=1784794786",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "DragonSword : Awakening - Familiar : Orchid Wing Cat",
-      "price": "$3.99",
+      "title": "NTR by my Younger Childhood Friend!? His size Ruined Me for My Boyfriend!!",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4786000/",
+      "url": "https://store.steampowered.com/app/4583830/",
       "list": "new",
-      "image": "/assets/downloads/steam/4786000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786000/b9636941eb7971afb6ee56900ae04887c06fcb0b/header.jpg?t=1784776478",
+      "image": "/assets/downloads/steam/4583830.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583830/a1e513ff782699e1ff778bba2f7c568664bc488d/header.jpg?t=1784793449",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "DragonSword : Awakening - Familiar : Cotton Flying Squirrel",
-      "price": "$3.99",
+      "title": "TheVillage: Possession",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4785990/",
+      "url": "https://store.steampowered.com/app/3927590/",
       "list": "new",
-      "image": "/assets/downloads/steam/4785990.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785990/992fd83786748575d15483fb6db4315edfeb9414/header.jpg?t=1784776476",
+      "image": "/assets/downloads/steam/3927590.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927590/4367f4b86c6c11c3826452127cc817e869e11d21/header.jpg?t=1784790155",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     },
     {
-      "title": "DragonSword : Awakening - Familiar : Viola Flying Squirrel",
-      "price": "$3.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4785980/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4785980.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785980/b9b435139d256d300a67696dc5a36f2005ba4cd4/header.jpg?t=1784776474",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
-    },
-    {
-      "title": "DragonSword Awakening - Deluxe Pack",
+      "title": "FATAL FURY: CotW - Season Pass 3",
       "price": "$19.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4742640/",
+      "url": "https://store.steampowered.com/app/4071070/",
       "list": "new",
-      "image": "/assets/downloads/steam/4742640.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742640/e77080b6194785d0f4ab2ff997c0b7fea00120bf/header.jpg?t=1784781543",
+      "image": "/assets/downloads/steam/4071070.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071070/309bc2379a730c6490255ffbf28a69a593bde343/header.jpg?t=1784791346",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-23T06:21:54.572Z"
+      "checkedAt": "2026-07-23T10:09:03.111Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
