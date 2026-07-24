@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-24T09:43:33.345Z",
+  "checkedAt": "2026-07-24T10:04:05.549Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1784829117",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Palworld",
@@ -1197,7 +1197,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "Grim Dawn - Fangs of Asterkarn",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2699230/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2699230.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "Steam Machine",
+      "price": "$1049.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "Steam Machine",
+      "price": "$1049.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Avatar Legends: The Fighting Game",
@@ -1209,19 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784815174",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "Grim Dawn - Fangs of Asterkarn",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2699230/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2699230.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Dinoblade",
@@ -1230,34 +1254,10 @@
       "url": "https://store.steampowered.com/app/3440070/",
       "list": "free",
       "image": "/assets/downloads/steam/3440070.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784863991",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "Shift At Midnight",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3722330/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3722330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784799421",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "Tears of Metal",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1913120/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1913120.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "DragonSword : Awakening",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Grim Dawn - Fangs of Asterkarn",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Dinoblade",
@@ -1290,10 +1290,10 @@
       "url": "https://store.steampowered.com/app/3440070/",
       "list": "deals",
       "image": "/assets/downloads/steam/3440070.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784863991",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Tears of Metal",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Shift At Midnight",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784799421",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1329,19 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/886313/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/886313.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "ICARUS",
@@ -1353,7 +1341,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/886313/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/886313.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1365,103 +1365,103 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
-      "title": "The Dungeon of Lulu Farea: Rebirth",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4353640/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4353640.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353640/ab2059997a1199b4fee4137efd5ab400b039bada/header.jpg?t=1784865611",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "Ashbound Expanse",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3384360/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3384360.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/50301ba7f0d731ef353906d953ddf93c5797f783/header.jpg?t=1784862211",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "The Purple Forest Ritual",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4299940/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4299940.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299940/e2ca01e7ac7c3a9441b983b4d796a253682abcf0/header.jpg?t=1784863958",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
-    },
-    {
-      "title": "Abyss Kitchen",
+      "title": "Lust and Agony in Netori:The Ritual of Despair",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3508910/",
+      "url": "https://store.steampowered.com/app/4375760/",
       "list": "new",
-      "image": "/assets/downloads/steam/3508910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508910/c3fb2b7b74a7b963d60abf7680b22bb0781f2186/header.jpg?t=1784861353",
+      "image": "/assets/downloads/steam/4375760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375760/67454321c09587e5688cfc7c5c4753dc14a79042/header.jpg?t=1784880033",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
-      "title": "我的美味丈夫 My Tasty Husband",
-      "price": "-20%",
+      "title": "Boba Cafe Simulator",
+      "price": "-35%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4214320/",
+      "url": "https://store.steampowered.com/app/3683770/",
       "list": "new",
-      "image": "/assets/downloads/steam/4214320.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214320/2ebfbb98f3a0b307f94d96b13da6d3a54facf00a/header.jpg?t=1784871035",
+      "image": "/assets/downloads/steam/3683770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683770/b21fdafae2937a996d164151925e426571340447/header.jpg?t=1784880046",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
-      "title": "侠影录",
+      "title": "Hex Clash - The Fractured Combs",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4895290/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4895290.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/d55e8f65c54b63a9cc7e6b84532d1efe4be4d76c/header.jpg?t=1784878915",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "ePaperCraft SHIRYU",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3863760/",
+      "url": "https://store.steampowered.com/app/4912480/",
       "list": "new",
-      "image": "/assets/downloads/steam/3863760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863760/b03660c7ebf5a40d6f8366712fabcba0253cb426/header.jpg?t=1784862385",
+      "image": "/assets/downloads/steam/4912480.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912480/c1fd4896f8bd248ab82d2abfbdf96941b37c43c1/header.jpg?t=1784878506",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
-      "title": "Godfall: Embers",
+      "title": "Razor Trail Survivors",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4810250/",
+      "url": "https://store.steampowered.com/app/4902550/",
       "list": "new",
-      "image": "/assets/downloads/steam/4810250.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810250/b3fe9983ded074b9f06ca784b07f396cbf19f8ac/header.jpg?t=1784859328",
+      "image": "/assets/downloads/steam/4902550.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902550/cbb8a713208bcb03ffa49d62c5b0f335be3da895/header.jpg?t=1784877409",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     },
     {
-      "title": "Mammon’s Wager",
-      "price": "-10%",
+      "title": "宗门最后的长老",
+      "price": "-34%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4528300/",
+      "url": "https://store.steampowered.com/app/4898630/",
       "list": "new",
-      "image": "/assets/downloads/steam/4528300.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528300/a20dbc20d253f55ac14c4f4bbfb112560e919702/header.jpg?t=1784858594",
+      "image": "/assets/downloads/steam/4898630.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898630/82f19e3ad8b07254f2af5b1c49966ef67225b247/header.jpg?t=1784876574",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-24T06:16:38.029Z"
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "The Alley",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4181410/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4181410.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181410/2fc2e44dbb11a2b0230f049ed73e5debd50976f7/header.jpg?t=1784878293",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
+    },
+    {
+      "title": "Limitless Survivor",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4438540/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4438540.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438540/73d9f128ef7d4df8cd1f5dff9cb5188377ba8c2f/header.jpg?t=1784876368",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-24T10:04:05.549Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
