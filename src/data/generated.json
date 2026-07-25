@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-25T15:45:49.597Z",
+  "checkedAt": "2026-07-25T16:41:53.713Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1784829117",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Palworld",
@@ -1197,19 +1197,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
-      "title": "Shift At Midnight",
-      "price": "-10%",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3722330/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/3722330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784981268",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Tears of Metal",
@@ -1218,22 +1230,22 @@
       "url": "https://store.steampowered.com/app/1913120/",
       "list": "free",
       "image": "/assets/downloads/steam/1913120.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
-      "title": "Dinoblade",
-      "price": "-10%",
+      "title": "Assassin's Creed Black Flag Resynced",
+      "price": "$59.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3440070/",
+      "url": "https://store.steampowered.com/app/3751950/",
       "list": "free",
-      "image": "/assets/downloads/steam/3440070.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012",
+      "image": "/assets/downloads/steam/3751950.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "DragonSword : Awakening",
@@ -1245,31 +1257,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784900913",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
-      "title": "Grim Dawn - Fangs of Asterkarn",
+      "title": "Dinoblade",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2699230/",
+      "url": "https://store.steampowered.com/app/3440070/",
       "list": "free",
-      "image": "/assets/downloads/steam/2699230.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
+      "image": "/assets/downloads/steam/3440070.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
-      "title": "Avatar Legends: The Fighting Game",
-      "price": "$29.99",
+      "title": "Tears of Metal",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2424420/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2424420.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230",
+      "url": "https://store.steampowered.com/app/1913120/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1913120.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Shift At Midnight",
@@ -1281,31 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784981268",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Tears of Metal",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1913120/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1913120.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784731614",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Grim Dawn - Fangs of Asterkarn",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2699230/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2699230.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Dinoblade",
@@ -1317,7 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "Grim Dawn - Fangs of Asterkarn",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2699230/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2699230.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699230/af2e8d3a26a3d7ee1289e3d2c4b8c51d593118ab/header.jpg?t=1784815303",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "ICARUS",
@@ -1341,19 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
@@ -1365,7 +1353,79 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/886313/054ac4705abd941a0d03246635ee4f2497885d2d/header_ratio.jpg?t=1782881954",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "Jack Bonecroft 4",
+      "price": "$12.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4730350/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4730350.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730350/78303f251d26efddb387bdd2ef3446b7c4bc7682/header.jpg?t=1784997273",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "STEEL HEAVEN",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4296520/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4296520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296520/836d09025268008584110d69a8255a66704b1392/header.jpg?t=1784990601",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "Goblins Stole My Panties 👙",
+      "price": "-38%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4518040/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4518040.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/dbff92e713eea5a0d9d96bb4ad779988f7a431c2/header.jpg?t=1784991878",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "SSTWL - Sector Breach",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4864080/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4864080.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864080/ad4f3697e8287ae709465906714d5911c7dd7566/header.jpg?t=1784987291",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
+    },
+    {
+      "title": "MPE Insight",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4919520/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4919520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919520/c1a42d9b3121dc5aea8f79ae87ed5f9594de96b2/header.jpg?t=1784985741",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Ski Jump Champions",
@@ -1377,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819410/3fe73808edef10df19ca0892359605b3c7985288/header.jpg?t=1784979381",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "Nothing To Declare",
@@ -1389,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/cc1972873f77525f2aaaf84c6ccb88ac66521771/header.jpg?t=1784974637",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     },
     {
       "title": "天平游戏1:抉择",
@@ -1401,67 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699920/0397cc3050ba47cc39ad92932a716c70b3c7688b/header.jpg?t=1784975121",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Starfall Command",
-      "price": "$2.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4890090/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4890090.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890090/c54c3f753da41022eb428c3d6c052f0e1c93fa1e/header.jpg?t=1784969282",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Hentai Hot Milf",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4892140/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4892140.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892140/479796e545fb5074367947ac2823046e27c45ab0/header.jpg?t=1784963506",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "Sneaky Fishy",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4582530/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4582530.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582530/fc81d99c57a24c252e2c2ff7883267f9f7029b29/header.jpg?t=1784964043",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "SurfaBeam - Projection Mapping",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4617300/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4617300.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/2048e9e83cf271e057bcb1c5964252b5af0f1c42/header.jpg?t=1784960355",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
-    },
-    {
-      "title": "B-Prison Unchain",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4395030/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4395030.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395030/cece63d67940d08ef8aa5f86494d6fcff5ed7a58/header.jpg?t=1784942677",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-25T12:54:47.446Z"
+      "checkedAt": "2026-07-25T16:41:53.713Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
