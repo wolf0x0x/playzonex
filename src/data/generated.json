@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-28T01:02:38.241Z",
+  "checkedAt": "2026-07-28T01:17:43.807Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Palworld",
@@ -1233,31 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Halo: Campaign Evolved",
@@ -1269,7 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1784829117",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Halo: Campaign Evolved",
+      "price": "$49.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2806050/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2806050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1784829117",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Shift At Midnight",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3722330/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3722330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784981268",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,31 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
-      "price": "-60%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2417610/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2417610.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Endacopia",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2684630/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2684630.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1785164359",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Shift At Midnight",
@@ -1317,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784981268",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "ICARUS",
-      "price": "-80%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1149460/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1149460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Cyberpunk 2077: Phantom Liberty",
@@ -1341,7 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Endacopia",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2684630/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2684630.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1785164359",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1353,19 +1329,79 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785107783",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-50%",
+      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "price": "-60%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
+      "url": "https://store.steampowered.com/app/2417610/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "image": "/assets/downloads/steam/2417610.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg?t=1762249119",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "ICARUS",
+      "price": "-80%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1149460/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1149460.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2215200/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2215200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1783025238",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Mahou Arms",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1165870/",
+      "list": "new",
+      "image": "/assets/downloads/steam/1165870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165870/6c1afe80d85f46fced31c46bf7c194acd73e0174/header.jpg?t=1785192686",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Office Ladies™",
+      "price": "-23%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4147420/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4147420.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147420/22274af206a1c0c973b89ceaa5596bf735355087/header.jpg?t=1785188604",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "Mothiary",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4187740/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4187740.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/8e34b69bd247568ad6dd6626d52f8c910f5ea555/header.jpg?t=1785183730",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Nightmare Hospital",
@@ -1377,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613900/6567e76f7f329b7bddeddb4a8ce6c931e400fa5b/header.jpg?t=1785179602",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "MiniMate",
@@ -1389,7 +1425,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/2d8676f8196d3e4213e321efbaa2461179e6148b/header.jpg?t=1785177765",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
+    },
+    {
+      "title": "MILKY COWGIRLSVERSE",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4784680/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4784680.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784680/202ba8012d404af2905d8388acd95ba5c1410071/header.jpg?t=1785175567",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Viking Vending",
@@ -1401,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644050/bcc1a08c06527a9794f90878d73f78abc7c8c7fc/header.jpg?t=1785175494",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     },
     {
       "title": "Tachyon Fire",
@@ -1413,55 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745310/71e1d3e5f8f7da3f485ef29cbc78718a4c136e16/header.jpg?t=1785173973",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Eyedle",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4912850/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4912850.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/396ad32b2708a56bf63d42b3ae65cb598b1b29b9/header.jpg?t=1785173552",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "VectaGuard",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2892200/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2892200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/6bb3e93451b4d00e3980ad50e962ba82e6546f70/header.jpg?t=1785173456",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Project Deep Nexus",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4887740/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4887740.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887740/9af3361bf993de17561c62eb77c88bedecb1542e/header.jpg?t=1785173363",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
-    },
-    {
-      "title": "Rites & Receipts",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4410680/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4410680.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410680/2773428898964948174db9ea4f787128268a5c40/header.jpg?t=1785173002",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-27T20:59:00.314Z"
+      "checkedAt": "2026-07-28T01:17:43.807Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
