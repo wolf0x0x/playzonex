@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T01:02:05.465Z",
+  "checkedAt": "2026-07-30T01:13:15.124Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Halo: Campaign Evolved",
@@ -1230,10 +1230,22 @@
       "url": "https://store.steampowered.com/app/2806050/",
       "list": "free",
       "image": "/assets/downloads/steam/2806050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO",
+      "price": "$34.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4433900/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4433900.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785366920",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Palworld",
@@ -1245,7 +1257,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Steam Deck",
@@ -1257,19 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Cyberpunk 2077: Phantom Liberty",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2138330/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2138330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "MECCHA CHAMELEON",
@@ -1305,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785107783",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Sir, We Have an Orc Problem",
@@ -1317,31 +1305,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1785243619",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "Pathogenic",
-      "price": "-20%",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3808690/",
+      "url": "https://store.steampowered.com/app/2138330/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3808690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808690/61607b65d95681ef02bae9bf79099bc6fe511b56/header.jpg?t=1785340554",
+      "image": "/assets/downloads/steam/2138330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "Bills Must Be Paid",
-      "price": "-30%",
+      "title": "Rust",
+      "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4421010/",
+      "url": "https://store.steampowered.com/app/252490/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4421010.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1785345619",
+      "image": "/assets/downloads/steam/252490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Tears of Metal",
@@ -1353,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
       "title": "Warhammer 40,000: Space Marine 2",
@@ -1365,103 +1353,115 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/2f7b287bdc8ffcea5b32aa44368e7d8a9568be5e/header_alt_assets_13.jpg?t=1785341124",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "MUTEIGHT",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4446400/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4446400.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446400/0f469d2d5e155a55815505e283d6a1c23ca69175/header.jpg?t=1785353562",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Solitaire Deck",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4136730/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4136730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136730/2ebc42e45a591244347d8ea5651ae4ad3b3c8d5d/header.jpg?t=1785348018",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Mischief Moves In",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3982520/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3982520.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982520/db421c38b2a3969e98d393246042bbdeea70dff5/header.jpg?t=1785347624",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Keyboard Warrior",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4344210/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4344210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8b50ae9bd33253b0d76a3ae5f005c041f5c7ce49/header.jpg?t=1785345971",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
-    },
-    {
-      "title": "Wizard Tournament",
+      "title": "Bills Must Be Paid",
       "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4917740/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4917740.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/781761d0019390a5fa0c4a68da1a817cb496ebad/header.jpg?t=1785355851",
+      "url": "https://store.steampowered.com/app/4421010/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4421010.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1785365619",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "Scuttle",
+      "title": "BioBot Guide: SexySync",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2766810/",
+      "url": "https://store.steampowered.com/app/4087770/",
       "list": "new",
-      "image": "/assets/downloads/steam/2766810.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/85c164d59e2deeec2cc884c79e657de08d3140c8/header.jpg?t=1785346731",
+      "image": "/assets/downloads/steam/4087770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087770/62e7ebb00d1938aa0148602ccdbff78f4909a4b0/header.jpg?t=1785370657",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "Hydra Heli 2",
+      "title": "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO",
+      "price": "$34.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4433900/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4433900.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/bcdb605e47017334d273ede0af62e4ca9ac05586/header.jpg?t=1785366920",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "SEX Dreams at the Motel",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4939160/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4939160.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939160/faabc1c43570e64425cbce66e58c5a48def9a68c/header.jpg?t=1785365622",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "Sophical",
+      "price": "$4.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4950070/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4950070.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950070/095a60fecdd6ed0ebb3d1ebfc80dbf2ed9f8bda1/header.jpg?t=1785363230",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "Room 0",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4877260/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4877260.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877260/6261792c0b56b6439abb99d5ad42def633fe18bd/header.jpg?t=1785365469",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "Londoleon: not a single penny",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4868940/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4868940.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868940/6229a92b9ab3da9025d3b309352b83167598abf6/header.jpg?t=1785358894",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-07-30T01:13:15.124Z"
+    },
+    {
+      "title": "OUTCLAW",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4241690/",
+      "url": "https://store.steampowered.com/app/3165050/",
       "list": "new",
-      "image": "/assets/downloads/steam/4241690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241690/a1ac92435bfd03b9acf675faf4c86aff8562e8b5/header.jpg?t=1785349649",
+      "image": "/assets/downloads/steam/3165050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165050/627f3082715e797d5f0bed7aa9cbb28f9a1e135d/header.jpg?t=1785356941",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     },
     {
-      "title": "Crescent Creek: Survival Horror",
-      "price": "$9.99",
+      "title": "Fishing Together: Idle Island",
+      "price": "-25%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4581040/",
+      "url": "https://store.steampowered.com/app/3531850/",
       "list": "new",
-      "image": "/assets/downloads/steam/4581040.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581040/bee958d011b13f0d5cfbc95c63c0355f8c71e256/header.jpg?t=1785344413",
+      "image": "/assets/downloads/steam/3531850.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3531850/901dc2518a047dbd813e796d4813b8c14d05e613/header.jpg?t=1785355241",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-07-29T20:41:18.551Z"
+      "checkedAt": "2026-07-30T01:13:15.124Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
