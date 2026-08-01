@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-01T08:40:03.319Z",
+  "checkedAt": "2026-08-01T09:46:54.681Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,67 +1209,79 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "Fallout 1st",
+      "price": "$12.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1202520/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1202520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202520/header.jpg?t=1718719668",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "Fallout 1st",
+      "price": "$12.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1202520/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1202520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202520/header.jpg?t=1718719668",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "iRacing",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/266410/",
+      "list": "free",
+      "image": "/assets/downloads/steam/266410.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1785202053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "iRacing",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/266410/",
+      "list": "free",
+      "image": "/assets/downloads/steam/266410.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1785202053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "iRacing",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/266410/",
+      "list": "free",
+      "image": "/assets/downloads/steam/266410.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1785202053",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Mistfall Hunter",
       "price": "-10%",
       "rating": "Steam listing",
       "url": "https://store.steampowered.com/app/3282300/",
-      "list": "free",
+      "list": "deals",
       "image": "/assets/downloads/steam/3282300.jpg",
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/08d970d57d0e400ef35abae2602c5d5cd5f842d5/header.jpg?t=1785472771",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Palworld",
-      "price": "$29.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1623730/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1623730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Steam Controller",
-      "price": "$99.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165870/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1785179804",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Halo: Campaign Evolved",
-      "price": "$49.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2806050/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2806050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Marvel's Spider-Man 2",
-      "price": "-33%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2651280/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2651280.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Marvel’s Spider-Man Remastered",
@@ -1281,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Mistfall Hunter",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3282300/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3282300.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/08d970d57d0e400ef35abae2602c5d5cd5f842d5/header.jpg?t=1785472771",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Marvel's Spider-Man 2",
@@ -1305,19 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Baldur's Gate 3",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1086940/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1086940.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Corsair Cove",
@@ -1329,19 +1317,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1785527747",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
-      "title": "MECCHA CHAMELEON",
-      "price": "-15%",
+      "title": "Baldur's Gate 3",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4704690/",
+      "url": "https://store.steampowered.com/app/1086940/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4704690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785107783",
+      "image": "/assets/downloads/steam/1086940.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1353,19 +1341,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
-      "title": "Machine Party",
-      "price": "-15%",
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "price": "-60%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4108000/",
+      "url": "https://store.steampowered.com/app/1817190/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4108000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785485527",
+      "image": "/assets/downloads/steam/1817190.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4704690/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4704690.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1785107783",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "NTR Hunter",
@@ -1377,7 +1377,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/c6ca4f7a2ae7ce7d9e9ec2f79ab82fb4b736b9d7/header.jpg?t=1785559797",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Law of Demons",
@@ -1389,7 +1389,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247690/56e9790b9e21040ca47f2d1de68ba4c6f5c48ad2/header.jpg?t=1785556818",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Dog Park",
@@ -1401,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821510/0b49dcf4b0343f24fffed35be083ada523ded2b8/header.jpg?t=1785553608",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "LAST STAND Apocalypse",
@@ -1413,7 +1413,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423700/22405ac7a59d77ae908b4462159473d11b17d12a/header.jpg?t=1785553205",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "Daiying Slingshot",
+      "price": "$7.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4958760/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4958760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958760/f66fec1e9e4be7d754cded0a7ef4a7815da3e787/header.jpg?t=1785550925",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
+    },
+    {
+      "title": "Wartorn: A Visual Novel of the Ukraine War",
+      "price": "$2.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4932480/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4932480.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932480/221198dd2a62049ea5ce69227e665e0a2aeb2fbf/header.jpg?t=1785549398",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "Cotimero",
@@ -1425,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710550/ad515dd71ceeaaf2b8725106a1cb7ef66c0a0c58/header.jpg?t=1785544204",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     },
     {
       "title": "IKANDY",
@@ -1437,31 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813240/044bdac746e17c3d6c2af98ed113dc1f41ceef76/header.jpg?t=1785543654",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Moshcave",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1838600/",
-      "list": "new",
-      "image": "/assets/downloads/steam/1838600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/f96c29170cf0e87e045b010522c4e58577cdf204/header.jpg?t=1785543379",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
-    },
-    {
-      "title": "Schooled",
-      "price": "$3.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4902420/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4902420.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902420/5026fd2bc24696b61f6f3aeeaa667437dc431cf6/header.jpg?t=1785540216",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-01T06:18:50.159Z"
+      "checkedAt": "2026-08-01T09:46:54.681Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
