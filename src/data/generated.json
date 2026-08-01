@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-01T18:02:45.238Z",
+  "checkedAt": "2026-08-01T18:40:24.727Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1087,19 +1087,19 @@
       "name": "Hypixel",
       "address": "mc.hypixel.net",
       "version": "Requires MC 1.8 / 1.21",
-      "players": "36,221 / 200,000",
+      "players": "37,098 / 200,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "Complex Gaming",
       "address": "hub.mc-complex.com",
       "version": "1.7.2-26.2",
-      "players": "1,581 / 3,000",
-      "status": "active",
-      "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "players": "Unavailable",
+      "status": "checking",
+      "source": "mcsrvstat unavailable",
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "Purple Prison",
@@ -1108,70 +1108,70 @@
       "players": "Unavailable",
       "status": "checking",
       "source": "mcsrvstat unavailable",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "OPBlocks",
       "address": "hub.opblocks.com",
       "version": "1.7.2-26.2",
-      "players": "5,054 / 5,500",
+      "players": "5,235 / 5,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "MineSuperior",
       "address": "hub.mcs.gg",
       "version": "1.7.2-26.2",
-      "players": "Unavailable",
-      "status": "checking",
-      "source": "mcsrvstat unavailable",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "players": "322 / 2,500",
+      "status": "active",
+      "source": "mcsrvstat.us",
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "TheArchon",
       "address": "pvp.thearchon.net",
       "version": "Java",
       "players": "Unavailable",
-      "status": "checking",
-      "source": "mcsrvstat unavailable",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "status": "expired",
+      "source": "mcsrvstat.us",
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "ManaCube",
       "address": "play.manacube.com",
       "version": "1.7.2-26.2",
-      "players": "1,452 / 3,500",
+      "players": "1,483 / 3,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "Pixelmon Realms",
       "address": "play.pixelmonrealms.com",
       "version": "1.7.2-1.19.4",
-      "players": "15 / 999",
+      "players": "13 / 999",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "CubeCraft",
       "address": "play.cubecraft.net",
       "version": "We support: 1.20-1.21",
-      "players": "1,492 / 5,000",
+      "players": "1,569 / 5,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     },
     {
       "name": "Mineplex",
       "address": "us.mineplex.com",
       "version": "1.8.9 / 1.21.11 / 26",
-      "players": "Unavailable",
-      "status": "checking",
-      "source": "mcsrvstat unavailable",
-      "checkedAt": "2026-08-01T18:02:45.238Z"
+      "players": "506 / 507",
+      "status": "active",
+      "source": "mcsrvstat.us",
+      "checkedAt": "2026-08-01T18:40:24.727Z"
     }
   ],
   "steamDeals": [
@@ -1819,14 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "steam",
-    "minecraft",
-    "roblox",
-    "wordle",
-    "rawg",
-    "blooket",
-    "games",
-    "gear"
+    "minecraft"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
