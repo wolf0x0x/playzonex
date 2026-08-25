@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-25T08:22:07.122Z",
+  "checkedAt": "2026-08-25T08:26:54.718Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Steam Machine",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Steam Machine",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "No More Room in Hell 2",
@@ -1245,7 +1245,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/ba33a8aef67d6a1e3b17b0f1689731334c1ec541/header.jpg?t=1786638024",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "Crimson Desert",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3321460/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3321460.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "STAR WARS Zero Company™",
@@ -1257,19 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787045473",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "How to Fish X Gamble With Your Friends",
-      "price": "-19%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/83697/",
-      "list": "free",
-      "image": "/assets/downloads/steam/83697.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/83697/9nhvkq0sxgorndmo/8da40b5c7c54fbc2db58e37d8d0663458baf3e46/header_ratio.jpg?t=1786452434",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "How to Fish",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-56%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Crimson Desert",
@@ -1305,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Black Myth: Wukong",
@@ -1317,7 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-56%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "The First Berserker: Khazan",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1776936760",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Combolands: Roguelike Citybuilder",
@@ -1341,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075620/94f8d81bbadbc37f1f0ae0a5df30bda1ff4af186/header.jpg?t=1787580309",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Ryse: Son of Rome",
@@ -1353,19 +1353,79 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/c1a20e77b1124cf1e2828e5d506418c97ad4b50c/header.jpg?t=1783415457",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
-      "title": "VHOLUME",
-      "price": "-10%",
+      "title": "Cult of the Lamb",
+      "price": "-60%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4131730/",
+      "url": "https://store.steampowered.com/app/1313140/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4131730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
+      "image": "/assets/downloads/steam/1313140.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "Milfylicious: The Heat Rises",
+      "price": "$15.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4925260/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4925260.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925260/4b04df2a447f44b9f168657d1413c1555f024589/header.jpg?t=1787644461",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "How Asian Parents went to School",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4154510/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4154510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154510/aa531b49c50addb96d22f7e8ce85ae39a455d7ff/header.jpg?t=1787646239",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "ROCKET SCIENCE",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4977610/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4977610.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977610/3d51f5186626e32714f3bdda1d9c338fc9dba973/header.jpg?t=1787638465",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "Tsugunohi -The Thread That Beckons to Heaven-",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4830660/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4830660.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/0a3875dc9eec1ba26f23025eb2eb9c2cccb50a19/header.jpg?t=1787636773",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
+    },
+    {
+      "title": "Hero Mania",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1933520/",
+      "list": "new",
+      "image": "/assets/downloads/steam/1933520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933520/header.jpg?t=1787634028",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "Base Station Sync",
@@ -1377,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989130/9b9ab8757aa393c70546517af493e5c819ae8f70/header.jpg?t=1787624724",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
       "title": "CityExplorer",
@@ -1386,82 +1446,22 @@
       "url": "https://store.steampowered.com/app/4911410/",
       "list": "new",
       "image": "/assets/downloads/steam/4911410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911410/f833bd37c1199e2e9102da32b323a8203c3adbbf/header.jpg?t=1787624092",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911410/f833bd37c1199e2e9102da32b323a8203c3adbbf/header.jpg?t=1787641027",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     },
     {
-      "title": "Chuck Bonesteel & The Alien Apocalypse",
-      "price": "$4.99",
+      "title": "Honoiro no Jikou 穗色时光",
+      "price": "$19.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3098780/",
+      "url": "https://store.steampowered.com/app/4926100/",
       "list": "new",
-      "image": "/assets/downloads/steam/3098780.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098780/b492e4b61bc883d4bd59706eba88735215692838/header.jpg?t=1787613966",
+      "image": "/assets/downloads/steam/4926100.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926100/b1736b8e82b1a99e855866652beef7dc9a45da7b/header.jpg?t=1787622942",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "Descendants of the Dragon",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4499760/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4499760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499760/5f8cc3bf1e79af69971fd5755a5e253ea67dd90e/header.jpg?t=1787608593",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "No One Prays in Ovruch",
-      "price": "-28%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5026670/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5026670.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026670/5f77d3134d4878d2265ef095911bc685e12559e2/header.jpg?t=1787603941",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "Olinda Fighters",
-      "price": "$7.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3618600/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3618600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618600/dc3bd85f5a67688a6561115c6363f4794d9dcb0d/header.jpg?t=1787602804",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "Farmous",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4992330/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4992330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992330/68ccb409f72d23d0d0c6cf62e7643802b20d07d6/header.jpg?t=1787600284",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
-    },
-    {
-      "title": "Banana Republic",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4440710/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4440710.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440710/82ade00ba074032f9d6abc6fa354165689245e4e/header.jpg?t=1787598005",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-25T04:26:27.375Z"
+      "checkedAt": "2026-08-25T08:26:54.718Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
