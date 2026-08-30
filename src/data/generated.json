@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T21:36:16.898Z",
+  "checkedAt": "2026-08-30T22:10:55.134Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "How to Fish",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Bodycam",
@@ -1209,31 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b670f1abe4e88ab523114ddbb42fcc1014411383/header_alt_assets_1.jpg?t=1787522517",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "No More Room in Hell 2",
@@ -1245,19 +1221,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/775de3f7f26f46a1c6217a7c71656260ee0ca411/header_alt_assets_10.jpg?t=1787680288",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
-      "title": "WARDOGS",
-      "price": "$39.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1867240/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/1867240.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1787571659",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Big Walk",
@@ -1269,19 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
-      "title": "Crimson Desert Enhanced",
-      "price": "-20%",
+      "title": "WARDOGS",
+      "price": "$39.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3321460/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3321460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1787909144",
+      "url": "https://store.steampowered.com/app/1867240/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1867240.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1787571659",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Palworld",
@@ -1293,7 +1281,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3321460/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3321460.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1787909144",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Far Far West",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/0025da69cb122183a4854ae02580360782a2b58f/header_alt_assets_5.jpg?t=1787841818",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Big Ambitions",
@@ -1341,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Forza Horizon 6",
@@ -1353,7 +1353,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787843145",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Manor Lords",
@@ -1365,7 +1365,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1787906126",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
+    },
+    {
+      "title": "BROKEN CLINCH -Crimson Bloom-",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4819420/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4819420.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819420/6718b734418d430cda8d1da17dc9c071163a9714/header.jpg?t=1788123089",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Hoard Seeker",
@@ -1377,7 +1389,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573370/19805a09cb1348119beedd203ada2861e773dcbf/header.jpg?t=1788115377",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
+    },
+    {
+      "title": "Fly West",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4545330/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4545330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545330/d7168c17543e70e476c0a937c929b8e7265f6f60/header.jpg?t=1788109266",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Planet Zombie",
@@ -1389,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953800/da1d9d1cb7a0de2e35d1a1a1a89e569e0b044f04/header.jpg?t=1788106710",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "BLACK STACK",
@@ -1401,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996780/1c0402a7590deefa143c2db151dfc4de5d4b2b6a/header.jpg?t=1788102133",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "I thought I knew you",
@@ -1413,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825800/357e864cf9bbd02d99ab0e31df8f7625c869a38a/header.jpg?t=1788102038",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "BALL BOY Simulator",
@@ -1425,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892800/9eb72ae945e76df9fb246c15afba7ffcfaef9fcd/header.jpg?t=1788101376",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     },
     {
       "title": "Aim Clicker",
@@ -1437,31 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5093280/96be2c2ea2d78ea56657e85697ec366868e47fa5/header.jpg?t=1788098721",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
-    },
-    {
-      "title": "Ghost of Kyiv",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2022170/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2022170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022170/cbd23bdc23f6803c25a7867193824f8579268686/header.jpg?t=1788097685",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
-    },
-    {
-      "title": "Adventure Honor",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4621920/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4621920.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621920/77f51937b40b72b68229fd435f8648613155a636/header.jpg?t=1788095741",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-30T19:40:49.936Z"
+      "checkedAt": "2026-08-30T22:10:55.134Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
