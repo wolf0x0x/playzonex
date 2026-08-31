@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-31T17:37:11.506Z",
+  "checkedAt": "2026-08-31T18:17:37.893Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,6 +1176,18 @@
   ],
   "steamDeals": [
     {
+      "title": "The Blood of Dawnwalker",
+      "price": "$69.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3751260/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3751260.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788197681",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
       "title": "STAR WARS Zero Company™",
       "price": "$49.99",
       "rating": "Steam listing",
@@ -1185,7 +1197,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Breathedge 2",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2412960/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2412960.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/252c120c12b9be38f39b98487fc05d8ba69f7021/header_alt_assets_1.jpg?t=1788197184",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "How to Fish",
@@ -1197,91 +1221,67 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "Fallout 1st",
-      "price": "$12.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1202520/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/1202520.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202520/header.jpg?t=1718719668",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "Fallout 1st",
-      "price": "$12.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1202520/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/1202520.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202520/header.jpg?t=1718719668",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "EA Play",
-      "price": "$5.99",
+      "title": "Breathedge Collection",
+      "price": "-59%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1289670/",
+      "url": "https://store.steampowered.com/app/85934/",
       "list": "free",
-      "image": "/assets/downloads/steam/1289670.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289670/ceda3c4ec3c3f9e0f9d64d9a8edf392a8a445f26/header.jpg?t=1787072360",
+      "image": "/assets/downloads/steam/85934.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/85934/kt8xtizgl10h85jk/d8a955fc773d2a28667828687a4920a4bc9178eb/header_ratio.jpg?t=1787656744",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "iRacing",
-      "price": "$11.59",
+      "title": "Steam Machine",
+      "price": "$1049.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/266410/",
+      "url": "https://store.steampowered.com/app/4165910/",
       "list": "free",
-      "image": "/assets/downloads/steam/266410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "iRacing",
-      "price": "$11.59",
+      "title": "Breathedge 2",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/266410/",
-      "list": "free",
-      "image": "/assets/downloads/steam/266410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "iRacing",
-      "price": "$11.59",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/266410/",
-      "list": "free",
-      "image": "/assets/downloads/steam/266410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-56%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
+      "url": "https://store.steampowered.com/app/2412960/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "image": "/assets/downloads/steam/2412960.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/252c120c12b9be38f39b98487fc05d8ba69f7021/header_alt_assets_1.jpg?t=1788197184",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "Palworld",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "Crimson Desert Enhanced",
@@ -1305,7 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1787909144",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-56%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1317,19 +1329,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "Far Far West",
-      "price": "-20%",
+      "title": "Project Zomboid",
+      "price": "-33%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3124540/",
+      "url": "https://store.steampowered.com/app/108600/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3124540.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/0025da69cb122183a4854ae02580360782a2b58f/header_alt_assets_5.jpg?t=1787841818",
+      "image": "/assets/downloads/steam/108600.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "Big Ambitions",
@@ -1338,10 +1350,10 @@
       "url": "https://store.steampowered.com/app/1331550/",
       "list": "deals",
       "image": "/assets/downloads/steam/1331550.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
       "title": "Forza Horizon 6",
@@ -1353,115 +1365,103 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1787843145",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "CONTROL Ultimate Edition",
-      "price": "-90%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/870780/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/870780.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "Maestro's Cold War 2",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3204120/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3204120.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204120/header.jpg?t=1788167108",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "BeatChip '95",
+      "title": "Vibe City Islands Architect",
       "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4250100/",
+      "url": "https://store.steampowered.com/app/3589770/",
       "list": "new",
-      "image": "/assets/downloads/steam/4250100.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250100/8c50ebf9951268f59fc80667c4b8ec66033b1530/header.jpg?t=1788167093",
+      "image": "/assets/downloads/steam/3589770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589770/501d54549dc02e1fb04c7bc3a69a0d0d6d2e5fef/header.jpg?t=1788196293",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "KnockOut Drive",
-      "price": "-10%",
+      "title": "Pretend Cars Racing 2",
+      "price": "$7.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2514570/",
+      "url": "https://store.steampowered.com/app/2942330/",
       "list": "new",
-      "image": "/assets/downloads/steam/2514570.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514570/cd986711505e6292c69aca8817838a1589d45054/header.jpg?t=1788166963",
+      "image": "/assets/downloads/steam/2942330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2942330/108c5f145ce9e1146326917645f6ebb9760a4af6/header.jpg?t=1788196259",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "Airport City Transport Manager",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4514800/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4514800.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514800/d075e2752c4a72f38ccbbd6376a96736351f1ac9/header.jpg?t=1788165314",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "The Hall That Devours",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5001620/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5001620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001620/8e1b91be0c0bf16635ac7ed649ce657e46b2f7ab/header.jpg?t=1788165201",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "Unsolved Case: Whispers of Elderwick Collector’s Edition",
-      "price": "$15.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4253730/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4253730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253730/e9debcdc33b8a21e375aa66992db93c9c61e9847/header.jpg?t=1788162334",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
-    },
-    {
-      "title": "Algorithms",
+      "title": "Tails & Trails",
       "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5042050/",
+      "url": "https://store.steampowered.com/app/3882990/",
       "list": "new",
-      "image": "/assets/downloads/steam/5042050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042050/41ab533cf2f7bd7694c6ed5d8c231644664b334a/header.jpg?t=1788160109",
+      "image": "/assets/downloads/steam/3882990.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882990/005a1627bb6ee6f43b1b33738dc683bec3e75041/header.jpg?t=1788195512",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     },
     {
-      "title": "Nellie's Nonograms",
-      "price": "Free",
+      "title": "CircleBrawl",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4863170/",
+      "url": "https://store.steampowered.com/app/5008240/",
       "list": "new",
-      "image": "/assets/downloads/steam/4863170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863170/b841f493513aea37a08fb283db4de99f8593f63e/header.jpg?t=1788160080",
+      "image": "/assets/downloads/steam/5008240.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008240/7b1d031dfd5f9f29dae1a6c9225bcd1f3a31ae56/header.jpg?t=1788194797",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-08-31T10:10:41.440Z"
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Just a job",
+      "price": "$3.83",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4072180/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4072180.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072180/0c1619d6849a0bf268076fb26bd7559810b617e0/header.jpg?t=1788197817",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Cloud Runner",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4748190/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4748190.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748190/a7a4fa0d0f77d4effff72df15172fefeb2a9f810/header.jpg?t=1788193836",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Isle of Flesh",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3107490/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3107490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107490/cb1f66a2e9f1d72defd6577341da417c84c42f36/header.jpg?t=1788194383",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
+    },
+    {
+      "title": "Tabletop Galaxy",
+      "price": "$7.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5047680/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5047680.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047680/e3dc82af2fe432910a31401481235bbeb2f39fb7/header.jpg?t=1788198763",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-08-31T18:17:37.893Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
