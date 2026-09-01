@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T16:39:13.451Z",
+  "checkedAt": "2026-09-01T18:55:22.306Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788197681",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Crimson Moon",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4317690/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4317690.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/43f965890a8f4e64917f20befc50a077036cc015/header.jpg?t=1788285675",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Steam Controller",
@@ -1197,67 +1209,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1785179804",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
-      "title": "Being a DIK - Season 3",
-      "price": "-10%",
+      "title": "Crimson Moon Deluxe Edition",
+      "price": "$29.98",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1807120/",
+      "url": "https://store.steampowered.com/app/84767/",
       "list": "free",
-      "image": "/assets/downloads/steam/1807120.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807120/header.jpg?t=1788256738",
+      "image": "/assets/downloads/steam/84767.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/84767/2gka8zxc1lodbhzc/bf610e36ca087683a6e89571f3cd8687382372d0/header_ratio.jpg?t=1787761178",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Steam Machine",
-      "price": "$1049.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "STAR WARS Zero Company™",
@@ -1269,7 +1233,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Being a DIK - Season 3",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1807120/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1807120.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807120/header.jpg?t=1788256738",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Being a DIK - Season 3",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807120/header.jpg?t=1788256738",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Project Zomboid",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Sons Of The Forest",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Palworld",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1329,19 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Crimson Desert Enhanced",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3321460/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3321460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788226529",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "Enshrouded",
@@ -1353,115 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Red Dead Redemption 2",
-      "price": "-75%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1174180/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1174180.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Masters of Mayhem",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1496970/",
-      "list": "new",
-      "image": "/assets/downloads/steam/1496970.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496970/4d9d4451d97e4cc53aed8579dea970704f2cb8cc/header.jpg?t=1788276882",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Chaos Warrior",
-      "price": "$4.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4847780/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4847780.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847780/da34f3cdbe25927890ba3187e8ed6184ef4202ca/header.jpg?t=1788274835",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
-    },
-    {
-      "title": "Gun Shop: Tidy Up",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5050370/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5050370.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050370/3fbb548b30a83fbf7b8eb7b2450b8376d498920b/header.jpg?t=1788275526",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
       "title": "WheelMates",
       "price": "-10%",
       "rating": "Steam listing",
       "url": "https://store.steampowered.com/app/3905450/",
-      "list": "new",
+      "list": "deals",
       "image": "/assets/downloads/steam/3905450.jpg",
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905450/77c8adc4c5c11a80f0ae22633789396a0f313433/header.jpg?t=1788276957",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
-      "title": "Salvation: Echoes of War",
-      "price": "-15%",
+      "title": "Crimson Desert Enhanced",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3741170/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3741170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3741170/81bb28b7d56dad25c61477b2a4594414c55bf194/header.jpg?t=1788273107",
+      "url": "https://store.steampowered.com/app/3321460/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3321460.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788226529",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
-      "title": "Ten Pins To Oblivion",
-      "price": "-15%",
+      "title": "Super Wiloo Deluxe",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4331160/",
+      "url": "https://store.steampowered.com/app/4551290/",
       "list": "new",
-      "image": "/assets/downloads/steam/4331160.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331160/92a0252096eb9a0e4dac89c2aa234d029d89b842/header.jpg?t=1788272965",
+      "image": "/assets/downloads/steam/4551290.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551290/42e1dc117198769a376a0cd48f5720b2fba41307/header.jpg?t=1788286018",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
-      "title": "Homicide Desk",
-      "price": "-17%",
+      "title": "Digital Survivor",
+      "price": "$2.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4935210/",
+      "url": "https://store.steampowered.com/app/4945570/",
       "list": "new",
-      "image": "/assets/downloads/steam/4935210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935210/1e3effd7f0099784b5f2d03af60f464e904ece18/header.jpg?t=1788272635",
+      "image": "/assets/downloads/steam/4945570.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945570/a7da365113360817483334262e79f4ed741fef1d/header.jpg?t=1788285762",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     },
     {
-      "title": "Bread Makes the Heart Aflutter",
+      "title": "Ghost Truck: Death Arena",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4482690/",
+      "url": "https://store.steampowered.com/app/4657680/",
       "list": "new",
-      "image": "/assets/downloads/steam/4482690.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482690/35d078c3aaaf6e86a226c8f73bc10c1d223673c3/header.jpg?t=1788272558",
+      "image": "/assets/downloads/steam/4657680.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657680/114f661645861e0cfe67d11934e9676688c81da4/header.jpg?t=1788285630",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-01T15:38:52.199Z"
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Out Of Water",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3907840/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3907840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907840/aaaec18b4cefd328bc8f07e0ffbd84ef5896201b/header.jpg?t=1788283832",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Drowned Light",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4806010/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4806010.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806010/435c34d1782259ab596413facb624ec5cc35ebe0/header.jpg?t=1788282099",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Tales of Fear - Episode Zero",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4191350/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4191350.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191350/7146f23cf20f1ea447628040197fcc7e65a4e579/header.jpg?t=1788282969",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Launch Them All",
+      "price": "$5.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4527130/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4527130.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527130/387f68c9a1b13c435265aa17bed8a43f48413be0/header.jpg?t=1788283837",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
+    },
+    {
+      "title": "Unnamed Pogo Game",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4925300/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4925300.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925300/301153743cd06d8b5c3cdc20d78d334a0da2b7d1/header.jpg?t=1788281852",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-01T18:55:22.306Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
