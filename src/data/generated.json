@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T21:13:26.252Z",
+  "checkedAt": "2026-09-03T21:57:48.401Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788444722",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "WARDOGS",
@@ -1197,7 +1197,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1788352946",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Bodycam",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2406770/",
+      "list": "free",
+      "image": "/assets/downloads/steam/2406770.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788471492",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Halloween: The Game",
@@ -1209,19 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1788443234",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Bodycam",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2406770/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2406770.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2e29515d3bdfad9f1074ca155365eb8a56158051/header_alt_assets_0.jpg?t=1788456092",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "WARDOGS - Supporter Edition",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1746527/3bd4b35869293fe4f74eca49e899e483666cd729/header_ratio.jpg?t=1786463961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Onimusha: Way of the Sword",
@@ -1245,31 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788311809",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
-      "title": "FINAL FANTASY VII REVELATION",
-      "price": "$69.99",
+      "title": "SpeedRunners 2: King of Speed",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4354570/",
+      "url": "https://store.steampowered.com/app/3183760/",
       "list": "free",
-      "image": "/assets/downloads/steam/4354570.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354570/c82a370d62d715234771be34c6ff3c928c7d78e2/header.jpg?t=1788444187",
+      "image": "/assets/downloads/steam/3183760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183760/32fb9e3e0bfaa8166168a42f65479b909284a4ab/header_alt_assets_2.jpg?t=1788467143",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
-      "title": "STAR WARS Zero Company™",
-      "price": "$49.99",
+      "title": "Steam Machine",
+      "price": "$1049.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2075800/",
+      "url": "https://store.steampowered.com/app/4165910/",
       "list": "free",
-      "image": "/assets/downloads/steam/2075800.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1782171053",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Bodycam",
@@ -1278,58 +1278,10 @@
       "url": "https://store.steampowered.com/app/2406770/",
       "list": "deals",
       "image": "/assets/downloads/steam/2406770.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2e29515d3bdfad9f1074ca155365eb8a56158051/header_alt_assets_0.jpg?t=1788456092",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788471492",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Crimson Desert Enhanced",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3321460/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3321460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788450739",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Palworld",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1623730/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1623730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Project Zomboid",
-      "price": "-33%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/108600/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/108600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "BOMBANANA!",
-      "price": "-38%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4656000/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4656000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Warhammer 40,000: Space Marine 2",
@@ -1341,31 +1293,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
-      "title": "007 First Light",
+      "title": "Call of Duty®: Black Ops III",
+      "price": "-75%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/311210/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/311210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "price": "-75%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/311210/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/311210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Crimson Desert Enhanced",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1488462/",
+      "url": "https://store.steampowered.com/app/3321460/",
       "list": "deals",
-      "image": "",
-      "remoteImage": null,
+      "image": "/assets/downloads/steam/3321460.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788450739",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-56%",
+      "title": "Project Zomboid",
+      "price": "-33%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
+      "url": "https://store.steampowered.com/app/108600/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "image": "/assets/downloads/steam/108600.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Palworld",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1623730/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "BOMBANANA!",
+      "price": "-38%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4656000/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4656000.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Reality Breach",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3118910/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3118910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118910/77cd63b42d5ab48f83e2bb72317569f84a6f2dff/header.jpg?t=1788469396",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Pro Strategy Football 2027",
+      "price": "$24.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4964660/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4964660.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964660/e2a425c858f3dc6778b0ba4ce0d6d213d48eca57/header.jpg?t=1788467456",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "DuckShot Bros",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4960320/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4960320.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960320/96c429956b4e25e1204d4c8b41d7864134142d2a/header.jpg?t=1788467435",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
+    },
+    {
+      "title": "Rogue Runner",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3332790/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3332790.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332790/8967a0d92027b32e129f2071eef4cd82d6d1830c/header.jpg?t=1788463048",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Good Knight's Adventures",
@@ -1377,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842870/2781eef2d4edec40144ceee8264fdeda616c126d/header.jpg?t=1788461794",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Golden Gloves VR",
@@ -1389,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2270000/1457bdd8ce1203b89df2bf9bd383965b3b00fd40/header.jpg?t=1788461696",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
       "title": "Autumn's end (Part 1)",
@@ -1401,67 +1449,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901420/b9a02b256b76b036a71b384a6c7807052942f5e3/header.jpg?t=1788460356",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     },
     {
-      "title": "KAYF-LIFE: Complete Edition",
-      "price": "Free",
+      "title": "Bliss Point",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1950750/",
+      "url": "https://store.steampowered.com/app/4906000/",
       "list": "new",
-      "image": "/assets/downloads/steam/1950750.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1950750/20e2f9382d4369f5fd18b139ef9ade53d83f424b/header.jpg?t=1788458538",
+      "image": "/assets/downloads/steam/4906000.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906000/2417dfce0361c3910d4129bf2353439d0c00677f/header.jpg?t=1788459537",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Supermarket Empire Together",
-      "price": "-51%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5095460/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5095460.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5095460/39106545cfdc2680d069f5ef74411fbc72991460/header.jpg?t=1788458297",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "5,000 Premier Pack - Rainbow Six Siege",
-      "price": "$39.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4893470/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4893470.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893470/a2fd15729bf7b8e77eaa79bf157fb6436998a762/header.jpg?t=1788458151",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Bite 2 ur Door",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5024760/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5024760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024760/f6530709208b03dbcbe9d7db32bbfb63d70baf41/header.jpg?t=1788457437",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
-    },
-    {
-      "title": "Hentai Office Succubus",
-      "price": "-35%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5045730/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5045730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045730/db70654c51ee07aa2d430c8ab157e3e7aaadc44b/header.jpg?t=1788454915",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-03T19:41:16.295Z"
+      "checkedAt": "2026-09-03T21:57:48.401Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
