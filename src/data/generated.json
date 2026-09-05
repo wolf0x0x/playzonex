@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-05T11:59:18.802Z",
+  "checkedAt": "2026-09-05T14:05:13.051Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788552059",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Onimusha: Way of the Sword",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Halloween: The Game",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1788531517",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Bodycam",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788548796",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "WARDOGS",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1788352946",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "WARDOGS - Supporter Edition",
@@ -1245,19 +1245,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1746527/3bd4b35869293fe4f74eca49e899e483666cd729/header_ratio.jpg?t=1786463961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
-      "title": "How to Fish",
-      "price": "$7.99",
+      "title": "Steam Controller",
+      "price": "$99.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4001890/",
+      "url": "https://store.steampowered.com/app/4165870/",
       "list": "free",
-      "image": "/assets/downloads/steam/4001890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
+      "image": "/assets/downloads/steam/4165870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1785179804",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "STAR WARS Zero Company™",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Bodycam",
@@ -1281,31 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788548796",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
-    },
-    {
-      "title": "Dungeon Settlers",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2798330/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2798330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/d261312249a66cb55857c791bd3fb65f44894542/header.jpg?t=1788527075",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
-    },
-    {
-      "title": "Call of Duty®: Black Ops III",
-      "price": "-75%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/311210/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/311210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Crimson Desert Enhanced",
@@ -1317,31 +1293,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1788450739",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
-      "title": "Palworld",
-      "price": "-30%",
+      "title": "Dungeon Settlers",
+      "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1623730/",
+      "url": "https://store.steampowered.com/app/2798330/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1623730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
+      "image": "/assets/downloads/steam/2798330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798330/d261312249a66cb55857c791bd3fb65f44894542/header.jpg?t=1788527075",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
-      "title": "Project Zomboid",
-      "price": "-33%",
+      "title": "Call of Duty®: Black Ops III",
+      "price": "-75%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/108600/",
+      "url": "https://store.steampowered.com/app/311210/",
       "list": "deals",
-      "image": "/assets/downloads/steam/108600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "image": "/assets/downloads/steam/311210.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Warhammer 40,000: Space Marine 2",
@@ -1353,19 +1329,67 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
-      "title": "BOMBANANA!",
-      "price": "-38%",
+      "title": "Palworld",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4656000/",
+      "url": "https://store.steampowered.com/app/1623730/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4656000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1788351950",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
+    },
+    {
+      "title": "Project Zomboid",
+      "price": "-33%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/108600/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/108600.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-05T14:05:13.051Z"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-56%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-05T14:05:13.051Z"
+    },
+    {
+      "title": "HB Inc.",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4942650/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4942650.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942650/2aed1b1b6afeb1803e57eee4e350d3a26e5dd55a/header.jpg?t=1788608938",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-05T14:05:13.051Z"
+    },
+    {
+      "title": "Valdivia AllStars",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5103500/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5103500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103500/da77ceb8091bd2d96e7ae8d646aaf780e0005418/header.jpg?t=1788608480",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "RAKHEM",
@@ -1377,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5134750/6cefbcfad4f2c3c6fd388cb3a74cc3783f1d858d/header.jpg?t=1788606171",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Exspelled",
@@ -1389,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1788600433",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "KANSYS: Storms Suppressed",
@@ -1401,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/7a3f81921e5f61e069efa60ad9fe2631cc5ec20f/header.jpg?t=1788594906",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Cribbage!",
@@ -1413,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984120/7ae80cf8f228e45fe25e860e489f0afc884026af/header.jpg?t=1788594775",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Pitchside Empire",
@@ -1425,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099380/63b07c2e93174a6b9ddbea3189a1af05c0f3c500/header.jpg?t=1788592394",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     },
     {
       "title": "Worm In Village",
@@ -1437,31 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107010/a6f7df0ff7c813c0c99ffc9bcc5166d1aa1f0819/header.jpg?t=1788591664",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
-    },
-    {
-      "title": "Pomoroid",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4940360/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4940360.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940360/5e86cdbf0cf55820d4b0b4b31cd5b547465623ae/header.jpg?t=1788590508",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
-    },
-    {
-      "title": "Crustacean Station!",
-      "price": "$2.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4565420/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4565420.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565420/f17459d9c0fb860780d765ed809e561428db38ad/header.jpg?t=1788580746",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-05T11:25:52.536Z"
+      "checkedAt": "2026-09-05T14:05:13.051Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
