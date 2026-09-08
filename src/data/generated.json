@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-08T20:42:38.931Z",
+  "checkedAt": "2026-09-08T21:19:24.356Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1819,13 +1819,13 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "rawg"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
   "wordleNote": "Daily answer is not republished unless a verified licensed source is configured.",
   "rawgMetadata": {
-    "checkedAt": "2026-09-08T19:47:07.037Z",
+    "checkedAt": "2026-09-08T21:19:24.356Z",
     "source": "RAWG API key not configured",
     "games": []
   },
