@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-11T05:58:15.254Z",
+  "checkedAt": "2026-09-11T08:21:47.456Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "WARDOGS - Supporter Edition",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1746527/3bd4b35869293fe4f74eca49e899e483666cd729/header_ratio.jpg?t=1789055998",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "Halloween: The Game",
@@ -1209,7 +1209,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1788897758",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
+    },
+    {
+      "title": "Drag'n Wash",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4739660/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4739660.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "The Blood of Dawnwalker",
@@ -1221,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "No Man's Sky",
@@ -1233,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789027039",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "Welcome to Elderfield",
@@ -1245,31 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/cf061a8da09f92889df2498ecf5226ceac8f2fa6/header.jpg?t=1789053771",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Valheim",
-      "price": "$29.99",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/892970/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/892970.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
-    },
-    {
-      "title": "Drag'n Wash",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4739660/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4739660.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "No Man's Sky",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789027039",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "Drag'n Wash",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "Welcome to Elderfield",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/cf061a8da09f92889df2498ecf5226ceac8f2fa6/header.jpg?t=1789053771",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "DEATH STRANDING DIRECTOR'S CUT",
@@ -1317,43 +1317,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Diablo® IV: Lord of Hatred™ - Standard Edition",
-      "price": "-25%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1390270/",
-      "list": "deals",
-      "image": "",
-      "remoteImage": null,
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
-    },
-    {
-      "title": "Ready or Not",
+      "title": "Grand Theft Auto V Enhanced",
       "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1144200/",
+      "url": "https://store.steampowered.com/app/3240220/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1144200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
-    },
-    {
-      "title": "Red Dead Redemption",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2668510/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2668510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
       "title": "Call of Duty®: Black Ops III",
@@ -1365,103 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Goblin \"Gnight\" Garuru",
-      "price": "-15%",
+      "title": "Resident Evil Requiem",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4300160/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4300160.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300160/7aecfeff1e296d4690d73fc527c7fe130568cbb4/header.jpg?t=1789090211",
+      "url": "https://store.steampowered.com/app/3764200/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3764200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Monster Adventure Studio",
+      "title": "PRAGMATA",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4575230/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4575230.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575230/6c75fc5e60f41187babc2e1d0bf1314ac15759e8/header.jpg?t=1789086586",
+      "url": "https://store.steampowered.com/app/3357650/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3357650.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Electronics Depot Simulator",
+      "title": "Blurry Shopping",
       "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5089560/",
+      "url": "https://store.steampowered.com/app/4487760/",
       "list": "new",
-      "image": "/assets/downloads/steam/5089560.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089560/1d5db6c80d35df041a25405070919a72537dc64a/header.jpg?t=1789082320",
+      "image": "/assets/downloads/steam/4487760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487760/c800969fcc13c813af518c91007486c0c38453b8/header.jpg?t=1789110492",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Thumper Chess",
+      "title": "SIMPLE ACTION",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4540600/",
+      "url": "https://store.steampowered.com/app/5157140/",
       "list": "new",
-      "image": "/assets/downloads/steam/4540600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540600/70aa1249608ed13c96225c4c850d614926594664/header.jpg?t=1789075232",
+      "image": "/assets/downloads/steam/5157140.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5157140/1efc6386263e2f2aee25becf97d0ea0deb19605b/header.jpg?t=1789110125",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "The Last of RAM",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4577980/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4577980.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4577980/ff677c793afdddb3585c6cc3e38d587921c9fe52/header.jpg?t=1789073427",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
-    },
-    {
-      "title": "Dig For Riches",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3934080/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3934080.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934080/897716957621478c8bd1533aa342a4100b8dc206/header.jpg?t=1789073105",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
-    },
-    {
-      "title": "Project Cobalt",
+      "title": "Journey to Echo",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3916570/",
+      "url": "https://store.steampowered.com/app/4895560/",
       "list": "new",
-      "image": "/assets/downloads/steam/3916570.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916570/c163a13d8456c4a997b6d85af4b096e7aaa38b40/header.jpg?t=1789073040",
+      "image": "/assets/downloads/steam/4895560.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895560/cda805a26bfdf276ae2c8b9aa4e852bd37fd1d4f/header.jpg?t=1789110089",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     },
     {
-      "title": "Not My Child",
-      "price": "$5.99",
+      "title": "She Sucked Me Once, and Dry",
+      "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4157670/",
+      "url": "https://store.steampowered.com/app/5116160/",
       "list": "new",
-      "image": "/assets/downloads/steam/4157670.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157670/7d04a7ba979c0651d89cc2edfc83d8dfe961693c/header.jpg?t=1789072105",
+      "image": "/assets/downloads/steam/5116160.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116160/3c17534de42696a235a2b43a5ec2bd6672c0853e/header.jpg?t=1789110030",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-09-11T01:43:09.237Z"
+      "checkedAt": "2026-09-11T08:21:47.456Z"
+    },
+    {
+      "title": "Ball Scratch Simulator",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4951590/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4951590.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951590/7428aeb87e83bbfc666986fa132131bc1e54dc0b/header.jpg?t=1789109837",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-11T08:21:47.456Z"
+    },
+    {
+      "title": "Temporal Anomaly Bureau",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4998020/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4998020.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998020/450894eb2394d08b4adf58e40c439f8067c6d166/header.jpg?t=1789107883",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-11T08:21:47.456Z"
+    },
+    {
+      "title": "RHYTHM NEBULA",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4806640/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4806640.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806640/db90c14a0039e29175bc4d67f7f7d3eb673e8970/header.jpg?t=1789107765",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-11T08:21:47.456Z"
+    },
+    {
+      "title": "I'm Not Sex King",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4728830/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4728830.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4728830/de7b5998a22d3450d0d1a971125726d351f4db64/header.jpg?t=1789106379",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-09-11T08:21:47.456Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
