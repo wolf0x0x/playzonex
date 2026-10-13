@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-13T12:53:07.086Z",
+  "checkedAt": "2026-10-13T15:20:46.839Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,19 +1185,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Planet Zoo 2",
-      "price": "$49.99",
+      "title": "Season 5 Battlefield Pro - Battlefield™ 6 and REDSEC",
+      "price": "$24.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3219030/",
+      "url": "https://store.steampowered.com/app/4888270/",
       "list": "free",
-      "image": "/assets/downloads/steam/3219030.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1791804561",
+      "image": "/assets/downloads/steam/4888270.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888270/08eb815ce56c3e92f136d81ada3447a214c7a9e0/header.jpg?t=1791881955",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
       "title": "STAR WARS: Galactic Racer™",
@@ -1209,7 +1233,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "price": "-75%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/376282/",
+      "list": "free",
+      "image": "/assets/downloads/steam/376282.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Planet Zoo 2",
+      "price": "$49.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3219030/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3219030.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1791901018",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
       "title": "Steam Frame",
@@ -1221,67 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Risk of Rain 2: Hallowed Concepts",
-      "price": "$14.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3055670/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3055670.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055670/3bf4b68ad7af9933602ecd2fc26f588f047e09e7/header.jpg?t=1791531426",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "WARDOGS",
-      "price": "$39.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1867240/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1867240.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1790774170",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Gears of War: E-Day",
-      "price": "$69.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3010850/",
-      "list": "free",
-      "image": "/assets/downloads/steam/3010850.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791488050",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Hood Warfare 2",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5155360/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/5155360.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
       "title": "Halo: The Master Chief Collection",
@@ -1293,7 +1281,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Hood Warfare 2",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5155360/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/5155360.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg?t=1791686243",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
       "title": "ARC Raiders",
@@ -1305,43 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "BOMBANANA!",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4656000/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4656000.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced",
-      "price": "-56%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3240220/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3240220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
-    },
-    {
-      "title": "Big Walk",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1478500/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1478500.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1353,115 +1317,151 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Invokyr",
-      "price": "-25%",
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-56%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3883570/",
+      "url": "https://store.steampowered.com/app/3240220/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3883570.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Prankster Raccoon",
-      "price": "Free",
+      "title": "Permafrost",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5270020/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5270020.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270020/6ea4ec8ae37141e96f173fb5863e3b782ca458fb/header.jpg?t=1791859009",
+      "url": "https://store.steampowered.com/app/2254990/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2254990.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Give Me Five",
-      "price": "$3.99",
+      "title": "Palworld",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4613310/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4613310.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613310/65a0d9c314794ec1b6d9bdee3d8feca565df7ed9/header.jpg?t=1791856878",
+      "url": "https://store.steampowered.com/app/1623730/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1623730.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Rhythm Animal Café",
+      "title": "Big Walk",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1478500/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1478500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Feudal Craft",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3480890/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3480890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480890/274efd8b3c22fb312c1d4b586253c278215fd9ae/header.jpg?t=1791900188",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Allogloom",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3859210/",
+      "url": "https://store.steampowered.com/app/2644100/",
       "list": "new",
-      "image": "/assets/downloads/steam/3859210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859210/50516e4f79566baacafa4bad7ca8fc0db89db654/header.jpg?t=1791859127",
+      "image": "/assets/downloads/steam/2644100.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644100/a44243580cd557cdef871825a4077120103a85cf/header.jpg?t=1791900070",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Keep Her Safe",
-      "price": "-35%",
+      "title": "Deep Dish Dungeon",
+      "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4532550/",
+      "url": "https://store.steampowered.com/app/2871520/",
       "list": "new",
-      "image": "/assets/downloads/steam/4532550.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532550/e7bc947f57f2c02f37fd6733def69bfc338745bc/header.jpg?t=1791856871",
+      "image": "/assets/downloads/steam/2871520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1791899999",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "NeeNee Deskpals",
-      "price": "-10%",
+      "title": "Planet Zoo 2",
+      "price": "$49.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3863740/",
+      "url": "https://store.steampowered.com/app/3219030/",
       "list": "new",
-      "image": "/assets/downloads/steam/3863740.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/0d0fc038b8e7a64539eb454dae3b91dbaa21a771/header.jpg?t=1791856538",
+      "image": "/assets/downloads/steam/3219030.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1791901018",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "The Story Adam Left Behind",
-      "price": "-10%",
+      "title": "ROLLA",
+      "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5255930/",
+      "url": "https://store.steampowered.com/app/3975830/",
       "list": "new",
-      "image": "/assets/downloads/steam/5255930.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255930/063734c50f72ed8d1d915504f8616749e60b3663/header.jpg?t=1791849777",
+      "image": "/assets/downloads/steam/3975830.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975830/4ae9f10a35cd0d99f4ec04bea79b34c3431721fc/header.jpg?t=1791903220",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Knightime",
-      "price": "-35%",
+      "title": "PigPonyPocalypse",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4983560/",
+      "url": "https://store.steampowered.com/app/4385110/",
       "list": "new",
-      "image": "/assets/downloads/steam/4983560.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983560/6bae652b6dd29fcbddb7ebf89bf6df21a7979b97/header.jpg?t=1791846027",
+      "image": "/assets/downloads/steam/4385110.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385110/a58a2474c401bc0c0b81a2d747bbc87860a68f03/header.jpg?t=1791896416",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     },
     {
-      "title": "Witch Cabin Cleanup",
-      "price": "-10%",
+      "title": "Legion Breaker",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4991240/",
+      "url": "https://store.steampowered.com/app/4425980/",
       "list": "new",
-      "image": "/assets/downloads/steam/4991240.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991240/9a2e44b7e898b056ecf29d08c9079750cc4558e3/header.jpg?t=1791852661",
+      "image": "/assets/downloads/steam/4425980.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425980/572123b7cb5884906dc50d3c1747cab4b1bb9751/header.jpg?t=1791896276",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-13T04:09:35.451Z"
+      "checkedAt": "2026-10-13T15:20:46.839Z"
+    },
+    {
+      "title": "Mechabot Defender",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1950820/",
+      "list": "new",
+      "image": "/assets/downloads/steam/1950820.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1950820/header.jpg?t=1791894762",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-13T15:20:46.839Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
