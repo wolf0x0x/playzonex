@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-16T21:32:33.975Z",
+  "checkedAt": "2026-10-16T22:16:25.439Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792111318",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792111318",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Enshrouded",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "STAR WARS: Galactic Racer™",
@@ -1221,19 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "Tenebris Somnia",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2121510/",
-      "list": "free",
-      "image": "/assets/downloads/steam/2121510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Scam With Your Friends",
@@ -1245,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792088818",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "WARDOGS",
@@ -1257,19 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/bb62feb8f59915d00bade38910f1bfdad5232b90/header_alt_assets_0.jpg?t=1791928607",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
-      "title": "Steam Deck",
-      "price": "$399.00",
+      "title": "Castlevania: Belmont's Curse",
+      "price": "$29.99",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
+      "url": "https://store.steampowered.com/app/4231820/",
       "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "image": "/assets/downloads/steam/4231820.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "DayZ Badlands",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3816030/",
+      "list": "free",
+      "image": "/assets/downloads/steam/3816030.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816030/a14cce662d9a779789852279c1d2006e48a1cb03/header.jpg?t=1792059040",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Enshrouded",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Scam With Your Friends",
@@ -1293,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792088818",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "007 First Light",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3768760/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3768760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "over the hill",
@@ -1317,19 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
-      "title": "Tenebris Somnia",
-      "price": "-20%",
+      "title": "007 First Light",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2121510/",
+      "url": "https://store.steampowered.com/app/3768760/",
       "list": "deals",
-      "image": "/assets/downloads/steam/2121510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122",
+      "image": "/assets/downloads/steam/3768760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1341,7 +1329,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "price": "-75%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/376282/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/376282.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "RuneScape: Dragonwilds",
@@ -1353,19 +1353,79 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
-      "title": "Futa Slug EX",
-      "price": "-10%",
+      "title": "Tenebris Somnia",
+      "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3962420/",
+      "url": "https://store.steampowered.com/app/2121510/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3962420.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962420/877e0da58afc89aeb132f3c4df21e7bfd0ae4828/header.jpg?t=1792169864",
+      "image": "/assets/downloads/steam/2121510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "Open Sourcerer",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4561260/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4561260.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561260/c9cae599b22ee7e92e0904e94c2e37b450ec8156/header.jpg?t=1792184456",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "The Mayor’s Hand",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5175490/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5175490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175490/a737ad722ab2f6eff495eb40606c1ce8a87c3307/header.jpg?t=1792183887",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "Wife's Bedroom",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5230050/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5230050.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230050/0db07d2c6ace96a7486fc61131f86be908dbe7a7/header.jpg?t=1792183718",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "The Great Game of Cards",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5250500/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5250500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5250500/451b69a5d65cde20d403676e91ea9314996b4f9b/header.jpg?t=1792182030",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
+    },
+    {
+      "title": "SpudFall",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4924000/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4924000.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924000/15b53edb10a5c745d183dd922899317991077847/header.jpg?t=1792181119",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Pure Muay Thai",
@@ -1377,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062840/7010b3ee536de1aa902a1d63186fc296191c928b/header.jpg?t=1792178806",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "Court of Lies",
@@ -1389,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5264040/b90825b2dbf93aa39e0aa75b389ef1b83d587a35/header.jpg?t=1792178383",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     },
     {
       "title": "SOLEMNFABLE",
@@ -1401,67 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007740/fc46fa8f5eb4357c66f79787d95972887da21279/header.jpg?t=1792179662",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "Blightstone",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2832280/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2832280.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832280/6090958c7386df7863a409d7d1f1a1f2d1a460fe/header.jpg?t=1792176208",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "Beyond These Stars",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2295060/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2295060.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295060/8880f2690c52f88a55d292651250a14fecb9918a/header.jpg?t=1792173673",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "Terradune",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3454780/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3454780.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3454780/cc17941d2ed724443f1e749f6209ef20783fc689/header.jpg?t=1792173596",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "The Better Deal: Complete Story",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5200360/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5200360.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200360/d911e63e9ae42dd82b795d28fbd65ec31da69d25/header.jpg?t=1792173513",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
-    },
-    {
-      "title": "Demolition Empire",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5139990/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5139990.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139990/61bc14a24d8e04db50b92a0f473ecbfae71b40a8/header.jpg?t=1792173450",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-16T19:50:23.040Z"
+      "checkedAt": "2026-10-16T22:16:25.439Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
