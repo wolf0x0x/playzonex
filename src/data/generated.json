@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T22:33:36.239Z",
+  "checkedAt": "2026-10-19T22:48:56.042Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "blooket"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
@@ -1830,7 +1830,7 @@
     "games": []
   },
   "blooketGuides": {
-    "checkedAt": "2026-10-19T21:22:58.654Z",
+    "checkedAt": "2026-10-19T22:48:56.042Z",
     "source": "PlayZoneX editorial maintenance",
     "guides": [
       {
