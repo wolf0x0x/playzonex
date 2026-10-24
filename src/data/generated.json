@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T07:09:16.869Z",
+  "checkedAt": "2026-10-24T08:26:51.631Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1182,10 +1182,10 @@
       "url": "https://store.steampowered.com/app/4435490/",
       "list": "free",
       "image": "/assets/downloads/steam/4435490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792728107",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792806931",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1194,10 +1194,10 @@
       "url": "https://store.steampowered.com/app/4435490/",
       "list": "free",
       "image": "/assets/downloads/steam/4435490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792728107",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1792806931",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1789424191",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1789424191",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Steam Frame",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Steam Frame",
@@ -1245,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "FINAL FANTASY RESONANCE",
@@ -1257,19 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792758611",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "Cyberpunk 2077",
-      "price": "-70%",
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "price": "-60%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1091500/",
+      "url": "https://store.steampowered.com/app/32470/",
       "list": "free",
-      "image": "/assets/downloads/steam/1091500.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
+      "image": "/assets/downloads/steam/32470.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Cyberpunk 2077",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Cyberpunk 2077: Phantom Liberty",
@@ -1293,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "Enshrouded",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1203620/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1203620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "Scam With Your Friends",
@@ -1317,43 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "over the hill",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2929250/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2929250.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792666389",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "Moon Sweepers",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5335510/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/5335510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "Tape to Tape",
+      "title": "Enshrouded",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1566200/",
+      "url": "https://store.steampowered.com/app/1203620/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1566200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566200/8a10ac73d753b68c2ed09298ce98ee12a225fd3b/header_alt_assets_2.jpg?t=1792785759",
+      "image": "/assets/downloads/steam/1203620.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
       "title": "The Walking Dead: The Telltale Definitive Series",
@@ -1365,103 +1329,139 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "Future Fab Heroes",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3839200/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3839200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839200/b7c4232e7531218a42edf79681ee5f11d47e0dfa/header.jpg?t=1792803799",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "QuestAway",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5195600/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5195600.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "Good Children Say Grace",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3881920/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3881920.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3881920/c8e514565fc65b64104d7890a88f0295ba6f9ee3/header.jpg?t=1792802800",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
-    },
-    {
-      "title": "Boys in the dark",
+      "title": "over the hill",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4234400/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4234400.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234400/d9b223963429b474f85ff9be1758c5402a227600/header.jpg?t=1792800712",
+      "url": "https://store.steampowered.com/app/2929250/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2929250.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792666389",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "Slime Slasher",
-      "price": "-20%",
+      "title": "Grand Theft Auto V Enhanced",
+      "price": "-50%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3786840/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3786840.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3786840/73ac4aa16ce42b7dfe232161c9920541f4e01390/header.jpg?t=1792799305",
+      "url": "https://store.steampowered.com/app/3240220/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3240220.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "RuinBlade",
-      "price": "-10%",
+      "title": "Resident Evil Requiem",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4834110/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4834110.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834110/30a84ae41e90af3104fc85aae9a2bf31d3bdb0e1/header.jpg?t=1792798578",
+      "url": "https://store.steampowered.com/app/3764200/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3764200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "ABAX",
-      "price": "$9.99",
+      "title": "Puzzle Wild Cats",
+      "price": "-40%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5364900/",
+      "url": "https://store.steampowered.com/app/5061340/",
       "list": "new",
-      "image": "/assets/downloads/steam/5364900.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5364900/eda1661f628815464d97b3f97744cac294d43f02/header.jpg?t=1792791437",
+      "image": "/assets/downloads/steam/5061340.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061340/9c47809452ef4b93382b5196f7ab49e3cd825bf4/header.jpg?t=1792824872",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     },
     {
-      "title": "Puppetry",
+      "title": "Parry Dungeon",
+      "price": "$0.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5074080/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5074080.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074080/b3d7f8ab84b04c021eecf3170b4b35702b3938e9/header.jpg?t=1792826731",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "Realize in Peace",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4775990/",
+      "url": "https://store.steampowered.com/app/4522380/",
       "list": "new",
-      "image": "/assets/downloads/steam/4775990.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775990/d6dc00f01b4a2ac196a4dc9d584a53eb6a88b343/header.jpg?t=1792789321",
+      "image": "/assets/downloads/steam/4522380.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522380/8b8c9b86951e4c9292c83f887658a5567ff0095d/header.jpg?t=1792811413",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-24T02:11:57.045Z"
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "BRASS: Hard Contact",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5365450/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5365450.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365450/5980fdb380f6ef344bae08b8e688e797f957fac4/header.jpg?t=1792810987",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "Pikabuu: Home",
+      "price": "$1.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5372620/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5372620.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372620/341cf07bc97f26bd7abbe9e5c719d4e0903b022e/header.jpg?t=1792810948",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "Tensei Brave",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2445430/",
+      "list": "new",
+      "image": "/assets/downloads/steam/2445430.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445430/73af49db25b3df83735635072d2d08a6bee23297/header.jpg?t=1792810815",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "Penguin Kart Racer",
+      "price": "$5.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5342830/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5342830.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5342830/6b050ff94a42f9f49e80742edd62a1f3edfdae0f/header.jpg?t=1792806914",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
+    },
+    {
+      "title": "Slave Princess Elnea",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4690300/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4690300.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690300/c36cc86c07a2f95ce8f4babcf3874f9653f71f8e/header.jpg?t=1792806128",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-24T08:26:51.631Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
