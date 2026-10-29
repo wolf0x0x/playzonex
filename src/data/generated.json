@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T23:07:46.947Z",
+  "checkedAt": "2026-10-29T23:40:43.095Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Steam Frame",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Phantom Blade Zero",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793201144",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -1233,31 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Crimson Desert Enhanced: Charting the Unknown",
-      "price": "$24.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5001840/",
-      "list": "free",
-      "image": "/assets/downloads/steam/5001840.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/ed9f91c5529b5e043f58b5fa99de414c3c007772/header.jpg?t=1792637439",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "price": "$69.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4435490/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4435490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793201144",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Moon Sweepers",
@@ -1269,7 +1245,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "price": "$69.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4435490/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4435490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793201144",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Crimson Desert Enhanced: Charting the Unknown",
+      "price": "$24.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5001840/",
+      "list": "free",
+      "image": "/assets/downloads/steam/5001840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/ed9f91c5529b5e043f58b5fa99de414c3c007772/header.jpg?t=1793310929",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -1281,7 +1281,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Moon Sweepers",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5335510/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/5335510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "The Wolf Among Us Remastered",
@@ -1293,19 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Moon Sweepers",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5335510/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/5335510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Terrible Lizards",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920220/4b19bf2cbb1c1ef26cc0e898fc6e727776845b73/header.jpg?t=1793292736",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "Gothic 1 Remake",
@@ -1329,31 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1787564876",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "FreshWomen - Season 3",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4005870/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4005870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793297818",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Project Exhibitionist",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4688700/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4688700.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
       "title": "CRACK",
@@ -1365,103 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/96366dfb328b3f89db87e433394754e1939ac1d6/header_alt_assets_0.jpg?t=1793285498",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
-      "title": "Zudon",
-      "price": "$3.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4685030/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4685030.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685030/cdb38c5d81ed2088980e4916c7f920250a1420de/header.jpg?t=1793305526",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Gorgeous Baby Bella",
-      "price": "-25%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5015190/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5015190.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015190/1d066f14c398413e8b15ce7c2546aead6f88c49e/header.jpg?t=1793304937",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Not Another Garbage Simulator",
-      "price": "$12.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5372700/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5372700.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372700/da61ef483ea442d52e42ad2947d45a2ab2c1a34c/header.jpg?t=1793304096",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Nuns With Guns",
+      "title": "FreshWomen - Season 3",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4841200/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4841200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841200/cdef132a24dc756795ab4e53c16ab6aa3978be02/header.jpg?t=1793302089",
+      "url": "https://store.steampowered.com/app/4005870/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4005870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793297818",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
-      "title": "E-Files",
+      "title": "Project Exhibitionist",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5100880/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5100880.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100880/c04b292241258b813225465d145952151cdf6da9/header.jpg?t=1793301764",
+      "url": "https://store.steampowered.com/app/4688700/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4688700.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     },
     {
-      "title": "Marrowlight",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5033390/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5033390.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033390/75ebf36e6aeb696c5d9dc9c525c3de39be3aa186/header.jpg?t=1793301230",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "Greek Row, Fall Semester",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5097980/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5097980.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097980/e6262b1ac0a5a91863acd0792171f463df0c69b3/header.jpg?t=1793305486",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
-    },
-    {
-      "title": "HELENA : Cloud District",
+      "title": "My Metal Fairy",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5190580/",
+      "url": "https://store.steampowered.com/app/5331600/",
       "list": "new",
-      "image": "/assets/downloads/steam/5190580.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
+      "image": "/assets/downloads/steam/5331600.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5331600/66854013c6a240a5c097fedf284aa4fbff49985d/header.jpg?t=1793315682",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-10-29T21:41:03.170Z"
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Fiak",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4399900/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4399900.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399900/b667cd4b81a4a2c013e438c2e884f5465f0f90e9/header.jpg?t=1793315235",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Murciavania",
+      "price": "$4.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5294670/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5294670.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294670/6a833803231bf16456c761ff9fecb4a3e19919d4/header.jpg?t=1793315165",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "ARCHWIZARD",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/955010/",
+      "list": "new",
+      "image": "/assets/downloads/steam/955010.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955010/header.jpg?t=1793314953",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Chronicles Of The Sinner",
+      "price": "$4.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4760700/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4760700.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760700/2729b37ca999a13d954435f962f4a9ac5413d679/header.jpg?t=1793314908",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "VOIDCAST",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4345950/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4345950.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345950/78410cf3b1485918191c9baedb0d8204c4db26e2/header.jpg?t=1793313984",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Crosstalk",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4898790/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4898790.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898790/e80892579986c3e756cab69bac8ba2b73d0fb526/header.jpg?t=1793311963",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
+    },
+    {
+      "title": "Crimson Desert Enhanced: Charting the Unknown",
+      "price": "$24.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5001840/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5001840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001840/ed9f91c5529b5e043f58b5fa99de414c3c007772/header.jpg?t=1793310929",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-10-29T23:40:43.095Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
