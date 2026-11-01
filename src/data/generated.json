@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T08:41:01.059Z",
+  "checkedAt": "2026-11-01T10:51:13.305Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793390552",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Phantom Blade Zero",
@@ -1197,31 +1221,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
-      "title": "Steam Frame",
-      "price": "$1059.00",
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
+      "url": "https://store.steampowered.com/app/4348910/",
       "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
+      "image": "/assets/downloads/steam/4348910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Moon Sweepers",
@@ -1233,31 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4348910/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4348910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "price": "$69.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4435490/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4435490.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793390552",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Steam Deck",
@@ -1269,7 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Phasmophobia",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/739630/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/739630.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Queen's Domain",
@@ -1305,31 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "CRACK",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4312190/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4312190.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/96366dfb328b3f89db87e433394754e1939ac1d6/header_alt_assets_0.jpg?t=1793285498",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Lacey's Flash Games",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3459340/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3459340.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "Sons Of The Forest",
@@ -1341,19 +1305,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
-      "title": "R.E.P.O.",
-      "price": "-35%",
+      "title": "Resident Evil Requiem",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3241660/",
+      "url": "https://store.steampowered.com/app/3764200/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3241660.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "image": "/assets/downloads/steam/3764200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "CRACK",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4312190/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4312190.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/96366dfb328b3f89db87e433394754e1939ac1d6/header_alt_assets_0.jpg?t=1793285498",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
       "title": "The Outlast Trials",
@@ -1365,103 +1341,127 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
-      "title": "ORUNKA",
-      "price": "Free",
+      "title": "Phasmophobia",
+      "price": "-30%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5412430/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5412430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5412430/27c166198d7423fa27910065315fad108cd9a7bd/header.jpg?t=1793499685",
+      "url": "https://store.steampowered.com/app/739630/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/739630.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     },
     {
-      "title": "A Rover's Journey",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5188570/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5188570.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188570/25982c26dbb1fc52857967b74c1e00b1e62e87b5/header.jpg?t=1793499637",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "白线",
-      "price": "-21%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3814510/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3814510.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814510/5133db4a1307c0506faf20f4c6387cbfa52586bd/header.jpg?t=1793498354",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Domain-Controller",
-      "price": "$3.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5437880/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5437880.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437880/6c66c3a8be84adb34da286a2f1d23bc96c0d1d80/header.jpg?t=1793488343",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "SICRUN",
-      "price": "-25%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4512150/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4512150.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512150/45f2c232ba6b1d8f1f1d73ab9937bbe19b597b43/header.jpg?t=1793485177",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Lacey's Flash Games",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3459340/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3459340.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Case Analyst",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4819580/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4819580.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819580/d1cdbb85b60f67724d4812f0e6f6ecdce51af7dd/header.jpg?t=1793480979",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
-    },
-    {
-      "title": "Sort Sort Yokai",
+      "title": "Project Exhibitionist",
       "price": "-10%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5417330/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5417330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417330/789bc170c154e56f33dbcb15a47c13b1b5938bdb/header.jpg?t=1793480785",
+      "url": "https://store.steampowered.com/app/4688700/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4688700.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T02:51:03.441Z"
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Undertaker",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3808500/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3808500.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808500/b35656a9b06647d6a9885043074a72d49f0d4036/header.jpg?t=1793527412",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Anubis Temple: La Perla de Egipto",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5370520/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5370520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370520/8cb0fcd4762178778386b4c1304db8f476585148/header.jpg?t=1793527098",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "TDM : Task Drill Maniac",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4980490/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4980490.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980490/879010c92c9d45869e7fb68c64ed56d5a0e9bb5e/header.jpg?t=1793525839",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "離島旅程",
+      "price": "$3.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5427930/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5427930.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427930/64311cc0aad0586d7c6ac78b5cd43e6dbe7b7533/header.jpg?t=1793522582",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Duck Casino: Gambling Simulator",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/824530/",
+      "list": "new",
+      "image": "/assets/downloads/steam/824530.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824530/815d4976f85efd5c9a8b5cfd77eadc13fbb3aa26/header.jpg?t=1793520713",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Myriad Auction",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5282040/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5282040.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282040/966ffdc2513ef8b203f6b9d0be0b538c5586c37d/header.jpg?t=1793518726",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "BANDA SHAFT DUEL",
+      "price": "$3.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5406040/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5406040.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5406040/6146ef8b21da4546d3fa77c480975a015c99f3e8/header.jpg?t=1793518488",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
+    },
+    {
+      "title": "Slime Splitter",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5409790/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5409790.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409790/48b8500e1f8d0d52d6aaac1db22c45233f5fda93/header.jpg?t=1793515912",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-01T10:51:13.305Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
