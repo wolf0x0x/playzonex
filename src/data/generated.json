@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T02:40:17.987Z",
+  "checkedAt": "2026-11-02T02:57:52.621Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793390552",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Steam Frame",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Steam Frame",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1789408623",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Phantom Blade Zero",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Moon Sweepers",
@@ -1233,7 +1233,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4348910/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4348910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1245,31 +1257,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793390552",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "price": "-10%",
+      "title": "Steam Machine",
+      "price": "$1049.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4348910/",
+      "url": "https://store.steampowered.com/app/4165910/",
       "list": "free",
-      "image": "/assets/downloads/steam/4348910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1789424191",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -1281,55 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "Sons Of The Forest",
-      "price": "-72%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1326470/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1326470.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "Queen's Domain",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1799840/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/1799840.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "CRACK",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4312190/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4312190.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/96366dfb328b3f89db87e433394754e1939ac1d6/header_alt_assets_0.jpg?t=1793567520",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "Resident Evil Requiem",
-      "price": "-30%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3764200/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3764200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced",
@@ -1341,7 +1293,67 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "Sons Of The Forest",
+      "price": "-72%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1326470/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1326470.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "Queen's Domain",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1799840/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/1799840.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "CRACK",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4312190/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4312190.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/96366dfb328b3f89db87e433394754e1939ac1d6/header_alt_assets_0.jpg?t=1793567520",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "price": "-25%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3751950/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3751950.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "price": "-30%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3764200/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3764200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Can 'Em All",
@@ -1353,19 +1365,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133900/19aa14ebe3720e02f7f8c720abbf9749cf36967f/header.jpg?t=1793384095",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
-    },
-    {
-      "title": "PEAK",
-      "price": "-38%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3527290/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3527290.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Studs Up!",
@@ -1374,10 +1374,10 @@
       "url": "https://store.steampowered.com/app/4923370/",
       "list": "new",
       "image": "/assets/downloads/steam/4923370.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923370/d3371429d22e43a21a3b40b90e5a37e47c69f00f/header.jpg?t=1793570506",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923370/d3371429d22e43a21a3b40b90e5a37e47c69f00f/header.jpg?t=1793586671",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "JETGRAVE",
@@ -1389,7 +1389,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115790/582e2b748cf6e0f3e5a2bc656706362a09cc06ce/header.jpg?t=1793568165",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Relictor",
@@ -1401,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323460/850706f7189c7fb1d0eacd480a89a50e95e31791/header.jpg?t=1793559769",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Wildfire Command '98",
@@ -1413,7 +1413,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284390/8a6d584eff51febf62ac5010e92837258c95e5cb/header.jpg?t=1793559763",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Wheel Make It",
@@ -1425,7 +1425,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213320/f91565e24e6c39b9d76ee4cbeb4f5d5661820c0c/header.jpg?t=1793565624",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Kill The Frog",
@@ -1437,7 +1437,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950720/997482c7efe61e07ba120895982ea2c2a20ab790/header.jpg?t=1793559597",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Kando Realm",
@@ -1449,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017040/ae87b2c3be8b949bb27581b0e0d4b9ab5fbf6f54/header.jpg?t=1793559589",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     },
     {
       "title": "Run, Ronald, Run",
@@ -1461,7 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530170/a706ecf13b7f9993b53aba557f23dc8d46cce290/header.jpg?t=1793556496",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-01T23:10:48.225Z"
+      "checkedAt": "2026-11-02T02:57:52.621Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
