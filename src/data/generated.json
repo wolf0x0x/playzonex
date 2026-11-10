@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T21:50:24.954Z",
+  "checkedAt": "2026-11-10T22:13:25.486Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -9,7 +9,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "subway-surfers": {
       "officialUrl": "https://poki.com/en/g/subway-surfers",
@@ -19,7 +19,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "temple-run-2": {
       "officialUrl": "https://poki.com/en/g/temple-run-2",
@@ -29,17 +29,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "vex-7": {
       "officialUrl": "https://www.crazygames.com/t/stick",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/vex-7.avif",
-      "remoteImage": "https://imgs.crazygames.com/ragdoll-archers_16x9/20250926080758/ragdoll-archers_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/ragdoll-archers_16x9/20250926080758/ragdoll-archers_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "stickman-hook": {
       "officialUrl": "https://poki.com/en/g/stickman-hook",
@@ -49,7 +49,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "stick-merge": {
       "officialUrl": "https://poki.com/en/g/stick-merge",
@@ -59,27 +59,27 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "ovo": {
       "officialUrl": "https://www.crazygames.com/game/ovo",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/ovo.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/ovo/cover-1605160387375.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/ovo/cover-1605160387375.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "fireboy-and-watergirl": {
       "officialUrl": "https://www.crazygames.com/game/fireboy-and-watergirl-the-forest-temple",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/fireboy-and-watergirl.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/fireboy-and-watergirl-the-forest-temple/cover-1586285142530.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/fireboy-and-watergirl-the-forest-temple/cover-1586285142530.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "friday-night-funkin": {
       "officialUrl": "https://www.crazygames.com/game/friday-night-funkin",
@@ -89,27 +89,27 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bad-ice-cream": {
       "officialUrl": "https://www.crazygames.com/t/casual",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/bad-ice-cream.avif",
-      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "super-mario-flash": {
       "officialUrl": "https://www.crazygames.com/t/mario",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/super-mario-flash.avif",
-      "remoteImage": "https://imgs.crazygames.com/boss-stickman---fighting-stick-it_16x9/20261002105006/boss-stickman---fighting-stick-it_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/boss-stickman---fighting-stick-it_16x9/20261002105006/boss-stickman---fighting-stick-it_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "dino-game": {
       "officialUrl": "https://www.crazygames.com/game/dino-game",
@@ -119,17 +119,17 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "ninja-hands": {
       "officialUrl": "https://www.crazygames.com/game/ninja-hands",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/ninja-hands.avif",
-      "remoteImage": "https://imgs.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "wordle": {
       "officialUrl": "https://www.nytimes.com/games/wordle/index.html",
@@ -139,7 +139,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "tetris": {
       "officialUrl": "https://poki.com/en/arcade",
@@ -149,67 +149,67 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "cut-the-rope": {
       "officialUrl": "https://www.crazygames.com/game/cut-the-rope-ebx",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/cut-the-rope.avif",
-      "remoteImage": "https://imgs.crazygames.com/cut-the-rope-ebx_16x9/20240530085010/cut-the-rope-ebx_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/cut-the-rope-ebx_16x9/20240530085010/cut-the-rope-ebx_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "little-alchemy-2": {
       "officialUrl": "https://www.crazygames.com/game/little-alchemy-2",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/little-alchemy-2.avif",
-      "remoteImage": "https://imgs.crazygames.com/little-alchemy-2/20230130142219/little-alchemy-2-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/little-alchemy-2/20230130142219/little-alchemy-2-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "sudoku": {
       "officialUrl": "https://www.crazygames.com/c/puzzle",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/sudoku.avif",
-      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "nonogram": {
       "officialUrl": "https://www.crazygames.com/game/nonogram",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/nonogram.png",
-      "remoteImage": "https://imgs.crazygames.com/games/nonogram/cover-1635351946352.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/nonogram.avif",
+      "remoteImage": "https://imgs.crazygames.com/games/nonogram/cover-1635351946352.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "mahjong-connect": {
       "officialUrl": "https://www.crazygames.com/t/mahjong",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/mahjong-connect.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "minesweeper": {
       "officialUrl": "https://www.crazygames.com/t/logic",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/minesweeper.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/mahjongg-solitaire/cover_16x9-1707829450935.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "unblock-me": {
       "officialUrl": "https://www.crazygames.com/game/unblock-me",
@@ -219,7 +219,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "water-sort": {
       "officialUrl": "https://www.crazygames.com/game/water-sort",
@@ -229,17 +229,17 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "hexa-sort": {
       "officialUrl": "https://www.crazygames.com/game/hexa-sort",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/hexa-sort.avif",
-      "remoteImage": "https://imgs.crazygames.com/hexa-sort_16x9/20250219102231/hexa-sort_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/hexa-sort_16x9/20250219102231/hexa-sort_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "moto-x3m": {
       "officialUrl": "https://poki.com/en/g/moto-x3m",
@@ -249,17 +249,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "drift-hunters": {
       "officialUrl": "https://www.crazygames.com/game/drift-hunters",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/drift-hunters.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/drift-hunters/cover-1656950639575.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/drift-hunters/cover-1656950639575.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "drive-mad": {
       "officialUrl": "https://poki.com/en/g/drive-mad",
@@ -269,67 +269,67 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "madalin-stunt-cars-2": {
       "officialUrl": "https://www.crazygames.com/game/madalin-stunt-cars-2",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/madalin-stunt-cars-2.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/madalin-stunt-cars-2/cover_16x9-1695113654654.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/madalin-stunt-cars-2/cover_16x9-1695113654654.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "highway-racer": {
       "officialUrl": "https://www.crazygames.com/game/highway-racer",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/highway-racer.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/highway-racer/cover-1655194175251.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/highway-racer/cover-1655194175251.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "hill-climb-racing": {
       "officialUrl": "https://www.crazygames.com/t/car",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/hill-climb-racing.avif",
-      "remoteImage": "https://imgs.crazygames.com/airplane-flight-pilot-simulator_16x9/20260929062817/airplane-flight-pilot-simulator_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/airplane-flight-pilot-simulator_16x9/20260929062817/airplane-flight-pilot-simulator_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "burnout-drift": {
       "officialUrl": "https://www.crazygames.com/game/burnout-drift",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/burnout-drift.avif",
-      "remoteImage": "https://imgs.crazygames.com/burnoutdrift.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/burnoutdrift.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "super-bike-the-champion": {
       "officialUrl": "https://www.crazygames.com/game/super-bike-the-champion",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/super-bike-the-champion.avif",
-      "remoteImage": "https://imgs.crazygames.com/super-bike-the-champion_16x9/20260220044443/super-bike-the-champion_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/super-bike-the-champion_16x9/20260220044443/super-bike-the-champion_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "soccar": {
       "officialUrl": "https://www.crazygames.com/game/soccar",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/soccar.avif",
-      "remoteImage": "https://imgs.crazygames.com/soccar.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/soccar.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "parking-fury": {
       "officialUrl": "https://poki.com/",
@@ -339,7 +339,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "city-car-driving": {
       "officialUrl": "https://www.crazygames.com/game/city-car-driving",
@@ -349,17 +349,17 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "monster-truck-destroyer": {
       "officialUrl": "https://www.crazygames.com/t/monster-truck",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/monster-truck-destroyer.avif",
-      "remoteImage": "https://imgs.crazygames.com/deadly-descent-bzs_16x9/20250818071829/deadly-descent-bzs_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/deadly-descent-bzs_16x9/20250818071829/deadly-descent-bzs_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "shell-shockers": {
       "officialUrl": "https://shellshock.io/",
@@ -369,7 +369,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "krunker": {
       "officialUrl": "https://krunker.io/",
@@ -379,7 +379,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "venge-io": {
       "officialUrl": "https://poki.com/en/g/venge-io",
@@ -389,7 +389,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "1v1-lol": {
       "officialUrl": "https://poki.com/en/shooting",
@@ -399,7 +399,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bullet-force": {
       "officialUrl": "https://www.crazygames.com/game/bullet-force",
@@ -409,17 +409,17 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "forward-assault": {
       "officialUrl": "https://www.crazygames.com/game/forward-assault",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/forward-assault.avif",
-      "remoteImage": "https://imgs.crazygames.com/forward-assault_16x9/20261008232135/forward-assault_16x9-cover.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/forward-assault_16x9/20261008232135/forward-assault_16x9-cover.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "zombs-royale": {
       "officialUrl": "https://www.crazygames.com/game/zombs-royale",
@@ -429,17 +429,17 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "time-shooter-2": {
       "officialUrl": "https://www.crazygames.com/game/time-shooter-2",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/time-shooter-2.avif",
-      "remoteImage": "https://imgs.crazygames.com/time-shooter-2_16x9/20241113040556/time-shooter-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/time-shooter-2_16x9/20241113040556/time-shooter-2_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "funny-shooter-2": {
       "officialUrl": "https://poki.com/en/g/funny-shooter-2",
@@ -449,7 +449,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "rooftop-snipers": {
       "officialUrl": "https://poki.com/en/g/rooftop-snipers",
@@ -459,17 +459,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "zombie-mission": {
       "officialUrl": "https://www.crazygames.com/t/zombie",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/zombie-mission.avif",
-      "remoteImage": "https://imgs.crazygames.com/idle-zombie-wave_16x9/20260508072223/idle-zombie-wave_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/idle-zombie-wave_16x9/20261110050553/idle-zombie-wave_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "war-brokers": {
       "officialUrl": "https://www.crazygames.com/game/war-brokers",
@@ -479,7 +479,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "basketball-stars": {
       "officialUrl": "https://poki.com/en/g/basketball-stars",
@@ -489,17 +489,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "basket-random": {
       "officialUrl": "https://www.crazygames.com/game/basket-random",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/basket-random.png",
-      "remoteImage": "https://imgs.crazygames.com/basket-random_16x9/20240617090207/basket-random_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/basket-random.avif",
+      "remoteImage": "https://imgs.crazygames.com/basket-random_16x9/20240617090207/basket-random_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "football-legends": {
       "officialUrl": "https://poki.com/en/g/football-legends",
@@ -509,7 +509,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "soccer-skills-euro-cup": {
       "officialUrl": "https://poki.com/en/g/soccer-skills-euro-cup",
@@ -519,7 +519,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "retro-bowl": {
       "officialUrl": "https://poki.com/en/g/retro-bowl",
@@ -529,17 +529,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "8-ball-pool": {
       "officialUrl": "https://www.crazygames.com/t/pool",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/8-ball-pool.avif",
-      "remoteImage": "https://imgs.crazygames.com/8-ball-pool-billiards-multiplayer_16x9/20260722044342/8-ball-pool-billiards-multiplayer_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/8-ball-pool-billiards-multiplayer_16x9/20260722044342/8-ball-pool-billiards-multiplayer_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "penalty-shooters-2": {
       "officialUrl": "https://poki.com/en/g/penalty-shooters-2",
@@ -549,87 +549,87 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "boxing-random": {
       "officialUrl": "https://www.crazygames.com/game/boxing-random",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/boxing-random.avif",
-      "remoteImage": "https://imgs.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/games/boxing-random/cover-1622139160089.jpeg?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "skate-hooligans": {
       "officialUrl": "https://www.crazygames.com/t/casual",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/skate-hooligans.avif",
-      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "table-tennis-world-tour": {
       "officialUrl": "https://www.crazygames.com/game/table-tennis-world-tour",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/table-tennis-world-tour.png",
-      "remoteImage": "https://imgs.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/table-tennis-world-tour.avif",
+      "remoteImage": "https://imgs.crazygames.com/table-tennis-world-tour_16x9/20230908041108/table-tennis-world-tour_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "golf-orbit": {
       "officialUrl": "https://www.crazygames.com/game/golf-orbit",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/golf-orbit.avif",
-      "remoteImage": "https://imgs.crazygames.com/golf-orbit_16x9/20240620070701/golf-orbit_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/golf-orbit_16x9/20240620070701/golf-orbit_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "snow-rider-3d": {
       "officialUrl": "https://www.crazygames.com/game/snow-rider-3d",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/snow-rider-3d.avif",
-      "remoteImage": "https://imgs.crazygames.com/snow-rider-3d_16x9/20260120063434/snow-rider-3d_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/snow-rider-3d_16x9/20260120063434/snow-rider-3d_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bloons-tower-defense": {
       "officialUrl": "https://www.crazygames.com/game/bloons-tower-defense",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/bloons-tower-defense.jpg",
-      "remoteImage": "https://imgs.crazygames.com/games/bloons-tower-defense/cover-1616498907107.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/bloons-tower-defense.avif",
+      "remoteImage": "https://imgs.crazygames.com/games/bloons-tower-defense/cover-1616498907107.jpg?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "kingdom-rush": {
       "officialUrl": "https://www.crazygames.com/game/kingdom-rush",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/kingdom-rush.png",
-      "remoteImage": "https://imgs.crazygames.com/games/kingdom-rush/cover-1687954641924.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/kingdom-rush.avif",
+      "remoteImage": "https://imgs.crazygames.com/games/kingdom-rush/cover-1687954641924.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "plants-vs-zombies": {
       "officialUrl": "https://www.crazygames.com/c/action",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/plants-vs-zombies.avif",
-      "remoteImage": "https://imgs.crazygames.com/dear-travellers---airline-chaos_16x9/20260910025106/dear-travellers---airline-chaos_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/dear-travellers---airline-chaos_16x9/20260910025106/dear-travellers---airline-chaos_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "chess-online": {
       "officialUrl": "https://www.crazygames.com/game/chess-online",
@@ -639,7 +639,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "checkers": {
       "officialUrl": "https://poki.com/en/board",
@@ -649,7 +649,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "risky-wars": {
       "officialUrl": "https://www.crazygames.com/game/risky-wars",
@@ -659,27 +659,27 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "mini-metro": {
       "officialUrl": "https://www.crazygames.com/t/train",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/mini-metro.avif",
-      "remoteImage": "https://imgs.crazygames.com/train-miner_16x9/20260604084231/train-miner_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/train-miner_16x9/20260604084231/train-miner_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "idle-miner": {
       "officialUrl": "https://www.crazygames.com/game/idle-miner",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/idle-miner.png",
-      "remoteImage": "https://imgs.crazygames.com/idle-miner/20211023070302/idle-miner-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/idle-miner.avif",
+      "remoteImage": "https://imgs.crazygames.com/idle-miner/20211023070302/idle-miner-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bitlife": {
       "officialUrl": "https://www.crazygames.com/game/bitlife",
@@ -689,27 +689,27 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "paper-minecraft": {
       "officialUrl": "https://www.crazygames.com/game/paper-minecraft",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/paper-minecraft.png",
-      "remoteImage": "https://imgs.crazygames.com/games/paper-minecraft/cover-1655211126030.png?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/paper-minecraft.avif",
+      "remoteImage": "https://imgs.crazygames.com/games/paper-minecraft/cover-1655211126030.png?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "forge-of-empires": {
       "officialUrl": "https://www.crazygames.com/c/adventure",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/forge-of-empires.avif",
-      "remoteImage": "https://imgs.crazygames.com/all-out-nju_16x9/20261026044430/all-out-nju_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/all-out-nju_16x9/20261026044430/all-out-nju_16x9-cover.png?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "merge-round-racers": {
       "officialUrl": "https://poki.com/en/g/merge-round-racers",
@@ -719,7 +719,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "skribbl-io": {
       "officialUrl": "https://skribbl.io/",
@@ -729,7 +729,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "gartic-phone": {
       "officialUrl": "https://www.crazygames.com/game/gartic-phone",
@@ -739,7 +739,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "among-us-online": {
       "officialUrl": "https://www.crazygames.com/game/among-us-online",
@@ -749,7 +749,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bonk-io": {
       "officialUrl": "https://poki.com/",
@@ -759,7 +759,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "getaway-shootout": {
       "officialUrl": "https://poki.com/en/g/getaway-shootout",
@@ -769,7 +769,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "duo-survival": {
       "officialUrl": "https://poki.com/en/g/duo-survival",
@@ -779,17 +779,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "basketbros": {
       "officialUrl": "https://www.crazygames.com/game/basketbros",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/basketbros.avif",
-      "remoteImage": "https://imgs.crazygames.com/basketbros_16x9/20251107022434/basketbros_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/basketbros_16x9/20251107022434/basketbros_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "house-of-hazards": {
       "officialUrl": "https://poki.com/en/g/house-of-hazards",
@@ -799,7 +799,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "minibattles": {
       "officialUrl": "https://poki.com/en/g/minibattles",
@@ -809,7 +809,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "stickman-party": {
       "officialUrl": "https://www.crazygames.com/game/stickman-party",
@@ -819,7 +819,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "bomb-it": {
       "officialUrl": "https://poki.com/",
@@ -829,7 +829,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "ludo-king": {
       "officialUrl": "https://poki.com/en/g/ludo-king",
@@ -839,7 +839,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "agar-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -849,7 +849,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "slither-io": {
       "officialUrl": "https://poki.com/en/skill",
@@ -859,7 +859,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "diep-io": {
       "officialUrl": "https://poki.com/en/multiplayer",
@@ -869,7 +869,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "paper-io-2": {
       "officialUrl": "https://poki.com/en/io",
@@ -879,17 +879,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "hole-io": {
       "officialUrl": "https://www.crazygames.com/game/holey-io-battle-royale",
       "linkStatus": "verified",
-      "image": "/assets/downloads/game-covers/hole-io.png",
-      "remoteImage": "https://imgs.crazygames.com/holey-io-battle-royale_16x9/20260220104426/holey-io-battle-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+      "image": "/assets/downloads/game-covers/hole-io.avif",
+      "remoteImage": "https://imgs.crazygames.com/holey-io-battle-royale_16x9/20260220104426/holey-io-battle-royale_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "wormszone-io": {
       "officialUrl": "https://www.crazygames.com/game/wormszone-io",
@@ -899,7 +899,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "mope-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -909,7 +909,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "surviv-io": {
       "officialUrl": "https://www.crazygames.com/game/surviv-io",
@@ -919,7 +919,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "starve-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -929,7 +929,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "zombs-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -939,7 +939,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "deeeep-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -949,7 +949,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "brutal-io": {
       "officialUrl": "https://poki.com/en/io",
@@ -959,7 +959,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "blooket": {
       "officialUrl": "https://www.crazygames.com/game/blooket",
@@ -969,7 +969,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "kahoot": {
       "officialUrl": "https://www.crazygames.com/game/kahoot",
@@ -979,7 +979,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "gimkit": {
       "officialUrl": "https://www.crazygames.com/game/gimkit",
@@ -989,7 +989,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "geoguessr": {
       "officialUrl": "https://www.geoguessr.com/",
@@ -999,17 +999,17 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "quick-draw": {
       "officialUrl": "https://www.crazygames.com/t/casual",
       "linkStatus": "verified",
       "image": "/assets/downloads/game-covers/quick-draw.avif",
-      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop",
+      "remoteImage": "https://imgs.crazygames.com/piece-of-cake-merge-and-bake_16x9/20260812042932/piece-of-cake-merge-and-bake_16x9-cover?metadata=none&width=1200&height=630&fit=crop&resizer=covers",
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "codecombat": {
       "officialUrl": "https://www.crazygames.com/game/codecombat",
@@ -1019,7 +1019,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "prodigy-math": {
       "officialUrl": "https://www.crazygames.com/game/prodigy-math",
@@ -1029,7 +1029,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "typing-club": {
       "officialUrl": "https://www.crazygames.com/game/typing-club",
@@ -1039,7 +1039,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "coolmath-run-3": {
       "officialUrl": "https://www.crazygames.com/game/coolmath-run-3",
@@ -1049,7 +1049,7 @@
       "imageSource": "generated-svg-fallback",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "papa-s-freezeria": {
       "officialUrl": "https://poki.com/en/g/papas-freezeria",
@@ -1059,7 +1059,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "world-s-hardest-game": {
       "officialUrl": "https://poki.com/en/adventure",
@@ -1069,7 +1069,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     "duck-life": {
       "officialUrl": "https://poki.com/en/g/duck-life",
@@ -1079,7 +1079,7 @@
       "imageSource": "downloaded-og-image",
       "rating": null,
       "plays": "Not tracked",
-      "checkedAt": "2026-11-10T02:18:02.932Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     }
   },
   "servers": [
@@ -1087,46 +1087,46 @@
       "name": "Hypixel",
       "address": "mc.hypixel.net",
       "version": "Requires MC 1.8 / 1.21",
-      "players": "23,603 / 200,000",
-      "status": "active",
+      "players": "Unavailable",
+      "status": "expired",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Complex Gaming",
       "address": "hub.mc-complex.com",
       "version": "1.7.2-26.3",
-      "players": "1,585 / 3,000",
+      "players": "1,611 / 3,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Purple Prison",
       "address": "purpleprison.net",
       "version": "1.7.x, 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x, 1.20.x, 1.21.x",
-      "players": "378 / 1,000",
+      "players": "444 / 1,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "OPBlocks",
       "address": "hub.opblocks.com",
       "version": "1.7.2-26.3",
-      "players": "4,075 / 4,500",
+      "players": "3,782 / 4,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "MineSuperior",
       "address": "hub.mcs.gg",
       "version": "1.7.2-26.3",
-      "players": "263 / 2,500",
+      "players": "255 / 2,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "TheArchon",
@@ -1135,16 +1135,16 @@
       "players": "Unavailable",
       "status": "expired",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "ManaCube",
       "address": "play.manacube.com",
       "version": "1.7.2-26.3",
-      "players": "1,328 / 3,500",
+      "players": "1,293 / 3,500",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Pixelmon Realms",
@@ -1153,25 +1153,25 @@
       "players": "0 / 0",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "CubeCraft",
       "address": "play.cubecraft.net",
       "version": "We support: 1.20-1.21",
-      "players": "1,176 / 5,000",
+      "players": "937 / 5,000",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Mineplex",
       "address": "us.mineplex.com",
       "version": "1.8.9 / 1.21.11 / 26",
-      "players": "82 / 83",
+      "players": "208 / 209",
       "status": "active",
       "source": "mcsrvstat.us",
-      "checkedAt": "2026-11-10T18:04:31.178Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     }
   ],
   "steamDeals": [
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Steam Frame",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794339680",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Warhammer Survivors",
@@ -1221,7 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794319205",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Steam Deck",
@@ -1233,7 +1233,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Steam Deck",
@@ -1245,7 +1245,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Steam Controller",
@@ -1257,7 +1257,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1791403210",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Vampire Survivors + Warhammer Survivors",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/92137/fney5uuik5c3sxug/503eef19a6ced236fba705b5b797a6ccfc1c533d/header_ratio.jpg?t=1792750284",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Warhammer Survivors",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794319205",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "DREADMOOR",
@@ -1293,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Casualties: Unknown",
@@ -1305,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Mortal Shell II",
@@ -1317,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Booster Pack Heroes",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -1341,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1794162078",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Never Sort By Color",
@@ -1353,7 +1353,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/482c3c99b58518d1dce87ebc9da82597aa8afd7b/header.jpg?t=1794327933",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Annihilated",
@@ -1365,7 +1365,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg?t=1794308502",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
+    },
+    {
+      "title": "Gridiron Grit",
+      "price": "$24.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4887480/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4887480.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887480/ada1dd2964db6390a026072448b10add4a6ae835/header.jpg?t=1794344976",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-10T22:13:25.486Z"
+    },
+    {
+      "title": "Latin Simulator",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/999570/",
+      "list": "new",
+      "image": "/assets/downloads/steam/999570.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999570/fa60dd7d8a58b3550087b59107039a5ba1c38642/header.jpg?t=1794344578",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Meowstone Siege",
@@ -1377,7 +1401,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440370/6b4c99ae1c58c7c0ca17dfd5617a55672eb9a4ee/header.jpg?t=1794341520",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Topsmith: Spinning Top Shop Simulator",
@@ -1389,7 +1413,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5444950/14f9b89fb42bac9ba5c7680530bcf19991715ffa/header.jpg?t=1794341135",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
+    },
+    {
+      "title": "DAWN AEROWAR Original Soundtrack",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5326270/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5326270.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5326270/db3414137e60a70d25c2bd85061a4e245808b3db/header.jpg?t=1794340877",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-10T22:13:25.486Z"
+    },
+    {
+      "title": "FailRooms",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5217440/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5217440.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217440/0272cdd4b1d758ceb9a81814ae80413a0a5f1498/header.jpg?t=1794343759",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "DAWN AEROWAR",
@@ -1401,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991650/69bf1c7377f04b17657107e4db18d386d4deda98/header.jpg?t=1794340848",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "title": "Netfall",
@@ -1413,55 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623860/c639ff4a62818b8191ced42eb0f0f985e182641c/header.jpg?t=1794340820",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
-    },
-    {
-      "title": "9999",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4140210/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4140210.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140210/668c3cbb73777b6aab94aed0af8fa225507103bd/header.jpg?t=1794340777",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
-    },
-    {
-      "title": "Path Defenders: RPG Siege Defense",
-      "price": "$14.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4819620/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4819620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819620/09a0812343d2b31c72576e8282dc431bea44b7cb/header.jpg?t=1794339997",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
-    },
-    {
-      "title": "Soleil & Suspense",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5173530/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5173530.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173530/3fd92c7f7ddfe017efca635abd406aaa742f4eff/header.jpg?t=1794339671",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
-    },
-    {
-      "title": "The Ghost and The Phoenix",
-      "price": "-29%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2195710/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2195710.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195710/header.jpg?t=1794339603",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-10T21:30:26.916Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     }
   ],
   "robloxTrending": [
@@ -1470,367 +1470,374 @@
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Brookhaven RP",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Adopt Me!",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Dress To Impress",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Blade Ball",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Pet Simulator 99",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Anime Vanguards",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Toilet Tower Defense",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Murder Mystery 2",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Jujutsu Infinite",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Tower of Hell",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Arsenal",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Doors",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "BedWars",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Piggy",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Evade",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Royale High",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Build A Boat For Treasure",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Bee Swarm Simulator",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "The Strongest Battlegrounds",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Anime Defenders",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Fisch",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Grow a Garden",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Sol's RNG",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Meme Sea",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "King Legacy",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Shindo Life",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Pls Donate",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Combat Warriors",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Car Crushers 2",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Theme Park Tycoon 2",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Natural Disaster Survival",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Restaurant Tycoon 2",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Livetopia",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Welcome to Bloxburg",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Jailbreak",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "MeepCity",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Driving Empire",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Creatures of Sonaria",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Untitled Boxing Game",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "A Dusty Trip",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "SpongeBob Tower Defense",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Anime Last Stand",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Fruit Battlegrounds",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Da Hood",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Arm Wrestle Simulator",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Dungeon Quest",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Ninja Legends",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Mega Mansion Tycoon",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     },
     {
       "name": "Type Soul",
       "players": "Not tracked",
       "trend": "watchlist",
       "source": "No public unauthenticated API configured",
-      "checkedAt": "2026-11-10T21:50:24.954Z"
+      "checkedAt": "2026-11-10T22:13:25.486Z"
     }
   ],
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "roblox"
+    "steam",
+    "minecraft",
+    "roblox",
+    "wordle",
+    "rawg",
+    "blooket",
+    "games",
+    "gear"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
   "wordleNote": "Daily answer is not republished unless a verified licensed source is configured.",
   "rawgMetadata": {
-    "checkedAt": "2026-11-10T02:18:02.932Z",
+    "checkedAt": "2026-11-10T22:13:25.486Z",
     "source": "RAWG API key not configured",
     "games": []
   },
   "blooketGuides": {
-    "checkedAt": "2026-11-10T01:53:55.020Z",
+    "checkedAt": "2026-11-10T22:13:25.486Z",
     "source": "PlayZoneX editorial maintenance",
     "guides": [
       {
