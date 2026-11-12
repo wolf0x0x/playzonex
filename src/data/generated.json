@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T00:55:58.035Z",
+  "checkedAt": "2026-11-12T01:42:53.265Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,30 +1176,6 @@
   ],
   "steamDeals": [
     {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
       "title": "Call of Duty®: Modern Warfare® 4",
       "price": "$69.99",
       "rating": "Steam listing",
@@ -1209,43 +1185,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794339680",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
-      "title": "Steam Deck",
-      "price": "$399.00",
+      "title": "Steam Frame",
+      "price": "$1059.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
+      "url": "https://store.steampowered.com/app/4165890/",
       "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
-      "title": "Steam Deck",
-      "price": "$399.00",
+      "title": "Steam Frame",
+      "price": "$1059.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
+      "url": "https://store.steampowered.com/app/4165890/",
       "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Steam Controller",
-      "price": "$99.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165870/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1791403210",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Bodycam",
@@ -1257,7 +1221,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/36264077393918f3945447eed3d6374cdf21e69a/header.jpg?t=1794250615",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Steam Controller",
+      "price": "$99.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165870/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1791403210",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Warhammer Survivors",
@@ -1269,7 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794409627",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "The Elder Scrolls V: Skyrim Special Edition",
@@ -1281,19 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Diablo II: Resurrected – Infernal Edition",
-      "price": "-35%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2536520/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2536520.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Warhammer Survivors",
@@ -1305,7 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794409627",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Casualties: Unknown",
@@ -1317,19 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
-      "title": "DREADMOOR",
-      "price": "-10%",
+      "title": "Diablo II: Resurrected – Infernal Edition",
+      "price": "-35%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3629430/",
+      "url": "https://store.steampowered.com/app/2536520/",
       "list": "deals",
-      "image": "/assets/downloads/steam/3629430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
+      "image": "/assets/downloads/steam/2536520.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Mortal Shell II",
@@ -1341,7 +1329,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "DREADMOOR",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3629430/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3629430.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Booster Pack Heroes",
@@ -1353,19 +1353,91 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
-      "title": "Sea Power : Naval Combat in the Missile Age",
-      "price": "-20%",
+      "title": "PEAK",
+      "price": "-38%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1286220/",
+      "url": "https://store.steampowered.com/app/3527290/",
       "list": "deals",
-      "image": "/assets/downloads/steam/1286220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286220/9784cdd9ced4fe83e38234aabd6f92aa3813af0e/header_alt_assets_2.jpg?t=1794420145",
+      "image": "/assets/downloads/steam/3527290.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Princessfall",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3700360/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3700360.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700360/b0ec41cce4e9c6513fd972916ac31f0e05d42de3/header.jpg?t=1794445205",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Chaos Table",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5294070/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5294070.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294070/1906b09ddcaab464ba96108a081f47640c4909e1/header.jpg?t=1794443883",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Hillbilly Yacht Club: Fishing",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5450430/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5450430.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450430/543c2cbaf73c3812e636a705fca2799de664e9bf/header.jpg?t=1794440387",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Pull My Finger",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5192820/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5192820.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5192820/8a690ebee16f1daad902bd0f73e88fad2de31258/header.jpg?t=1794439966",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Path of Exile 2 - Archon of Ash Supporter Pack",
+      "price": "$99.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5443610/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5443610.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443610/7890d30f1535f559a651fb3786abf12218c9105a/header.jpg?t=1794433713",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
+    },
+    {
+      "title": "Path of Exile 2 - Archon of Rebirth Supporter Pack",
+      "price": "$59.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5443620/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5443620.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443620/2d08ff6f5226cd647d8008d99c6eac43df9a1c5a/header.jpg?t=1794433702",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Football B-side",
@@ -1377,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5461500/cd0dc8c54827a03dcdffb4b532857d9cdf5f0969/header.jpg?t=1794432316",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     },
     {
       "title": "Beaver Creek",
@@ -1389,79 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759000/8d6cb1e997d43b26bb535f4f6c69aef326719639/header.jpg?t=1794431850",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "GLYPHTRIP",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5305400/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5305400.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305400/a07f6e01e7bcacc067d4a17276fd430b21880a1b/header.jpg?t=1794431337",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Teddy Store: Tidy Up",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5191040/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5191040.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191040/396b7c964a3273faf7d548a40f2305bf278729ba/header.jpg?t=1794431269",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Match In Peace",
-      "price": "-25%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3159350/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3159350.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159350/6b5dc5416d5d9f42b9ea898e66ffce4b463987be/header.jpg?t=1794431000",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Monkey Overdrive",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5304170/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5304170.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5304170/3da1c570a14ae2a5847c40ebf40966fe22448ffb/header_alt_assets_0.jpg?t=1794429494",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "FIRE CHESS",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5476640/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5476640.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476640/aa0f98a7de91cfcae32930a22c5155b6e8deb8c9/header.jpg?t=1794429030",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
-    },
-    {
-      "title": "Forged: Reconquest",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3509080/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3509080.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509080/84fa918d78c87d65e94bbbb29eda0dc1ddb6f930/header.jpg?t=1794427833",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-11T23:23:02.868Z"
+      "checkedAt": "2026-11-12T01:42:53.265Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
