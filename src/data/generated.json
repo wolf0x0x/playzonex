@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T23:46:07.056Z",
+  "checkedAt": "2026-11-13T00:45:56.337Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,55 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794339680",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Bodycam",
@@ -1245,19 +1197,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/36264077393918f3945447eed3d6374cdf21e69a/header.jpg?t=1794250615",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
-      "title": "Steam Controller",
-      "price": "$99.00",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165870/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/4165870.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1791403210",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Slay the Spire 2",
@@ -1269,7 +1233,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Steam Controller",
+      "price": "$99.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165870/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165870.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165870/92216652a0db709183f802117b47323c3a249433/header.jpg?t=1791403210",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "One More Lawn",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg?t=1794516748",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Main Sequence",
@@ -1293,31 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/9f75d23dd877267e001e58afe082b7b3eaf53caa/header_alt_assets_1.jpg?t=1794507021",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Ski-E-O! Ski Resort Tycoon",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4493130/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4493130.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/0188d1a232e5ab2c906e136031e52da8486cbe77/header.jpg?t=1794506830",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "9 Kings",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2784470/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/2784470.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794518469",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "The Elder Scrolls V: Skyrim Special Edition",
@@ -1329,7 +1305,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "CelSector",
@@ -1341,7 +1317,31 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg?t=1794513521",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "9 Kings",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2784470/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/2784470.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794518469",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Ski-E-O! Ski Resort Tycoon",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4493130/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4493130.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/0188d1a232e5ab2c906e136031e52da8486cbe77/header.jpg?t=1794506830",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Casualties: Unknown",
@@ -1353,7 +1353,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "DREADMOOR",
@@ -1365,7 +1365,67 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Monster Girls of Another World: Pleasure Chronicle",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5289760/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5289760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289760/98fab6c40bbf9f7cc21700873a5c3b26c805a063/header.jpg?t=1794527422",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Nowhere to Land",
+      "price": "-40%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5428510/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5428510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5428510/b0100e060d44302ec64bb49443051f1b692e3285/header.jpg?t=1794525326",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Objecipher",
+      "price": "-35%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5182970/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5182970.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182970/232657f46455059edef1d649ede9ea965417aa94/header.jpg?t=1794524550",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Mask Splitters",
+      "price": "$2.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5226580/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5226580.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5226580/7af2959234f35eaf80ed1f69f51faa5320977138/header.jpg?t=1794524421",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
+    },
+    {
+      "title": "Lorenium Orbit",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4437290/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4437290.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437290/a6d315765a53913bd68141574091f2664de48fdc/header.jpg?t=1794524311",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Core Awakened",
@@ -1374,10 +1434,10 @@
       "url": "https://store.steampowered.com/app/5402730/",
       "list": "new",
       "image": "/assets/downloads/steam/5402730.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402730/b79d1507048eb006ac1db705380189115de72189/header.jpg?t=1794520894",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402730/b79d1507048eb006ac1db705380189115de72189/header.jpg?t=1794523251",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Under Tower Idle",
@@ -1389,7 +1449,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694530/16d368e06a80ddcd15d656088f3bfd4656e07bca/header.jpg?t=1794520755",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     },
     {
       "title": "Audio Motion Lab",
@@ -1401,67 +1461,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5503580/a57c18628694981c7421e25dd59e54405a127541/header.jpg?t=1794519257",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "DESIRO.",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5211040/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5211040.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211040/2dddcffe16141c9040929e84592361c54dfdb933/header.jpg?t=1794518484",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Detonator Squad",
-      "price": "-40%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5298430/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5298430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298430/002e5703ac55119107b862f6edb428c4dc2f3fb3/header.jpg?t=1794517988",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "牛丼店シミュレーター",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5462360/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5462360.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5462360/409435c744d6eb71a7ef6f2375a8520da0c18b3a/header.jpg?t=1794517655",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "Super Slime",
-      "price": "$19.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4606680/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4606680.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606680/9b1d96930c0b7cfa5e9269e271c756dc26bf693e/header.jpg?t=1794518744",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
-    },
-    {
-      "title": "The Witch",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4747930/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4747930.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747930/bc48c461037f8591c541debf23465c0d69f24209/header.jpg?t=1794517337",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-12T22:39:05.336Z"
+      "checkedAt": "2026-11-13T00:45:56.337Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "rawg"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
