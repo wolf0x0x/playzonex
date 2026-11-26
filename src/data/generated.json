@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T14:00:03.197Z",
+  "checkedAt": "2026-11-26T17:56:15.493Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1176,28 +1176,16 @@
   ],
   "steamDeals": [
     {
-      "title": "Steam Frame",
-      "price": "$1059.00",
+      "title": "Steam Machine",
+      "price": "$1049.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
+      "url": "https://store.steampowered.com/app/4165910/",
       "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
+      "image": "/assets/downloads/steam/4165910.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1794365408",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Steam Frame",
-      "price": "$1059.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165890/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4165890.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,19 +1197,67 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1794365408",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
-      "title": "Steam Machine",
-      "price": "$1049.00",
+      "title": "Steam Deck",
+      "price": "$399.00",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4165910/",
+      "url": "https://store.steampowered.com/app/1675200/",
       "list": "free",
-      "image": "/assets/downloads/steam/4165910.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1794365408",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Steam Frame",
+      "price": "$1059.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4165890/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4165890.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1624417/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1624417.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1624417/29c373e1dcc0ec591418f6c1cfad12626da6bfcb/header_ratio.jpg?t=1786550481",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1233,43 +1269,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer™",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4078430/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4078430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1293,7 +1293,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "007 First Light",
+      "price": "-50%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3768760/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/3768760.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "SILENT HILL f",
@@ -1305,7 +1317,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "STAR WARS: Galactic Racer™",
@@ -1317,19 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "007 First Light",
-      "price": "-50%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3768760/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/3768760.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1341,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
@@ -1353,7 +1353,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1412913/7a18bda5c6ec6a6a53a880ec4451349ab4da1bfe/header_ratio.jpg?t=1764007149",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
       "title": "Detroit: Become Human",
@@ -1365,103 +1365,103 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     },
     {
-      "title": "Azure Ruins",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5423300/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5423300.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423300/e47621716c70cb93ade7e52a22c827df183d5509/header.jpg?t=1795666709",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Prism Factory",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5114180/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5114180.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114180/2d23002ca285129b2a903debdf0fa62894ac73f3/header.jpg?t=1795662338",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "If There Is a God in This World.",
-      "price": "-15%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/2218330/",
-      "list": "new",
-      "image": "/assets/downloads/steam/2218330.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218330/74b2c0ffa4cb03eb7c72813b0caf16bbf2356127/header.jpg?t=1795662068",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Automotive Tycoon",
-      "price": "$19.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5165580/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5165580.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165580/0ee5df5088d043b068f0879685b8590c62fdfe71/header.jpg?t=1795661752",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Metal Naval Combat: Saturation Strike",
-      "price": "$9.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5418650/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5418650.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5418650/deed67788c5eeee5f5c19a99af4fbfd229f2e4cc/header.jpg?t=1795660539",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Star Imperium",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5284880/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5284880.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284880/3b6d2b69b38264f918b832bca675ae4c4ee1f87f/header.jpg?t=1795661111",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "360 HEXA WORLD",
-      "price": "Free",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/3308580/",
-      "list": "new",
-      "image": "/assets/downloads/steam/3308580.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3308580/d618cd20776bac3529de02d219fee55fd9d76da2/header.jpg?t=1795658638",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
-    },
-    {
-      "title": "Idle Demon Slayer",
+      "title": "Eyelord Returns",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5497040/",
+      "url": "https://store.steampowered.com/app/5446860/",
       "list": "new",
-      "image": "/assets/downloads/steam/5497040.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497040/717ff7e51885d80fd1cb46d3135f0eeef2d2ca07/header.jpg?t=1795655015",
+      "image": "/assets/downloads/steam/5446860.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446860/e2eb3458da4a4e8e4c1c57a70563809b1806c516/header.jpg?t=1795715308",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T05:41:43.563Z"
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "SJM - Ski Jumping Manager",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5497610/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5497610.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497610/be638191fb3b6dbd49583576e5852567dbb8c305/header.jpg?t=1795711733",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "These Eyes",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4364740/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4364740.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364740/6808fe58af304d7f54b3d9be8d8bca589a4c7ed3/header.jpg?t=1795711707",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "7 Shifts in Subway",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4947630/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4947630.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947630/36ee25920d6f7c1a37d390266de6add7aa90a614/header.jpg?t=1795711199",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Street Food Restaurant Owner",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4640550/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4640550.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640550/34338d073def332a01229b9ca0439d6b11369a71/header.jpg?t=1795711091",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Shiver Slopes",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5067510/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5067510.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067510/20871d163c940e10070db06796b73ea30f2ca951/header.jpg?t=1795711290",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Robot Basketball League",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4483090/",
+      "list": "new",
+      "image": "/assets/downloads/steam/4483090.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483090/b701fbd4e3b5a9db176be867e85111f9aba66ac0/header.jpg?t=1795710391",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
+    },
+    {
+      "title": "Dr Snipes Hockey VR",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/596070/",
+      "list": "new",
+      "image": "/assets/downloads/steam/596070.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596070/11e82fa4e65391fe18832eca87b295cc5263da43/header.jpg?t=1795709904",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T17:56:15.493Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "roblox"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
