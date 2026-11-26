@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T03:08:28.202Z",
+  "checkedAt": "2026-11-26T05:41:43.563Z",
   "games": {
     "2048": {
       "officialUrl": "https://play2048.co/",
@@ -1185,7 +1185,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Steam Frame",
@@ -1197,7 +1197,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg?t=1793923703",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Steam Machine",
@@ -1209,7 +1209,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1794365408",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Steam Machine",
@@ -1221,43 +1221,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165910/6e3f2fedcd1e7faa80fe3b5c349a62a73dde5d10/header.jpg?t=1794365408",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer™",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4078430/",
-      "list": "free",
-      "image": "/assets/downloads/steam/4078430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "Steam Deck",
-      "price": "$399.00",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/1675200/",
-      "list": "free",
-      "image": "/assets/downloads/steam/1675200.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Call of Duty®: Modern Warfare® 4",
@@ -1269,7 +1233,43 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4078430/",
+      "list": "free",
+      "image": "/assets/downloads/steam/4078430.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Steam Deck",
+      "price": "$399.00",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/1675200/",
+      "list": "free",
+      "image": "/assets/downloads/steam/1675200.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/4c51ecfd17183d45c466ad78f5fdb92920e6224d/header.jpg?t=1781214136",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Grand Theft Auto V Enhanced",
@@ -1281,7 +1281,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Red Dead Redemption 2",
@@ -1293,19 +1293,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer™",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4078430/",
-      "list": "deals",
-      "image": "/assets/downloads/steam/4078430.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "SILENT HILL f",
@@ -1317,7 +1305,19 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "price": "-20%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/4078430/",
+      "list": "deals",
+      "image": "/assets/downloads/steam/4078430.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1795526138",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "007 First Light",
@@ -1329,7 +1329,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "Baldur's Gate 3",
@@ -1341,7 +1341,7 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
       "title": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
@@ -1353,115 +1353,115 @@
       "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1412913/7a18bda5c6ec6a6a53a880ec4451349ab4da1bfe/header_ratio.jpg?t=1764007149",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
-      "title": "Dressmaker",
-      "price": "-20%",
+      "title": "Detroit: Become Human",
+      "price": "-90%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4019220/",
+      "url": "https://store.steampowered.com/app/1222140/",
       "list": "deals",
-      "image": "/assets/downloads/steam/4019220.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1794041965",
+      "image": "/assets/downloads/steam/1222140.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
-      "title": "Secret 3-Cushion Club",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5515050/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5515050.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515050/46a6a721b5433c34aa89f3c4047d69689308d6a4/header.jpg?t=1795651068",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "BroCode",
-      "price": "-10%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4554700/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4554700.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554700/7da779e70f549c9eaf4ca58c2fd313885c0ac29c/header.jpg?t=1795651004",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "Canvas Attack!",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4572620/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4572620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572620/cb8c0324161186ec6ea77e51adfee81e02736ae7/header.jpg?t=1795650994",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "SOS :Should I Stay or Should I Hit",
+      "title": "Azure Ruins",
       "price": "-15%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5136620/",
+      "url": "https://store.steampowered.com/app/5423300/",
       "list": "new",
-      "image": "/assets/downloads/steam/5136620.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136620/ba41f1c170bf7c8ac4687be396676ea386bf9750/header.jpg?t=1795644248",
+      "image": "/assets/downloads/steam/5423300.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423300/e47621716c70cb93ade7e52a22c827df183d5509/header.jpg?t=1795666709",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
-      "title": "SaboTour",
+      "title": "Prism Factory",
+      "price": "-10%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5114180/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5114180.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114180/2d23002ca285129b2a903debdf0fa62894ac73f3/header.jpg?t=1795662338",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "If There Is a God in This World.",
+      "price": "-15%",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/2218330/",
+      "list": "new",
+      "image": "/assets/downloads/steam/2218330.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218330/74b2c0ffa4cb03eb7c72813b0caf16bbf2356127/header.jpg?t=1795662068",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Automotive Tycoon",
+      "price": "$19.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5165580/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5165580.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165580/0ee5df5088d043b068f0879685b8590c62fdfe71/header.jpg?t=1795661752",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Metal Naval Combat: Saturation Strike",
+      "price": "$9.99",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/5418650/",
+      "list": "new",
+      "image": "/assets/downloads/steam/5418650.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5418650/deed67788c5eeee5f5c19a99af4fbfd229f2e4cc/header.jpg?t=1795660539",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Star Imperium",
       "price": "Free",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5070720/",
+      "url": "https://store.steampowered.com/app/5284880/",
       "list": "new",
-      "image": "/assets/downloads/steam/5070720.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070720/d3e77eabdfa71e71d8398e880cf7b739f9f0e16c/header.jpg?t=1795643440",
+      "image": "/assets/downloads/steam/5284880.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284880/3b6d2b69b38264f918b832bca675ae4c4ee1f87f/header.jpg?t=1795661111",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     },
     {
-      "title": "Witchkeeping",
+      "title": "360 HEXA WORLD",
+      "price": "Free",
+      "rating": "Steam listing",
+      "url": "https://store.steampowered.com/app/3308580/",
+      "list": "new",
+      "image": "/assets/downloads/steam/3308580.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3308580/d618cd20776bac3529de02d219fee55fd9d76da2/header.jpg?t=1795658638",
+      "history": [],
+      "source": "Steam Store featuredcategories",
+      "checkedAt": "2026-11-26T05:41:43.563Z"
+    },
+    {
+      "title": "Idle Demon Slayer",
       "price": "-20%",
       "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5169710/",
+      "url": "https://store.steampowered.com/app/5497040/",
       "list": "new",
-      "image": "/assets/downloads/steam/5169710.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/638f9ae9676d67e5a872ab0d44334e88616ddded/header.jpg?t=1795641404",
+      "image": "/assets/downloads/steam/5497040.jpg",
+      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497040/717ff7e51885d80fd1cb46d3135f0eeef2d2ca07/header.jpg?t=1795655015",
       "history": [],
       "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "Valkyrja",
-      "price": "-20%",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/4959410/",
-      "list": "new",
-      "image": "/assets/downloads/steam/4959410.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959410/3736e0606fd11fc56f29a0d141ba725131774423/header.jpg?t=1795640434",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
-    },
-    {
-      "title": "Destination & Acceleration",
-      "price": "$1.99",
-      "rating": "Steam listing",
-      "url": "https://store.steampowered.com/app/5551040/",
-      "list": "new",
-      "image": "/assets/downloads/steam/5551040.jpg",
-      "remoteImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551040/54dee82cc024c4e56038c7be256a0b556e38253e/header.jpg?t=1795639793",
-      "history": [],
-      "source": "Steam Store featuredcategories",
-      "checkedAt": "2026-11-26T00:52:15.585Z"
+      "checkedAt": "2026-11-26T05:41:43.563Z"
     }
   ],
   "robloxTrending": [
@@ -1819,7 +1819,7 @@
   "codes": [],
   "wordleHistory": [],
   "requestedModules": [
-    "minecraft"
+    "steam"
   ],
   "robloxState": "watchlist-no-public-api",
   "wordleState": "no-answer-republication",
